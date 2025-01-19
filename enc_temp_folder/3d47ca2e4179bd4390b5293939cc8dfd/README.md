@@ -1,2 +1,0 @@
-# Virtue
-Virtue Unreal Project
