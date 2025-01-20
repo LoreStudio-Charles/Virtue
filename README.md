@@ -194,92 +194,88 @@ love knows no bounds, my hope sublime.
 Navigate, Cartography, Sail, Swim
 
 ### The Lover
-I rode into town, my heart full of hope,  
-To find my true love, with dreams we could cope.  
-Yet shadows were cast, as danger drew near,  
-A man chased her down, igniting my fear.  
+I rode to town, heart full of hope,  
+and saw my love, my dream to cope.  
+Yet shadows cast, with danger near,  
+A man gave chase, and lit my fear.  
 
-I charged like the wind, with resolve in my veins,  
-To defend my sweet love from the perilous chains.  
-She ran to my side, with a spark in her eyes,  
-But fate played its hand, and we faced our goodbyes.  
+I charged like wind, fire in my veins,  
+To save my love from deadly chains.  
+She came to me, spark in her eyes,  
+fate played its hand, we faced goodbyes.  
 
-In the chaos, she faltered, a glint of despair,  
-Her light flickered dim, in the cool evening air.  
-With a last desperate gasp, our futures unfurled,  
-I was left, broken-hearted, in a cruel, lonely world.  
+Her faltering step caused me despair,  
+Her light grew dim, in evening air.  
+One last gasp, our future sealed,  
+left all alone, my hope repealed.  
 
-Though I fought through the storm, for the girl in my dreams,  
-I hold onto shadows, where love never gleams.  
-She was lost to the night, leaving me in the fight,  
-With the echo of heartache, my love lost from sight.  
 #### Starting Skills
 Dance, Sing, Horseback, Pugilist
 
 ### The Crushed Rose
-In yesterday's embrace, the world was aglow,  
-But today, a shadow drapes where light used to flow.  
-You ventured to town, supplies for mama to find,  
-Yet returned with a darkness that clings to your mind.  
+Yesterday, the world did glow,  
+shadow drapes, light used to flow.  
+My families goods I hoped to trade,  
+but darkness found, this broken maid.  
 
-Three men of the night stole more than just dreams,  
-Leaving you with rags and bruises, silent screams.  
-But the truth of that night, a secret you'll keep,  
-For mama's smile shatters, and papa can't sleep.  
+Three men of night stole more than dreams,  
+Left me with rags and silent screams.  
+But truth's a secret that I must keep,  
+mama's smile would die, and pa would weep.  
 
-In the depths of your sorrow, their cruelty remains,  
-A burden you carry, a weight of deep pains.  
-For love binds and blinds, in the heartache it shows,  
-A family's laughter, forever opposed.  
+My sorrow lives, cruelty remains,  
+A burden yes, a weight of pains.  
+For in the heart this ache will grow,  
+a burden none must ever know.  
 #### Starting Skills
 Dance, Sing, Charm, Trade
 
 ### The Ugly Maid
-In a world where beauty's grace is deemed the prize,  
-The ugly duckling hides, beneath the watchful skies.  
-Vanilla wafer seems pale, while rose brings you woe,  
-With creatures as friends, your love truly grows.  
+Beauty's grace is deemed the prize,  
+The duckling hides, 'neath watchful skies.  
+Your sister Sue, seems beautifully plain
+Your sister Rose, puts you to shame.
 
-With playful pets, the dogs and cats, you find a joyful song,  
-Among your father's gentle cows, where all the heartstrings throng.  
-And as you watch your mother's hens, in tender sunlight sway,  
-You cherish life's simple treasures, in a soft and honest way.  
+With dogs and cats, you share your song,  
+and father's cows, for which you long.  
+Dear mother's hens, in sunlight sway,  
+you cherish life where creature's play.  
 #### Starting Skills
 Tend Animal, Sing, Lute,  Perception
 
 ### The Oppressed
-In whispers soft, they warned you clear,  
-“Stay away from shadows, don't draw near.”  
+They always warned you, with words so clear  
+“Stay far from shadows, don't dare draw near.”  
 Yet in the dark, you dared to play,  
 And now your friend won't fade away.  
 
 Haunted nights stretch long and deep,  
-As waking visions pierce your sleep.  
+As visions chase away your sleep.  
 Shadows linger, thick as day,  
-With something close, it's here to stay.  
+a pitch black form, has come to stay.  
 
-Fear wraps tight, a chilling shroud,  
-As echoes rise from shadows loud.  
-In the silence, whispers blend,  
-A haunting tale that has no end.
+Fear grips you tight, a chilling touch,  
+the creeping dread, it is too much
+A silent, stalking, whispering, friend  
+A haunting tale that has to end.
 #### Starting Skills
 Sense Evil, Perception, Read, Hide
 
 ### Ms. Mary Sue Vanilla
-In the shadow of sisters, the youngest stays,  
-A whisper of longing in the quiet days.  
-With dreams left unspoken, and tales yet untold,  
-Life drifts like a breeze, serene and cold.  
+In sisters' shadows, the youngest stays,  
+In longing whispers, and quiet days.  
+dreams left unspoken, and tales untold,  
+Life passes on, serene and cold.  
 
-In a world full of colors, she feels painted gray,  
-An echo of silence where wishes decay.  
-Nothing of grandeur, no spark to ignite,  
-Just the quiet yearning for something that's bright.  
+A world full of color, she's painted gray,  
+An silent echoe her dreams decay.  
+Nothing grand, no spark to light,  
+she yearns for life that's beaming bright.  
 
-Yet in her stillness, a beauty may bloom,  
-In the heart of the mundane, hope finds room.  
-For even the plain can hold secrets so deep,  
-In the silence of shadows, where secrets can keep.
+In stillness soft, true love bloom,  
+In the mundane, hope may find room.  
+the plain can hold a peace so deep,  
+and strike a blaze of love to keep.
 #### Starting SKills
 Read, Sing, Tend Animals, Sneak
 
@@ -504,9 +500,9 @@ What is a young hero to do?
 Look for Mercy. Repent. Seek the Son. Love the Father.
 
 ### Multiplayer? Coop?
-Can we do it? Yes, maybe.
-Should we? I don't know.
-Would we like to? Yes, absolutely.
+Can we do it? Yes, of course.  
+Should we? Maybe? I don't know.  
+Would we like to? Yes, absolutely.  
 
 Ideally this will be a 1-4 player experience with shared storytelling. Each player will experience their own version of the story and their own encounters. Any players present for an encounter will all participate in that encounter. If the players split up and two discover `The Black Mine` and two discover `The Ghost Ship`, then only the players present will recieve rewards, face the trials, and experience the cinematic events that take place in their encounters.
 
@@ -520,8 +516,6 @@ Decision is up in the air, but for MVP it would be a distraction so tabled for n
 ### Synty primarily
 These are pretty, but also simple.
 Characters will be set based on background. Who you choose at the start never changes much. Maybe held items or possibly equipped bags or something?
-
-Mostly any changes aren't visible though, because its not necessary for this game and will save time. No mesh swapping.
 
 Icons will be simple SVG graphics. Most values will either be displayed at an Icon, Text, or combination. Not a lot of animation going on, beyond some glowing behind icons at extreme levels.
 
