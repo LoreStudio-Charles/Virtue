@@ -1,15 +1,14 @@
 # Virtue
-Virtue
-A game of heroic adventure, sacrifice, and loss.
+Virtue is a game of heroic adventure, sacrifice, and loss.
 To win, sometimes you must lose it all.
 
 ```
 Stare into a mirror, what do you see? 
-    Are you the man you would wish to be?
+    Are you the man that you would wish you could be?
 Others around you stare back and see, 
    only an image you've shown them to be.
 Above it all and high on His throne, looks down loving father. 
-   You were never alone.
+   You are never alone.
 ```
 
 ## Virtues
@@ -24,13 +23,13 @@ Trust in God and in His promises as made through Christ and the Scriptures by wh
 ### Humility
 The quality or condition of being humble; modest opinion or estimate of one's own importance, rank, etc. This virtue may be the most likely to deviate from True to Personal, as when one most thinks they are being humble is often when they are being the least humble.
 ### Justice
-Rightfulness or lawfulness, as of a claim or title; justness of ground or reason.
+Rightfulness or lawfulness in an active state of defense against the schemes of evil doers. Often a virtue accompanied by violence of action.
 ### Perseverence
 Continuance in a state of grace to the end, leading to eternal salvation.
 ### Temperance
-Pureness habitual moderation in the indulgence of a natural appetite or passion.
+Pureness and moderation in the indulgences of one's natural appetites or passions. Frequently related to abstinence from wanton lusts, gluttony, or drunkenness.
 ### Valor
-Boldness or determination in facing great danger, especially in battle; heroic courage; bravery: 
+Boldness or determination in facing great danger, especially in battle; heroic courage; bravery: Often associated with violence of action, but valor can also be tied to stillness in the face of danger. Standing patiently when everything within your soul screams that you should fight or run away.
 ### Worldwide (True Virtue)
 Worldwide or true virtue is known only by the omniscient creator Loving Father. Not even the character would know these values for certain, but this is a measure of how the character's actions have shaped the world around themselves.
 ### Audience (Percieved Virtue)
@@ -39,14 +38,40 @@ Audience or percieved virtue is a character in the eyes of some other non-player
 Person or internal virtue is the virtue how the character views himself. Are they ashamed of their past? Proud of what they have done? Do they believe that they are inherently good? Are they really?
 
 ## Encounters
-Virtues are tested by ENCOUNTERS. These may seem trivial to the player, but they are vital moments during which a character's virtues are exposed to the world around them. A player may see an encounter may be life or death, but in truth an encounter may be even more important. Even the most minor encounters may shape the character's ultimate fate.
-During an encounter a character may face tests, trials, and tribulations which pit their ability to survive and thrive against their virtues. These often force players into situations where they must choose between their virtues or making a sacrifice or loss. 
-### Tests
-A test is something that a character must overcome to progress. Tests most often require a character to use their skills to overcome and are the kind of encounter testing that is least likely to negatively impact a characters virtue. Often the only implications of a test are to the character's Personal Virtues, although this is not always the case.
-### Trials
-A trial is an event which will both test a character's skills and their virtues. Often trials require great sacrifice combined with skillful play in order to achieve the best results. There will often be shortcuts to make a Trial easier, but these shortcuts will imperil the World, Audience and possibly even Personal Virtues. The danger is that these often do not impact personal virtue, and so failing a character may believe they have succeeded.
-### Tribulations
-Tribulations are events which are meant to humble a character and often have no perceptable winning outcome. They often ravage the character's Personal Virtues, but just as often the greatest opportunites to raise World and Audience virtues.
+Virtues are tested by **encounters**. An encounter may seem trivial to the player, but even the most mundane encounter is a vital moment during which a character's virtues are exposed to the world around them. A player may see an encounter may be life or death, but in truth an encounter may be even more important. Even the most minor encounters may shape the character's ultimate fate.
+
+During an encounter a character may face obstacles. Obstacles are the tests, trials, and tribulations which expose them to risk of loss and test their virtues. These often force players into situations where they must choose between their virtues or making a sacrifice or loss. 
+### Obstacles
+Obstacles represent the moment of hardship when a character must overcome some difficulty or face an especially difficult loss. Obstacles come in three varieties, Tests, Trials, and Tribulations. These are described below.
+
+#### Tests
+A test is something that a character must overcome to progress the story.
+
+Tests most often require a character to use their skills to overcome some situation and are the kind of encounter testing that is least likely to negatively impact a characters virtue. Often the only implications of a test are to the character's Personal Virtues, although this is not always the case.
+
+#### Trials
+A trial is an event which will force a character to use a skill skill and also risk their virtues. 
+
+Often trials require great sacrifice combined with skillful play in order to achieve the best results. 
+
+There will often be shortcuts to make a Trial easier, but shortcuts may imperil the those around the character. They seem like the easy path, but may cause the greatest risk to harm of the character. The danger is that often a character may fail the test of some crucial virtue, and yet believe they have succeeded.
+#### Tribulations
+Tribulations are events which are meant to humble a character and present inevitable loss. You will suffer during a tribulation. 
+
+Tribulations often ravage the character's Personal Virtues, but just as often the greatest opportunites to raise World and Audience virtues.
+
+```
+Ex: 
+
+I have failed. I lost everything. Says the man who was robbed on the way to purchase goods.
+
+No my son, you just don't see that your sacrfice has saved us all. 
+
+The goods have been returned by authorities. 
+
+I would only have lost my son if you had tried to stop them.
+```
+
 #### Attributes of an Encounter
 #### Level
 The expected level an encounter will take place. Often the level of an encounter is tied to the region in which it takes place, but this is not always the case.
@@ -68,11 +93,18 @@ What possible rewards may come from completing this encounter? Are they conditio
 
 ## Attributes
 ### Might
+Ability to apply physical force. This includes raw physical strength, the nueral conditioning to active one's muscle, and knowledge of leverage to make application of force easier.
 ### Zeal
+Physical, mental, and spritual standing. Zeal goes beyond one's mere healthiness and includes factors such as how joyful one's life is and how in tune they are with their spiritual health.
 ### Finesse
+Fine motor control and the ability to coordinate ones actions. Finesse also includes the ability to control time under pressure and react in ways which provide more time for taking precise action during the moments when the risks are greatest.
 ### Allure
+Attractiveness and the ability to inspire those around the character. Beyond mere physical beauty, allure also include represents one's ability to win others over with a smile, a gentle touch, or a kind word.
 ### Insight
+Sight beyond the immediate circumstances. Insight is wisdom, but it is much more. It includes the patience to withold judgement and to consider all the options without making a rushed judgement.
 ### Brilliance
+Intellect and the abililty to apply ones raw knowledge in ways that bring the greatest benefit. Brilliance includes recall, knowledge of facts, but also the ability to apply knowledge to a specific sitation in a manner which brings powerful results.
+
 ## Secondary Attributes
 ### Hits
 Ability to take physical and spiritual punishment without dying.
@@ -87,53 +119,168 @@ Quickness to see and avoid the hidden blade or the flashing blaze.
 
 ## Backgrounds
 ### Goodson
-The youngest of the farm boys, you've always lived under the shadow of your brothers. Momma loves you, and papa always smiles.
-You try to do then proud, but feel small living in the shadows of your strong brothers adventures.
-How can you ever compare?
+In quiet fields where shadows lie,  
+The youngest farm boy watches sky.  
+Beneath the might of brothers bold,  
+His heart feels small, his dreams unfold.  
+
+Momma’s love, a gentle embrace,  
+Papa’s smiles, a warm, safe space.  
+Yet in their tales of strength and cheer,  
+He feels the weight of shadows near.  
+
+How can he match their grand forays?  
+In their bright light, he drifts and sways.  
+But in the silence, a spark ignites,  
+A whispered hope in starry nights.  
+
+For every seed of doubt he sows,  
+A quiet courage deep within grows.  
+Though overshadowed, his spirit will rise,  
+In his own way, beneath the skies.  
+
+#### Starting Skills
 Read, Sing, Perception, Tend Animals
 
 ### The Outlaw 
-The song Hung my Head by Johnny cash song will be the background for this story of loss. A loosed arrow kills a rider. The character has blood on their hands, and knows their guilt. Virtues start messed up for this one. Goal is to live up to Momma's belief of who you are. Prove her right. You're not who they think you are.
+In the forest deep, a hunter stands tall,  
+With strength in his heart and a promise to all.  
+Yet fate took a turn with a fateful flight,  
+An arrow gone astray, shattering the night.  
+
+A messenger fell, his journey cut short,  
+And shadows of guilt now silently contort.  
+Blood on my hands, I bear this heavy cost,  
+A heart once so vibrant is now deeply lost.  
+
+On the run, with sorrow, I flee from my name,  
+In the whispers of doubt, I’m engulfed in shame.  
+Oh, how can they see me, a murderer in guise?  
+When my soul is aflame with the truth and the lies.  
+
+Momma’s love in my spirit, a beacon so bright,  
+Guiding me home through the treacherous night.  
+I yearn to unveil the innocence within,  
+To show the world’s judgment is where I begin.  
+
+Alone in the shadows, I seek to restore,  
+The honor that lives behind my closed door.  
+For in the heart’s twilight, the truth holds its light,  
+And I am not what they claim in their fright.
+#### Starting Skills
 Knife, Bow, Hide, Sneak
 
 ### The Sailor
-When the yards broke off they said that I got killed, but I am living still. Gotta make my way back home and prove to my family that I am still around.
+Upon the waves, I sail with pride,  
+For my dear momma and papa, I abide.  
+From distant islands, goods I bring,  
+Through stormy seas, I hear their hearts sing.  
+
+But fate, is cruel. It's rage resounds  
+I plunged below waters in Deepen Sounds
+My family fears I’ve met my end,  
+Yet here on this isle, I softly defend.  
+
+With each breath, I yearn to convey,  
+That I am alive; I’m not swept away.  
+Oh, to whisper gently upon the breeze,  
+To let them know I roam these seas.  
+
+Though waters may rise and tempests may roar,  
+In quiet moments, my spirit soars.  
+I’ll find my way back; I’ll return in time,  
+For love knows no bounds, and hope is sublime.
+#### Starting Skills
 Navigate, Cartography, Sail, Swim
 
 ### The Lover
-I rode into town and saw my love. She was being chased by another man. I charged him down and I took a stand. She ran to me and we tried to flee, but I only left with a what remains of the girl who will never be my bride. She was riddled with blood and I was left with a heartache I'll never leave behind.
+I rode into town, my heart full of hope,  
+To find my true love, with dreams we could cope.  
+Yet shadows were cast, as danger drew near,  
+A man chased her down, igniting my fear.  
+
+I charged like the wind, with resolve in my veins,  
+To defend my sweet love from the perilous chains.  
+She ran to my side, with a spark in her eyes,  
+But fate played its hand, and we faced our goodbyes.  
+
+In the chaos, she faltered, a glint of despair,  
+Her light flickered dim, in the cool evening air.  
+With a last desperate gasp, our futures unfurled,  
+I was left, broken-hearted, in a cruel, lonely world.  
+
+Though I fought through the storm, for the girl in my dreams,  
+I hold onto shadows, where love never gleams.  
+She was lost to the night, leaving me in the fight,  
+With the echo of heartache, my love lost from sight.  
+#### Starting Skills
 Dance, Sing, Horseback, Pugilist
 
 ### The Crushed Rose
-Yesterday the world was beautiful, but today everything is black.
-You left to buy supplies for mamma in town, but now you're coming back.
-You lost it all to three men, and have nothing to show
-Except your torn clothes and bruises.
-But what they did to you, the family can't ever know.
-Mama would never smile again,
-Papas face would never show.
+In yesterday’s embrace, the world was aglow,  
+But today, a shadow drapes where light used to flow.  
+You ventured to town, supplies for mama to find,  
+Yet returned with a darkness that clings to your mind.  
+
+Three men of the night stole more than just dreams,  
+Leaving you with rags and bruises, silent screams.  
+But the truth of that night, a secret you’ll keep,  
+For mama’s smile shatters, and papa can’t sleep.  
+
+In the depths of your sorrow, their cruelty remains,  
+A burden you carry, a weight of deep pains.  
+For love binds and blinds, in the heartache it shows,  
+A family’s laughter, forever opposed.  
+#### Starting Skills
 Dance, Sing, Charm, Trade
 
 ### The Ugly Maid
-The ugly duckling of the daughters, you always feel a little lame.
-Vanilla wafer doesn't get you, rose makes you feel such shame.
-You tend to stick with the animals, with the dogs and cats you play.
-Tending to your papa's cows, and watching mama's chickens lay.
+In a world where beauty's grace is deemed the prize,  
+The ugly duckling hides, beneath the watchful skies.  
+Vanilla wafer seems pale, while rose brings you woe,  
+With creatures as friends, your love truly grows.  
+
+With playful pets, the dogs and cats, you find a joyful song,  
+Among your father's gentle cows, where all the heartstrings throng.  
+And as you watch your mother’s hens, in tender sunlight sway,  
+You cherish life’s simple treasures, in a soft and honest way.  
+#### Starting Skills
 Tend Animal, Sing, Lute,  Perception
 
 ### The Oppressed
-They told you not to do it.
-Told you games to never play.
-You whispered into darkness,
-But your friend won't go away.
-Nights have haunted you for weeks now,
-But now its coming in the day.
-Shadows surround you and something closing in to stay.
+In whispers soft, they warned you clear,  
+“Stay away from shadows, don’t draw near.”  
+Yet in the dark, you dared to play,  
+And now your friend won’t fade away.  
+
+Haunted nights stretch long and deep,  
+As waking visions pierce your sleep.  
+Shadows linger, thick as day,  
+With something close, it’s here to stay.  
+
+Fear wraps tight, a chilling shroud,  
+As echoes rise from shadows loud.  
+In the silence, whispers blend,  
+A haunting tale that has no end.
+#### Starting Skills
 Sense Evil, Perception, Read, Hide
 
 ### Ms. Mary Sue Vanilla
-Youngest of the daughters, nothing interesting has ever happened.
-You've done nothing. Seen nothing. You just feel so plain.
+In the shadow of sisters, the youngest stays,  
+A whisper of longing in the quiet days.  
+With dreams left unspoken, and tales yet untold,  
+Life drifts like a breeze, serene and cold.  
+
+In a world full of colors, she feels painted gray,  
+An echo of silence where wishes decay.  
+Nothing of grandeur, no spark to ignite,  
+Just the quiet yearning for something that's bright.  
+
+Yet in her stillness, a beauty may bloom,  
+In the heart of the mundane, hope finds room.  
+For even the plain can hold secrets so deep,  
+In the silence of shadows, where secrets can keep.
+#### Starting SKills
 Read, Sing, Tend Animals, Sneak
 
 ## Keys
