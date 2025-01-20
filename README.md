@@ -122,22 +122,22 @@ Quickness to see and avoid the hidden blade or the flashing blaze.
 In quiet fields where shadows lie,  
 The youngest farm boy watches sky.  
 Beneath the might of brothers bold,  
-His heart feels small, his dreams unfold.  
+He feels his tale will die untold.  
 
-Momma's love, a gentle embrace,  
+Momma's love and kind embrace,  
 Papa's smiles, a warm, safe space.  
-Yet in their tales of strength and cheer,  
-He feels the weight of shadows near.  
+Beneath the tales of strength and cheer,  
+he longs to conquer lonely fear.  
 
-How can he match their grand forays?  
-In their bright light, he drifts and sways.  
-But in the silence, a spark ignites,  
-A whispered hope in starry nights.  
+In shadow cast by brothers' lives, 
+he prays and hopes, as he  still strives
+to live the life which might atain  
+the sagas told in his brother's names.  
 
 For every seed of doubt he sows,  
-A quiet courage deep within grows.  
-Though overshadowed, his spirit will rise,  
-In his own way, beneath the skies.  
+A quiet courage within him grows.  
+His overshadowed spirits rise,  
+he dreams, beneath the azure skies.  
 
 #### Starting Skills
 Read, Sing, Perception, Tend Animals
