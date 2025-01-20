@@ -124,8 +124,8 @@ The youngest farm boy watches sky.
 Beneath the might of brothers bold,  
 His heart feels small, his dreams unfold.  
 
-Momma’s love, a gentle embrace,  
-Papa’s smiles, a warm, safe space.  
+Momma's love, a gentle embrace,  
+Papa's smiles, a warm, safe space.  
 Yet in their tales of strength and cheer,  
 He feels the weight of shadows near.  
 
@@ -154,18 +154,18 @@ Blood on my hands, I bear this heavy cost,
 A heart once so vibrant is now deeply lost.  
 
 On the run, with sorrow, I flee from my name,  
-In the whispers of doubt, I’m engulfed in shame.  
+In the whispers of doubt, I'm engulfed in shame.  
 Oh, how can they see me, a murderer in guise?  
 When my soul is aflame with the truth and the lies.  
 
-Momma’s love in my spirit, a beacon so bright,  
+Momma's love in my spirit, a beacon so bright,  
 Guiding me home through the treacherous night.  
 I yearn to unveil the innocence within,  
-To show the world’s judgment is where I begin.  
+To show the world's judgment is where I begin.  
 
 Alone in the shadows, I seek to restore,  
 The honor that lives behind my closed door.  
-For in the heart’s twilight, the truth holds its light,  
+For in the heart's twilight, the truth holds its light,  
 And I am not what they claim in their fright.
 #### Starting Skills
 Knife, Bow, Hide, Sneak
@@ -177,18 +177,18 @@ From distant islands, goods I bring,
 Through stormy seas, I hear their hearts sing.  
 
 But fate, is cruel. It's rage resounds  
-I plunged below waters in Deepen Sounds
-My family fears I’ve met my end,  
+I plunged below waters in Deepen Sounds  
+My family fears I've met my end,  
 Yet here on this isle, I softly defend.  
 
 With each breath, I yearn to convey,  
-That I am alive; I’m not swept away.  
+That I am alive; I'm not swept away.  
 Oh, to whisper gently upon the breeze,  
 To let them know I roam these seas.  
 
 Though waters may rise and tempests may roar,  
 In quiet moments, my spirit soars.  
-I’ll find my way back; I’ll return in time,  
+I'll find my way back; I'll return in time,  
 For love knows no bounds, and hope is sublime.
 #### Starting Skills
 Navigate, Cartography, Sail, Swim
@@ -217,20 +217,20 @@ With the echo of heartache, my love lost from sight.
 Dance, Sing, Horseback, Pugilist
 
 ### The Crushed Rose
-In yesterday’s embrace, the world was aglow,  
+In yesterday's embrace, the world was aglow,  
 But today, a shadow drapes where light used to flow.  
 You ventured to town, supplies for mama to find,  
 Yet returned with a darkness that clings to your mind.  
 
 Three men of the night stole more than just dreams,  
 Leaving you with rags and bruises, silent screams.  
-But the truth of that night, a secret you’ll keep,  
-For mama’s smile shatters, and papa can’t sleep.  
+But the truth of that night, a secret you'll keep,  
+For mama's smile shatters, and papa can't sleep.  
 
 In the depths of your sorrow, their cruelty remains,  
 A burden you carry, a weight of deep pains.  
 For love binds and blinds, in the heartache it shows,  
-A family’s laughter, forever opposed.  
+A family's laughter, forever opposed.  
 #### Starting Skills
 Dance, Sing, Charm, Trade
 
@@ -242,21 +242,21 @@ With creatures as friends, your love truly grows.
 
 With playful pets, the dogs and cats, you find a joyful song,  
 Among your father's gentle cows, where all the heartstrings throng.  
-And as you watch your mother’s hens, in tender sunlight sway,  
-You cherish life’s simple treasures, in a soft and honest way.  
+And as you watch your mother's hens, in tender sunlight sway,  
+You cherish life's simple treasures, in a soft and honest way.  
 #### Starting Skills
 Tend Animal, Sing, Lute,  Perception
 
 ### The Oppressed
 In whispers soft, they warned you clear,  
-“Stay away from shadows, don’t draw near.”  
+“Stay away from shadows, don't draw near.”  
 Yet in the dark, you dared to play,  
-And now your friend won’t fade away.  
+And now your friend won't fade away.  
 
 Haunted nights stretch long and deep,  
 As waking visions pierce your sleep.  
 Shadows linger, thick as day,  
-With something close, it’s here to stay.  
+With something close, it's here to stay.  
 
 Fear wraps tight, a chilling shroud,  
 As echoes rise from shadows loud.  
