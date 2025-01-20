@@ -129,8 +129,8 @@ Papa's smiles, a warm, safe space.
 Beneath the tales of strength and cheer,  
 he longs to conquer lonely fear.  
 
-In shadow cast by brothers' lives, 
-he prays and hopes, as he  still strives
+In shadow cast by brothers' lives,  
+he prays and hopes, as he  still strives  
 to live the life which might atain  
 the sagas told in his brother's names.  
 
@@ -145,51 +145,51 @@ Read, Sing, Perception, Tend Animals
 ### The Outlaw 
 In forest deep, stands hunter tall,  
 With strength of heart, a promise calls.  
-Yet fate took turn, a fateful flight,  
-An arrow astray, through shattered night.  
+His bowstring sings, and arrow flies  
+the missile strays, and clears the skies.  
 
-A messenger fell, his journey cut short,  
-And shadows of guilt now silently contort.  
-Blood on my hands, I bear this heavy cost,  
-A heart once so vibrant is now deeply lost.  
+Beyond the stag a messenger falls,   
+the guilt of blood, for justice calls.  
+it stains my hands, I bear this cost,  
+A heart so bold, now deeply lost.  
 
-On the run, with sorrow, I flee from my name,  
-In the whispers of doubt, I'm engulfed in shame.  
-Oh, how can they see me, a murderer in guise?  
-When my soul is aflame with the truth and the lies.  
+On the run, I flee my name,  
+rumors spread, as does my shame.  
+Oh, how I wish I could recall
+That missiles flight, it's deadly fall.  
 
-Momma's love in my spirit, a beacon so bright,  
-Guiding me home through the treacherous night.  
-I yearn to unveil the innocence within,  
-To show the world's judgment is where I begin.  
+My mother's love, a beacon bright,  
+Guides me home, through darkest night.  
+I yearn to clear this bloody stain,  
+hold momma close, and ease her pain.  
 
-Alone in the shadows, I seek to restore,  
-The honor that lives behind my closed door.  
-For in the heart's twilight, the truth holds its light,  
-And I am not what they claim in their fright.
+Alone I work to clear my name,  
+and find my way back home again.  
+The truth rise, it's imminent,  
+And prove my soul is innocent.
 #### Starting Skills
 Knife, Bow, Hide, Sneak
 
 ### The Sailor
 Upon the waves, I sail with pride,  
-For my dear momma and papa, I abide.  
-From distant islands, goods I bring,  
-Through stormy seas, I hear their hearts sing.  
+My family's love, I will abide.  
+From distant lands, these goods I bring,  
+Through stormy seas, their hearts still sing.  
 
-But fate, is cruel. It's rage resounds  
-I plunged below waters in Deepen Sounds  
-My family fears I've met my end,  
-Yet here on this isle, I softly defend.  
+Fate is cruel. It's rage resounds  
+I washed into the Deepen Sounds  
+My family fears that all is lost,  
+Yet on this isle, I have been tossed.
 
-With each breath, I yearn to convey,  
-That I am alive; I'm not swept away.  
-Oh, to whisper gently upon the breeze,  
-To let them know I roam these seas.  
+With every breath, I must convey,  
+I am alive; not swept away.  
+Oh, whisper gently upon the breeze,  
+let momma know I roam these seas.  
 
-Though waters may rise and tempests may roar,  
+Though waters rise and tempest roars,  
 In quiet moments, my spirit soars.  
-I'll find my way back; I'll return in time,  
-For love knows no bounds, and hope is sublime.
+I'll find my way back home in time,  
+love knows no bounds, my hope sublime.
 #### Starting Skills
 Navigate, Cartography, Sail, Swim
 
