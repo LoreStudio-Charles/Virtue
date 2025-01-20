@@ -143,10 +143,10 @@ In his own way, beneath the skies.
 Read, Sing, Perception, Tend Animals
 
 ### The Outlaw 
-In the forest deep, a hunter stands tall,  
-With strength in his heart and a promise to all.  
-Yet fate took a turn with a fateful flight,  
-An arrow gone astray, shattering the night.  
+In forest deep, stands hunter tall,  
+With strength of heart, a promise calls.  
+Yet fate took turn, a fateful flight,  
+An arrow astray, through shattered night.  
 
 A messenger fell, his journey cut short,  
 And shadows of guilt now silently contort.  
@@ -305,84 +305,119 @@ Values shown when a character examines an NPC in the world represent both how th
 Some ideas for representation of each virtue follow.
 Neutral values (-25 to 25)  will be a grey man.
 
-Charity
--75 Dark, cracked heart wreathed in red and orange flame that grows more fierce the lower the score. Begins to smoke at the lowest levels.
--25 Dark, cracked heart
-+25  White heart
-+75  White heart, blue aura, and golden light shining down. Grows more radiant at higher values.
+#### Charity
+| Value | Icon Idea |
+| --- | ---|
+|-75 | Dark, cracked heart wreathed in red and orange flame that grows more fierce the lower the score. Begins to smoke at the lowest levels.|
+|-25 | Dark, cracked heart |
+|+25 | White heart|
+|+75 | White heart, blue aura, and golden light shining down. Grows more radiant at higher values.|
 
-Faith
--75 Dark void more and more dark tendrils reach from the void the lower the score. Begins to smoke at the lowest levels.
--25 Dark void
-+25  White halo
-+75  White halo, blue aura, and golden light shining down. Grows more radiant at higher values.
+#### Faith
 
-Humility
--75 A black dragon spewing flame and smoke
--25  A black dragon
-+25 A lamb
-+75 A lamb wreathed in a blue aura with a golden halo
+| Value | Icon Idea |
+| --- | ---|
+|-75 |Dark void more and more dark tendrils reach from the void the lower the score. Begins to smoke at the lowest levels.  |
+|-25 |Dark void  |
+|+25  |White halo  |
+|+75  |White halo, blue aura, and golden light shining down. Grows more radiant at higher values.  |
 
-Justice
--75 A black hyena devouring prey covered in blood
--25 A black hyena
-+25 A lion
-+75 A lion wreathed in a blue aura and golden light
+#### Humility
 
-Perseverance
--75 A man kneeling in a corner stabbing himself with a sword
--25 A man kneeling in a corner weeping
-+25 A man standing and facing the right
-+75 A man standing, facing right with radiant light shining down
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A black dragon spewing flame and smoke  |
+|-25 |A black dragon  |
+|+25 |A lamb  |
+|+75 |A lamb wreathed in a blue aura with a golden halo  |
 
-Temperance
--75 Black pig with red eyes with flames. At lower levels smoke curls.
--25 Black pig with red eyes
-+25 White unicorn
-+75 White unicorn with a blue aura 
+#### Justice
 
-Valor
--75 A black wild eyed hare fleeing in flames
--25 A black wild eyed hare
-+25 A white eagle
-+75 A white eagle surrounded by radiant, golden light.
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A black hyena devouring prey covered in blood|
+|-25 |A black hyena|
+|+25 |A lion|
+|+75 |A lion wreathed in a blue aura and golden light|
 
+#### Perseverance
+
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A man kneeling in a corner stabbing himself with a sword|
+|-25 |A man kneeling in a corner weeping|
+|+25 |A man standing and facing the right|
+|+75 |A man standing, facing right with radiant light shining down|
+
+#### Temperance
+
+| Value | Icon Idea |
+| --- | ---|
+|-75 |Black pig with red eyes with flames. At lower levels smoke curls.|
+|-25 |Black pig with red eyes|
+|+25 |White unicorn|
+|+75 |White unicorn with a blue aura |
+
+#### Valor
+
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A black wild eyed hare fleeing in flames|
+|-25 |A black wild eyed hare|
+|+25 |A white eagle|
+|+75 |A white eagle surrounded by radiant, golden light.|
+
+### Skills 
 For skills the values range from 0 - 100
-As an example Navigation might display a compass on the skill tree if the character has a skill greater than 0.
-Beside the compass or in a tooltip could be the words:
-01  Novice
-25 Amateur
-50 Pilot
-75 Helmsman
-100 Navigator
 
-Similarly for Sail the tooltips might be
-01 Deckhand
-25 Sailor
-50 Mate
-75 First Mate
-100 Captain
+#### Navigation
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01  |Novice|
+|25 |Amateur|
+|50 |Pilot|
+|75 |Helmsman|
+|100 |Navigator|
 
-Pugilist
-01 Punk
-25 Brawler
-50 Boxer
-75 Trainer
-100 Master
+#### Sail
 
-Read
-01 Illiterate
-25 Functional
-50 Reader
-75 Scholar
-100 Teacher
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Deckhand|
+|25 |Sailor|
+|50 |Mate|
+|75 |First Mate|
+|100 |Captain|
 
-Knife
-01 Clumsy
-25 Shaky
-50 Adept
-75 Master
-100 Deadly
+#### Pugilist
+
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Punk|
+|25 |Brawler|
+|50 |Boxer|
+|75 |Trainer|
+|100 |Master|
+
+#### Read
+
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Illiterate|
+|25 |Functional|
+|50 |Reader|
+|75 |Scholar|
+|100 |Teacher|
+
+#### Knife
+
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Clumsy|
+|25 |Shaky|
+|50 |Adept|
+|75 |Master|
+|100 |Deadly| 
 
 ## A Few Encounter Ideas
 ### Justin's Arming Sword (key: Days 1-3)
