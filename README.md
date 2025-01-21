@@ -1,15 +1,14 @@
 # Virtue
-Virtue
-A game of heroic adventure, sacrifice, and loss.
+Virtue is a game of heroic adventure, sacrifice, and loss.
 To win, sometimes you must lose it all.
 
 ```
 Stare into a mirror, what do you see? 
-    Are you the man you would wish to be?
+    Are you the man that you would wish you could be?
 Others around you stare back and see, 
    only an image you've shown them to be.
 Above it all and high on His throne, looks down loving father. 
-   You were never alone.
+   You are never alone.
 ```
 
 ## Virtues
@@ -24,13 +23,13 @@ Trust in God and in His promises as made through Christ and the Scriptures by wh
 ### Humility
 The quality or condition of being humble; modest opinion or estimate of one's own importance, rank, etc. This virtue may be the most likely to deviate from True to Personal, as when one most thinks they are being humble is often when they are being the least humble.
 ### Justice
-Rightfulness or lawfulness, as of a claim or title; justness of ground or reason.
+Rightfulness or lawfulness in an active state of defense against the schemes of evil doers. Often a virtue accompanied by violence of action.
 ### Perseverence
 Continuance in a state of grace to the end, leading to eternal salvation.
 ### Temperance
-Pureness habitual moderation in the indulgence of a natural appetite or passion.
+Pureness and moderation in the indulgences of one's natural appetites or passions. Frequently related to abstinence from wanton lusts, gluttony, or drunkenness.
 ### Valor
-Boldness or determination in facing great danger, especially in battle; heroic courage; bravery: 
+Boldness or determination in facing great danger, especially in battle; heroic courage; bravery: Often associated with violence of action, but valor can also be tied to stillness in the face of danger. Standing patiently when everything within your soul screams that you should fight or run away.
 ### Worldwide (True Virtue)
 Worldwide or true virtue is known only by the omniscient creator Loving Father. Not even the character would know these values for certain, but this is a measure of how the character's actions have shaped the world around themselves.
 ### Audience (Percieved Virtue)
@@ -39,14 +38,40 @@ Audience or percieved virtue is a character in the eyes of some other non-player
 Person or internal virtue is the virtue how the character views himself. Are they ashamed of their past? Proud of what they have done? Do they believe that they are inherently good? Are they really?
 
 ## Encounters
-Virtues are tested by ENCOUNTERS. These may seem trivial to the player, but they are vital moments during which a character's virtues are exposed to the world around them. A player may see an encounter may be life or death, but in truth an encounter may be even more important. Even the most minor encounters may shape the character's ultimate fate.
-During an encounter a character may face tests, trials, and tribulations which pit their ability to survive and thrive against their virtues. These often force players into situations where they must choose between their virtues or making a sacrifice or loss. 
-### Tests
-A test is something that a character must overcome to progress. Tests most often require a character to use their skills to overcome and are the kind of encounter testing that is least likely to negatively impact a characters virtue. Often the only implications of a test are to the character's Personal Virtues, although this is not always the case.
-### Trials
-A trial is an event which will both test a character's skills and their virtues. Often trials require great sacrifice combined with skillful play in order to achieve the best results. There will often be shortcuts to make a Trial easier, but these shortcuts will imperil the World, Audience and possibly even Personal Virtues. The danger is that these often do not impact personal virtue, and so failing a character may believe they have succeeded.
-### Tribulations
-Tribulations are events which are meant to humble a character and often have no perceptable winning outcome. They often ravage the character's Personal Virtues, but just as often the greatest opportunites to raise World and Audience virtues.
+Virtues are tested by **encounters**. An encounter may seem trivial to the player, but even the most mundane encounter is a vital moment during which a character's virtues are exposed to the world around them. A player may see an encounter may be life or death, but in truth an encounter may be even more important. Even the most minor encounters may shape the character's ultimate fate.
+
+During an encounter a character may face obstacles. Obstacles are the tests, trials, and tribulations which expose them to risk of loss and test their virtues. These often force players into situations where they must choose between their virtues or making a sacrifice or loss. 
+### Obstacles
+Obstacles represent the moment of hardship when a character must overcome some difficulty or face an especially difficult loss. Obstacles come in three varieties, Tests, Trials, and Tribulations. These are described below.
+
+#### Tests
+A test is something that a character must overcome to progress the story.
+
+Tests most often require a character to use their skills to overcome some situation and are the kind of encounter testing that is least likely to negatively impact a characters virtue. Often the only implications of a test are to the character's Personal Virtues, although this is not always the case.
+
+#### Trials
+A trial is an event which will force a character to use a skill skill and also risk their virtues. 
+
+Often trials require great sacrifice combined with skillful play in order to achieve the best results. 
+
+There will often be shortcuts to make a Trial easier, but shortcuts may imperil the those around the character. They seem like the easy path, but may cause the greatest risk to harm of the character. The danger is that often a character may fail the test of some crucial virtue, and yet believe they have succeeded.
+#### Tribulations
+Tribulations are events which are meant to humble a character and present inevitable loss. You will suffer during a tribulation. 
+
+Tribulations often ravage the character's Personal Virtues, but just as often the greatest opportunites to raise World and Audience virtues.
+
+```
+Ex: 
+
+I have failed. I lost everything. Says the man who was robbed on the way to purchase goods.
+
+No my son, you just don't see that your sacrfice has saved us all. 
+
+The goods have been returned by authorities. 
+
+I would only have lost my son if you had tried to stop them.
+```
+
 #### Attributes of an Encounter
 #### Level
 The expected level an encounter will take place. Often the level of an encounter is tied to the region in which it takes place, but this is not always the case.
@@ -68,11 +93,18 @@ What possible rewards may come from completing this encounter? Are they conditio
 
 ## Attributes
 ### Might
+Ability to apply physical force. This includes raw physical strength, the nueral conditioning to active one's muscle, and knowledge of leverage to make application of force easier.
 ### Zeal
+Physical, mental, and spritual standing. Zeal goes beyond one's mere healthiness and includes factors such as how joyful one's life is and how in tune they are with their spiritual health.
 ### Finesse
+Fine motor control and the ability to coordinate ones actions. Finesse also includes the ability to control time under pressure and react in ways which provide more time for taking precise action during the moments when the risks are greatest.
 ### Allure
+Attractiveness and the ability to inspire those around the character. Beyond mere physical beauty, allure also include represents one's ability to win others over with a smile, a gentle touch, or a kind word.
 ### Insight
+Sight beyond the immediate circumstances. Insight is wisdom, but it is much more. It includes the patience to withold judgement and to consider all the options without making a rushed judgement.
 ### Brilliance
+Intellect and the abililty to apply ones raw knowledge in ways that bring the greatest benefit. Brilliance includes recall, knowledge of facts, but also the ability to apply knowledge to a specific sitation in a manner which brings powerful results.
+
 ## Secondary Attributes
 ### Hits
 Ability to take physical and spiritual punishment without dying.
@@ -87,53 +119,164 @@ Quickness to see and avoid the hidden blade or the flashing blaze.
 
 ## Backgrounds
 ### Goodson
-The youngest of the farm boys, you've always lived under the shadow of your brothers. Momma loves you, and papa always smiles.
-You try to do then proud, but feel small living in the shadows of your strong brothers adventures.
-How can you ever compare?
+In quiet fields where shadows lie,  
+The youngest farm boy watches sky.  
+Beneath the might of brothers bold,  
+He feels his tale will die untold.  
+
+Momma's love and kind embrace,  
+Papa's smiles, a warm, safe space.  
+Beneath the tales of strength and cheer,  
+he longs to conquer lonely fear.  
+
+In shadow cast by brothers' lives,  
+he prays and hopes, as he  still strives  
+to live the life which might atain  
+the sagas told in his brother's names.  
+
+For every seed of doubt he sows,  
+A quiet courage within him grows.  
+His overshadowed spirits rise,  
+he dreams, beneath the azure skies.  
+
+#### Starting Skills
 Read, Sing, Perception, Tend Animals
 
 ### The Outlaw 
-The song Hung my Head by Johnny cash song will be the background for this story of loss. A loosed arrow kills a rider. The character has blood on their hands, and knows their guilt. Virtues start messed up for this one. Goal is to live up to Momma's belief of who you are. Prove her right. You're not who they think you are.
+In forest deep, stands hunter tall,  
+With strength of heart, a promise calls.  
+His bowstring sings, and arrow flies  
+the missile strays, and clears the skies.  
+
+Beyond the stag a messenger falls,   
+the guilt of blood, for justice calls.  
+it stains my hands, I bear this cost,  
+A heart so bold, now deeply lost.  
+
+On the run, I flee my name,  
+rumors spread, as does my shame.  
+Oh, how I wish I could recall
+That missiles flight, it's deadly fall.  
+
+My mother's love, a beacon bright,  
+Guides me home, through darkest night.  
+I yearn to clear this bloody stain,  
+hold momma close, and ease her pain.  
+
+Alone I work to clear my name,  
+and find my way back home again.  
+The truth rise, it's imminent,  
+And prove my soul is innocent.
+#### Starting Skills
 Knife, Bow, Hide, Sneak
 
 ### The Sailor
-When the yards broke off they said that I got killed, but I am living still. Gotta make my way back home and prove to my family that I am still around.
+Upon the waves, I sail with pride,  
+My family's love, I will abide.  
+From distant lands, these goods I bring,  
+Through stormy seas, their hearts still sing.  
+
+Fate is cruel. It's rage resounds  
+I washed into the Deepen Sounds  
+My family fears that all is lost,  
+Yet on this isle, I have been tossed.
+
+With every breath, I must convey,  
+I am alive; not swept away.  
+Oh, whisper gently upon the breeze,  
+let momma know I roam these seas.  
+
+Though waters rise and tempest roars,  
+In quiet moments, my spirit soars.  
+I'll find my way back home in time,  
+love knows no bounds, my hope sublime.
+#### Starting Skills
 Navigate, Cartography, Sail, Swim
 
 ### The Lover
-I rode into town and saw my love. She was being chased by another man. I charged him down and I took a stand. She ran to me and we tried to flee, but I only left with a what remains of the girl who will never be my bride. She was riddled with blood and I was left with a heartache I'll never leave behind.
+I rode to town, heart full of hope,  
+and saw my love, my dream to cope.  
+Yet shadows cast, with danger near,  
+A man gave chase, and lit my fear.  
+
+I charged like wind, fire in my veins,  
+To save my love from deadly chains.  
+She came to me, spark in her eyes,  
+fate played its hand, we faced goodbyes.  
+
+Her faltering step caused me despair,  
+Her light grew dim, in evening air.  
+One last gasp, our future sealed,  
+left all alone, my hope repealed.  
+
+#### Starting Skills
 Dance, Sing, Horseback, Pugilist
 
 ### The Crushed Rose
-Yesterday the world was beautiful, but today everything is black.
-You left to buy supplies for mamma in town, but now you're coming back.
-You lost it all to three men, and have nothing to show
-Except your torn clothes and bruises.
-But what they did to you, the family can't ever know.
-Mama would never smile again,
-Papas face would never show.
+Yesterday, the world did glow,  
+shadow drapes, light used to flow.  
+My families goods I hoped to trade,  
+but darkness found, this broken maid.  
+
+Three men of night stole more than dreams,  
+Left me with rags and silent screams.  
+But truth's a secret that I must keep,  
+mama's smile would die, and pa would weep.  
+
+My sorrow lives, cruelty remains,  
+A burden yes, a weight of pains.  
+For in the heart this ache will grow,  
+a burden none must ever know.  
+#### Starting Skills
 Dance, Sing, Charm, Trade
 
 ### The Ugly Maid
-The ugly duckling of the daughters, you always feel a little lame.
-Vanilla wafer doesn't get you, rose makes you feel such shame.
-You tend to stick with the animals, with the dogs and cats you play.
-Tending to your papa's cows, and watching mama's chickens lay.
+Beauty's grace is deemed the prize,  
+The duckling hides, 'neath watchful skies.  
+Your sister Sue, seems beautifully plain
+Your sister Rose, puts you to shame.
+
+With dogs and cats, you share your song,  
+and father's cows, for which you long.  
+Dear mother's hens, in sunlight sway,  
+you cherish life where creature's play.  
+#### Starting Skills
 Tend Animal, Sing, Lute,  Perception
 
 ### The Oppressed
-They told you not to do it.
-Told you games to never play.
-You whispered into darkness,
-But your friend won't go away.
-Nights have haunted you for weeks now,
-But now its coming in the day.
-Shadows surround you and something closing in to stay.
+They always warned you, with words so clear  
+“Stay far from shadows, don't dare draw near.”  
+Yet in the dark, you dared to play,  
+And now your friend won't fade away.  
+
+Haunted nights stretch long and deep,  
+As visions chase away your sleep.  
+Shadows linger, thick as day,  
+a pitch black form, has come to stay.  
+
+Fear grips you tight, a chilling touch,  
+the creeping dread, it is too much
+A silent, stalking, whispering, friend  
+A haunting tale that has to end.
+#### Starting Skills
 Sense Evil, Perception, Read, Hide
 
 ### Ms. Mary Sue Vanilla
-Youngest of the daughters, nothing interesting has ever happened.
-You've done nothing. Seen nothing. You just feel so plain.
+In sisters' shadows, the youngest stays,  
+In longing whispers, and quiet days.  
+dreams left unspoken, and tales untold,  
+Life passes on, serene and cold.  
+
+A world full of color, she's painted gray,  
+An silent echoe her dreams decay.  
+Nothing grand, no spark to light,  
+she yearns for life that's beaming bright.  
+
+In stillness soft, true love bloom,  
+In the mundane, hope may find room.  
+the plain can hold a peace so deep,  
+and strike a blaze of love to keep.
+#### Starting SKills
 Read, Sing, Tend Animals, Sneak
 
 ## Keys
@@ -158,84 +301,119 @@ Values shown when a character examines an NPC in the world represent both how th
 Some ideas for representation of each virtue follow.
 Neutral values (-25 to 25)  will be a grey man.
 
-Charity
--75 Dark, cracked heart wreathed in red and orange flame that grows more fierce the lower the score. Begins to smoke at the lowest levels.
--25 Dark, cracked heart
-+25  White heart
-+75  White heart, blue aura, and golden light shining down. Grows more radiant at higher values.
+#### Charity
+| Value | Icon Idea |
+| --- | ---|
+|-75 | Dark, cracked heart wreathed in red and orange flame that grows more fierce the lower the score. Begins to smoke at the lowest levels.|
+|-25 | Dark, cracked heart |
+|+25 | White heart|
+|+75 | White heart, blue aura, and golden light shining down. Grows more radiant at higher values.|
 
-Faith
--75 Dark void more and more dark tendrils reach from the void the lower the score. Begins to smoke at the lowest levels.
--25 Dark void
-+25  White halo
-+75  White halo, blue aura, and golden light shining down. Grows more radiant at higher values.
+#### Faith
 
-Humility
--75 A black dragon spewing flame and smoke
--25  A black dragon
-+25 A lamb
-+75 A lamb wreathed in a blue aura with a golden halo
+| Value | Icon Idea |
+| --- | ---|
+|-75 |Dark void more and more dark tendrils reach from the void the lower the score. Begins to smoke at the lowest levels.  |
+|-25 |Dark void  |
+|+25  |White halo  |
+|+75  |White halo, blue aura, and golden light shining down. Grows more radiant at higher values.  |
 
-Justice
--75 A black hyena devouring prey covered in blood
--25 A black hyena
-+25 A lion
-+75 A lion wreathed in a blue aura and golden light
+#### Humility
 
-Perseverance
--75 A man kneeling in a corner stabbing himself with a sword
--25 A man kneeling in a corner weeping
-+25 A man standing and facing the right
-+75 A man standing, facing right with radiant light shining down
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A black dragon spewing flame and smoke  |
+|-25 |A black dragon  |
+|+25 |A lamb  |
+|+75 |A lamb wreathed in a blue aura with a golden halo  |
 
-Temperance
--75 Black pig with red eyes with flames. At lower levels smoke curls.
--25 Black pig with red eyes
-+25 White unicorn
-+75 White unicorn with a blue aura 
+#### Justice
 
-Valor
--75 A black wild eyed hare fleeing in flames
--25 A black wild eyed hare
-+25 A white eagle
-+75 A white eagle surrounded by radiant, golden light.
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A black hyena devouring prey covered in blood|
+|-25 |A black hyena|
+|+25 |A lion|
+|+75 |A lion wreathed in a blue aura and golden light|
 
+#### Perseverance
+
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A man kneeling in a corner stabbing himself with a sword|
+|-25 |A man kneeling in a corner weeping|
+|+25 |A man standing and facing the right|
+|+75 |A man standing, facing right with radiant light shining down|
+
+#### Temperance
+
+| Value | Icon Idea |
+| --- | ---|
+|-75 |Black pig with red eyes with flames. At lower levels smoke curls.|
+|-25 |Black pig with red eyes|
+|+25 |White unicorn|
+|+75 |White unicorn with a blue aura |
+
+#### Valor
+
+| Value | Icon Idea |
+| --- | ---|
+|-75 |A black wild eyed hare fleeing in flames|
+|-25 |A black wild eyed hare|
+|+25 |A white eagle|
+|+75 |A white eagle surrounded by radiant, golden light.|
+
+### Skills 
 For skills the values range from 0 - 100
-As an example Navigation might display a compass on the skill tree if the character has a skill greater than 0.
-Beside the compass or in a tooltip could be the words:
-01  Novice
-25 Amateur
-50 Pilot
-75 Helmsman
-100 Navigator
 
-Similarly for Sail the tooltips might be
-01 Deckhand
-25 Sailor
-50 Mate
-75 First Mate
-100 Captain
+#### Navigation
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01  |Novice|
+|25 |Amateur|
+|50 |Pilot|
+|75 |Helmsman|
+|100 |Navigator|
 
-Pugilist
-01 Punk
-25 Brawler
-50 Boxer
-75 Trainer
-100 Master
+#### Sail
 
-Read
-01 Illiterate
-25 Functional
-50 Reader
-75 Scholar
-100 Teacher
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Deckhand|
+|25 |Sailor|
+|50 |Mate|
+|75 |First Mate|
+|100 |Captain|
 
-Knife
-01 Clumsy
-25 Shaky
-50 Adept
-75 Master
-100 Deadly
+#### Pugilist
+
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Punk|
+|25 |Brawler|
+|50 |Boxer|
+|75 |Trainer|
+|100 |Master|
+
+#### Read
+
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Illiterate|
+|25 |Functional|
+|50 |Reader|
+|75 |Scholar|
+|100 |Teacher|
+
+#### Knife
+
+| Value | Title Shown on Character Sheet |
+| --- | ---|
+|01 |Clumsy|
+|25 |Shaky|
+|50 |Adept|
+|75 |Master|
+|100 |Deadly| 
 
 ## A Few Encounter Ideas
 ### Justin's Arming Sword (key: Days 1-3)
@@ -322,9 +500,9 @@ What is a young hero to do?
 Look for Mercy. Repent. Seek the Son. Love the Father.
 
 ### Multiplayer? Coop?
-Can we do it? Yes, maybe.
-Should we? I don't know.
-Would we like to? Yes, absolutely.
+Can we do it? Yes, of course.  
+Should we? Maybe? I don't know.  
+Would we like to? Yes, absolutely.  
 
 Ideally this will be a 1-4 player experience with shared storytelling. Each player will experience their own version of the story and their own encounters. Any players present for an encounter will all participate in that encounter. If the players split up and two discover `The Black Mine` and two discover `The Ghost Ship`, then only the players present will recieve rewards, face the trials, and experience the cinematic events that take place in their encounters.
 
@@ -338,8 +516,6 @@ Decision is up in the air, but for MVP it would be a distraction so tabled for n
 ### Synty primarily
 These are pretty, but also simple.
 Characters will be set based on background. Who you choose at the start never changes much. Maybe held items or possibly equipped bags or something?
-
-Mostly any changes aren't visible though, because its not necessary for this game and will save time. No mesh swapping.
 
 Icons will be simple SVG graphics. Most values will either be displayed at an Icon, Text, or combination. Not a lot of animation going on, beyond some glowing behind icons at extreme levels.
 
