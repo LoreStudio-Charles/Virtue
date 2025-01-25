@@ -140,7 +140,7 @@ His overshadowed spirits rise,
 he dreams, beneath the azure skies.  
 
 #### Starting Skills
-Read, Sing, Perception, Tend Animals
+Bookish, Gifted with a Voice, Good Eye, Loves Animals
 
 ### The Outlaw 
 In forest deep, stands hunter tall,  
