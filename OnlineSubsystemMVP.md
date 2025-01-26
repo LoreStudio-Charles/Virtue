@@ -59,7 +59,7 @@ The identity service will require coordination with the User Interface for some 
 For example the login contract *might* be defined as:
 
 ***Login Contract***
-```json
+```js
 UserAuthRequest: { 
   username: string,
   password: string
