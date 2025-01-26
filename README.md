@@ -626,7 +626,7 @@ A trade focused on capturing advice that can later be recalled for short term bu
 |25|is about as interesting as an afternoon nap|
 |50|can tell a good story|
 |75|could rally the troops with a yarn|
-|100|his tales inspire you to move mountains|
+|100|has tales that inspire you to move mountains|
 
 ## A Few Encounter Ideas
 ### Justin's Arming Sword (key: Days 1-3)
