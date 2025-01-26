@@ -31,6 +31,11 @@ We just can't swallow the elephant in one bite. For Virtue we will determine the
 
 ## Guide to implementing interfaces
 
+### Order of implementation
+| Priority | Interface |
+| :---: | :--- |
+| 1 | Identity |
+
 ### Achiements
 Coming soon...
 
@@ -90,4 +95,4 @@ After logging out, this will trigger anything related to the UI that will indica
 This allows us to add a listener to the list of ***OnAuthAboutToExpireDelegates*** that will be called when a player's auth token is about to expire.
 
 ##### Login
-Note: The documentation lists AccountCredentials as a type. The closes I could find in the docs is this struct [FOnlineAccountCredentials](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/OnlineSubsystem/Interfaces/FOnlineAccountCredentials?application_version=5.5).
+Note: The documentation lists AccountCredentials as a type. The closest I could find in the docs is this struct [FOnlineAccountCredentials](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/OnlineSubsystem/Interfaces/FOnlineAccountCredentials?application_version=5.5).
