@@ -372,261 +372,261 @@ The following is a list of known skills in Virtue. This list is not meant to be 
 This skill indicates how capable someone can read.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |Illiterate|
-|25 |Functional|
-|50 |Reader|
-|75 |Scholar|
-|100 |Teacher|
+|01 |is illiterate|
+|25 |can barely read|
+|50 |is quite the reader|
+|75 |is a scholar|
+|100 |could be a teacher|
 
 #### Bouncy
 This skill indicates how well a character can jump or leap.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|is like a sack of 'taters|
+|25|hops like a cricket|
+|50|is spry as a jackrabbit|
+|75|leaps like a frog|
+|100|could clear the moon| 
 
 #### Charming
 This skill indicates how well a character can influence others in negotiations.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |Can be embarrassing|
-|25 |Has a decent smile|
-|50 |Knows how to talk to people|
-|75 |Has a way with words|
-|100 |Is quite the charmer| 
+|01 |can be embarrassing|
+|25 |has a decent smile|
+|50 |knows how to talk to people|
+|75 |has a way with words|
+|100 |is quite the charmer| 
 
 #### Gifted with a/an [Instrument]
 This skill indicates how well a character can play a specific instrument.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|plays like a cat walking on a/an [Instrument]|
+|25|can't find the note if you put it in their hand|
+|50|can play a tune|
+|75|makes beautiful music|
+|100|plays like a maestro| 
 
 #### Gifted with a Voice
 This skill indicates how well a character can sing.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|makes the dogs howl|
+|25|can't carry a tune in a bucket|
+|50|sure can sing|
+|75|has a lovely voice|
+|100|could charm the angels with a song| 
 
 #### Good Eye
 This skill indicates how perceptive a character is.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|is blind as a bat|
+|25|would miss a copper coin on a sunny day|
+|50|has a pretty good eye|
+|75|could find a needle in a haystack|
+|100|has the eyes of an eagle| 
 
 #### Graceful
 This skill indicates how well someone can dance.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |Two left feet|
-|25 |Can't dance|
-|50 |Loves dancing|
-|75 |Is very graceful|
-|100 |Makes people swoon|
+|01 |has two left feet|
+|25 |can't dance|
+|50 |sure loves dancing|
+|75 |is very graceful|
+|100 |makes people swoon|
 
 #### Green Thumb
 This skill indicates how well someone can tend a garden
 |Value|Title Shown on Character Sheet|
 |---| ---|
-|01 |Could kill a cactus|
-|25 |Can't keep a garden|
-|50 |Loves to farm|
-|75 |Is a great gardener|
-|100 |Has a green thumb|
+|01 |could kill a cactus|
+|25 |can't keep a garden|
+|50 |loves to farm|
+|75 |is a great gardener|
+|100 |has a green thumb|
 
 #### Haggler
 This skill indicates how well a character can negotiate a price when making a purchase.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|was sold a bill of goods|
+|25|would sell a farm for a slice of bread|
+|50|knows how to strike a deal|
+|75|could sell ice in a snowstorm|
+|100|is a silver tongued devil| 
 
 #### Handy with an Axe
 This skill indicates how capable someone is when using an axe as a weapon.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01 |clumsy with an axe|
+|25 |shaky with an axe|
+|50 |adept with an axe|
+|75 |master with an axe|
+|100 |deadly with an axe| 
 
 #### Handy with a Sword
 This skill indicates how capable someone is when using a sword as a weapon.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01 |clumsy with a sword|
+|25 |shaky with a sword|
+|50 |adept with a sword|
+|75 |master with a sword|
+|100 |deadly with a sword| 
 
 #### Handy with a Knife
 This skill indicates how capable someone is when using a knife as a weapon.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |Clumsy with a Knife|
-|25 |Shaky with a Knife|
-|50 |Adept with a Knife|
-|75 |Master with a Knife|
-|100 |Deadly with a Knife| 
+|01 |clumsy with a knife|
+|25 |shaky with a knife|
+|50 |adept with a knife|
+|75 |master with a knife|
+|100 |deadly with a knife| 
 
 #### Handy with a Polearm
 This skill indicates how capable someone is when using a polearm as a weapon.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01 |clumsy with a polearm|
+|25 |shaky with a polearm|
+|50 |adept with a polearm|
+|75 |master with a polearm|
+|100 |deadly with a polearm|
 
 #### Lay Low
 This skill indicates how well someone can hide things, including themselves and other people. Laying low assumes a static hiding spot, whereas Prowler involves sneaking around hidden. Generally laying low is more reliable, less likely to create sound, and can be used to hide anything or anyone.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100||
+|01|couldn't win hide & seek with a blindfolded toddler|
+|25|sticks out like a sore thumb|
+|50|knows how to hide|
+|75|is like a chameleon|
+|100|can hide in plain sight|
 
 #### Loves Animals
 This skill indicates how well someone can take care of animals, how easy it is to notice an animal's stress, and how well they can calm an animal.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||What 
-|100|| 
+|01|could kill a pet rock|
+|25|couldn't fill a trough with water|
+|50|loves to care for animals|
+|75|has a way with animals|
+|100|could save a dying bird with a song| 
 
 #### Momology
 This tradeskill mixes herbalism, chemistry, and psychology to comfort suffering. A momologist might apply a poultice, but increase its efficiency by telling the patient a story or complementing them.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|salts the wound|
+|25|isn't very soothing|
+|50|has a gentle touch|
+|75|will make it all better|
+|100|gives the best hugs| 
 
 #### Mapper
 This skill indicates how well versed a character is when traveling of capturing a mental map of their explorations and later recalling and recording this information on a map.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |Gets people lost|
-|25 |Gives Poor Directions|
-|50 |Gets people there|
-|75 |Can draw a map|
-|100 |Draws beautiful maps| 
+|01 |gets people lost|
+|25 |gives poor directions|
+|50 |gets people there|
+|75 |sure can draw a map|
+|100 |draws the most beautiful maps| 
 
 #### Prowler
 This skill indicates how well a character can navigate around enemies without being noticed through a combination of hiding in shadows, staying out of sight, and moving very silently.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|is as loud as thunder|
+|25|stomps around like a bear|
+|50|can move quietly|
+|75|is as quiet as a mouse|
+|100|moves like a whisper in the wind| 
 
 #### Rider
 This skill indicates ones ability to steer a mount, and at higher levels includes the ability to control a mount during combat.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|couldn't ride a rocking horse|
+|25|doesn't know how to hold the reins|
+|50|can ride well|
+|75|was born in the saddle|
+|100|could ride a wild bronco bare back| 
 
 #### Riverrat
 This skill indicates how well someone can swim, how well they can tread water when exhausted, how long they can stay afloat in deep waters, and how long they can hold their breath when underwater.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|sinks like a stone|
+|25|swims like an angry cat|
+|50|knows how to swim|
+|75|is like a duck in the water|
+|100|takes to water like a fish| 
 
 #### Rover
 This skill indicates how well versed someone is in the skill of navigation over long distances.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01  |Novice|
-|25 |Amateur|
-|50 |Pilot|
-|75 |Helmsman|
-|100 |Navigator|
+|01  |gets lost in their own back yard|
+|25 |couldn't find their way to the door|
+|50 |knows their way around|
+|75 |never gets lost|
+|100 |could guide you through a sandstorm in the desert|
 
 #### Scrambler
 This skill indicates how well someone is able to climb surfaces.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01|Is not a climber|
-|25|Is a weak climber|
-|50|Is a rambler|
-|75|Is a mountaineer|
-|100|Is a bomber|
+|01|is not a climber|
+|25|is a weak climber|
+|50|is a rambler|
+|75|is a mountaineer|
+|100|is a bomber|
 
 #### Scrapper
 This skill indicates how well someone can fight when unarmed using striking blows.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |Is harmless|
-|25 |Is a brawler|
-|50 |Is a boxer|
-|75 |Is a trainer|
-|100 |Is a master|
+|01 |is soft as a pillow|
+|25 |is harmless|
+|50 |is a decent boxer|
+|75 |could be a trainer|
+|100 |has a deadly hook|
 
 #### Superstitious
 This skill indicates how well someone can tell when an evil presence draws near, especially when that presence seeks to do harm.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01||
-|25||
-|50||
-|75||
-|100|| 
+|01|walks under ladders and whistles a tune|
+|25|isn't afraid to break a mirror|
+|50|has some good sense|
+|75|carries a lucky rabbit's foot|
+|100|knows all the old wive's tales| 
 
 #### Swabby
 This skill indicates how well someone can sail a ship.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |Deckhand|
-|25 |Sailor|
-|50 |Mate|
-|75 |First Mate|
-|100 |Captain|
+|01 |is a poor deckhand|
+|25 |isn't much of a sailor|
+|50 |knows how to sail|
+|75 |would make a great first mate|
+|100 |deserves to be a captain|
 
 #### Uphill Both Ways
 A trade focused on capturing advice that can later be recalled for short term buffs to virtues or skill checks. At higher levels one can grant these buffs simply by sternly looking at a target.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01||
-|25||
-|50||
-|75||
-|100||
+|01|couldn't light a fire under a scarecrow full of straw|
+|25|is about as interesting as an afternoon nap|
+|50|can tell a good story|
+|75|could rally the troops with a yarn|
+|100|his tales inspire you to move mountains|
 
 ## A Few Encounter Ideas
 ### Justin's Arming Sword (key: Days 1-3)
