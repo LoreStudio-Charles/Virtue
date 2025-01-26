@@ -24,5 +24,4 @@ void AVirtueGameMode::StartPlay()
                SNew(SWeakWidget).PossiblyNullContent(MainMenuWidget.ToSharedRef())
           );
      }
-
 }
