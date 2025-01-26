@@ -462,41 +462,41 @@ This skill indicates how well a character can negotiate a price when making a pu
 This skill indicates how capable someone is when using an axe as a weapon.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01 |clumsy with an axe|
-|25 |shaky with an axe|
-|50 |adept with an axe|
-|75 |master with an axe|
-|100 |deadly with an axe| 
+|01 |is clumsy with an axe|
+|25 |is shaky with an axe|
+|50 |is adept with an axe|
+|75 |is master with an axe|
+|100 |is deadly with an axe| 
 
 #### Handy with a Sword
 This skill indicates how capable someone is when using a sword as a weapon.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01 |clumsy with a sword|
-|25 |shaky with a sword|
-|50 |adept with a sword|
-|75 |master with a sword|
-|100 |deadly with a sword| 
+|01 |is clumsy with a sword|
+|25 |is shaky with a sword|
+|50 |is adept with a sword|
+|75 |is master with a sword|
+|100 |is deadly with a sword| 
 
 #### Handy with a Knife
 This skill indicates how capable someone is when using a knife as a weapon.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01 |clumsy with a knife|
-|25 |shaky with a knife|
-|50 |adept with a knife|
-|75 |master with a knife|
-|100 |deadly with a knife| 
+|01 |is clumsy with a knife|
+|25 |is shaky with a knife|
+|50 |is adept with a knife|
+|75 |is master with a knife|
+|100 |is deadly with a knife| 
 
 #### Handy with a Polearm
 This skill indicates how capable someone is when using a polearm as a weapon.
 |Value|Title Shown on Character Sheet|
 |---|---|
-|01 |clumsy with a polearm|
-|25 |shaky with a polearm|
-|50 |adept with a polearm|
-|75 |master with a polearm|
-|100 |deadly with a polearm|
+|01 |is clumsy with a polearm|
+|25 |is shaky with a polearm|
+|50 |is adept with a polearm|
+|75 |is master with a polearm|
+|100 |is deadly with a polearm|
 
 #### Lay Low
 This skill indicates how well someone can hide things, including themselves and other people. Laying low assumes a static hiding spot, whereas Prowler involves sneaking around hidden. Generally laying low is more reliable, less likely to create sound, and can be used to hide anything or anyone.
@@ -556,7 +556,7 @@ This skill indicates ones ability to steer a mount, and at higher levels include
 |25|doesn't know how to hold the reins|
 |50|can ride well|
 |75|was born in the saddle|
-|100|could ride a wild bronco bare back| 
+|100|could ride a whirlwind bare back| 
 
 #### Riverrat
 This skill indicates how well someone can swim, how well they can tread water when exhausted, how long they can stay afloat in deep waters, and how long they can hold their breath when underwater.
@@ -582,11 +582,11 @@ This skill indicates how well versed someone is in the skill of navigation over 
 This skill indicates how well someone is able to climb surfaces.
 | Value | Title Shown on Character Sheet |
 | --- | ---|
-|01|is not a climber|
-|25|is a weak climber|
-|50|is a rambler|
-|75|is a mountaineer|
-|100|is a bomber|
+|01|couldn't climb a ladder|
+|25|keeps his feet on the ground|
+|50|climbs like a cat|
+|75|is like a squirrel in a tree|
+|100|is as surefooted as a billy goat|
 
 #### Scrapper
 This skill indicates how well someone can fight when unarmed using striking blows.
