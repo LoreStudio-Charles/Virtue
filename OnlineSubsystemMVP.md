@@ -22,3 +22,72 @@ The following table lists the interfaces which we must support in order to suppo
 
 <sup>1</sup> These may not be a priority for MVP, but we should discuss what we desire here as a team.
 <sup>2</sup> It seems likely that we may choose instead to do this in game, but this is a team decision. We may also go the Blizzard route and do both in game and in service level friends.
+
+### This is Only for MVP
+There is so much more that we will want to add as we develop our own Online Service. We are basically building Steam, Epic Online, or BattleNet from the ground up. Anything that these services present is possible. (Stores, achievements, online character viewer, databases, etc.)
+
+We just can't swallow the elephant in one bite. For Virtue we will determine the minimum set of items we want to support and build that.
+
+
+## Guide to implementing interfaces
+
+### Achiements
+Coming soon...
+
+### Chat
+Coming soon...
+
+### External UI
+Coming soon...
+
+### Friends
+Coming soon...
+
+### Game Activity
+Coming soon...
+
+### Groups
+Coming soon...
+
+### Identity
+The identity allows us to authenticate players and ensure that players are required to have an account with our online service to play the game.
+
+This is a large interface, but we may not require everything available.
+
+The identity service will require coordination with the User Interface for some aspects, such as collecting username and passwords during login. Contracts should be defined as we discover our needs.
+
+For example the login contract *might* be defined as:
+
+***Login Contract***
+```json
+UserAuthRequest: { 
+  username: string,
+  password: string
+}
+UserAuthResult: {
+	isSuccessful: bool,
+	auth_token: string,
+	refresh_token: string
+}
+```
+
+#### Delegates
+##### OnAuthAboutToExpireDelegates
+This will be called whenever a user's auth token will expire. This should trigger a request to the identity server with the user's refresh token. If the refresh token is valid, then we return a new auth token.
+
+If the refresh token is expired or invalid we need to prompt the player that they must reauthenticate to continue playing and allow them a limited time to reach safety and reauthenticate.
+
+##### OnLoginChangedDelegates
+When a player logs in we should get information about their characters available and store that information somewhere in the client so they can make use of it.
+When a player logs out, we should make sure we clean up any data related to that player and close any open connections. This would include leaving any open game sessions gracefully.
+
+##### OnLoginCompleteDelegates
+After logging in this will trigger anything related to the UI that will indicate to the player that they are ready to select a character.
+After logging out, this will trigger anything related to the UI that will indicate that the player can login.
+
+#### Functions
+##### AddOnAuthAboutToExpireDelegate_Handle
+This allows us to add a listener to the list of ***OnAuthAboutToExpireDelegates*** that will be called when a player's auth token is about to expire.
+
+##### Login
+Note: The documentation lists AccountCredentials as a type. The closes I could find in the docs is this struct [FOnlineAccountCredentials](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/OnlineSubsystem/Interfaces/FOnlineAccountCredentials?application_version=5.5).
