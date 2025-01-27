@@ -2,6 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
+#include "SMainMenuWidget.h"
 #include "VirtueGameMode.generated.h"
 
 UCLASS()
@@ -13,4 +14,9 @@ public:
      AVirtueGameMode();
 
      virtual void StartPlay() override;
+
+protected:
+     // Declare the OnStartGame method
+     void OnStartGame();
+     TSharedPtr<SMainMenuWidget> MyWidget;
 };
