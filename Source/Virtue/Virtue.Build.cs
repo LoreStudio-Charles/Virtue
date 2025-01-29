@@ -13,7 +13,8 @@ public class Virtue : ModuleRules
 			"CoreUObject", 
 			"Engine",
                "EnhancedInput",
-               "InputCore"
+               "InputCore",
+			"UMG"
 		});
 
 		// Uncomment if you are using Slate UI

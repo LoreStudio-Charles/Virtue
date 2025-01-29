@@ -11,8 +11,14 @@
 			"AdditionalDependencies": [
 				"Engine",
 				"Slate",
-				"SlateCore"
+				"SlateCore",
+				"UMG"
 			]
+		},
+		{
+			"Name": "UMG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
