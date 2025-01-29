@@ -4,7 +4,7 @@
 
 AVirtueHUD::AVirtueHUD()
 {
-     static ConstructorHelpers::FClassFinder<UUserWidget> MenuBP(TEXT("/Game/UI_Menu/BP_MainMenu.BP_MainMenu_C"));
+     static ConstructorHelpers::FClassFinder<UUserWidget> MenuBP(TEXT("/Game/UI_Menu/WBP_MainMenu.WBP_MainMenu_C"));
      if (MenuBP.Succeeded())
      {
           MainMenuClass = MenuBP.Class;
