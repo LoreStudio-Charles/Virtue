@@ -11,8 +11,7 @@
 			"AdditionalDependencies": [
 				"Engine",
 				"Slate",
-				"SlateCore",
-				"UMG"
+				"SlateCore"
 			]
 		},
 		{
