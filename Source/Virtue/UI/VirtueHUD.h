@@ -20,9 +20,10 @@ public:
      void ShowOptionsMenu();
 
 protected:
-     /** Menu UMG widget class */
+     /** Menu UMG widget classes */
      UPROPERTY(EditDefaultsOnly, Category = "UI")
      TSubclassOf<UUserWidget> BaseMenuClass;
+     TSubclassOf<UUserWidget> MenuItemClass;
 
 private:
      /** Pointer to the current menu widget */
