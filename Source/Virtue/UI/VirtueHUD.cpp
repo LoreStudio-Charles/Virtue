@@ -4,36 +4,52 @@
 
 AVirtueHUD::AVirtueHUD()
 {
-     static ConstructorHelpers::FClassFinder<UUserWidget> MenuBP(TEXT("/Game/UI_Menu/WBP_MainMenu.WBP_MainMenu_C"));
+     static ConstructorHelpers::FClassFinder<UUserWidget> MenuBP(TEXT("/Game/UI_Menu/BP_BaseMenu.BP_BaseMenu_C"));
+
+ 
      if (MenuBP.Succeeded())
      {
-          MainMenuClass = MenuBP.Class;
+          BaseMenuClass = MenuBP.Class;
      }
 }
 
 void AVirtueHUD::BeginPlay()
 {
      Super::BeginPlay();
-     ShowMainMenu();
+     UE_LOG(LogTemp, Warning, TEXT("AVirtueHUD::BeginPlay() called"));
+
+     FString CurrentLevelName = UGameplayStatics::GetCurrentLevelName(this, false);
+     CurrentLevelName.RemoveFromStart(TEXT("UEDPIE_0_"));  // This is funny, could not figure out why 'MainMenuLevel' would not work.  Turns out when you play in editor mode, it throws UEDPIE_O prefix to indicate that
+     UE_LOG(LogTemp, Warning, TEXT("Level Name %s"), *CurrentLevelName); // you are running the U(nreal) E(ngine) D(eveloper) P(lay) I(n) E(ditor) on instance 0, hence, UEDPIE_0_  about two hours down the drain.
+
+     bool isConnected = false;
+     if (CurrentLevelName == "MainMenuLevel")
+     {
+          ShowBaseMenu();
+     }
+     
 }
 
-void AVirtueHUD::ShowMainMenu()
+void AVirtueHUD::ShowBaseMenu()
 {
-     if (MainMenuClass && !MainMenuWidget)
+     if (!BaseMenuClass)
      {
-          MainMenuWidget = CreateWidget<UUserWidget>(GetWorld(), MainMenuClass);
-          if (MainMenuWidget)
-          {
-               MainMenuWidget->AddToViewport();
+          UE_LOG(LogTemp, Error, TEXT("BaseMenuClass is NULL! Check asset path."));
+          return;
+     }
 
-               APlayerController* PC = UGameplayStatics::GetPlayerController(GetWorld(), 0);
-               if (PC)
-               {
-                    FInputModeUIOnly InputMode;
-                    InputMode.SetWidgetToFocus(MainMenuWidget->TakeWidget());
-                    PC->SetInputMode(InputMode);
-                    PC->bShowMouseCursor = true;
-               }
+     if (!BaseMenuWidget)
+     {
+          UE_LOG(LogTemp, Warning, TEXT("Creating BaseMenuWidget"));
+          BaseMenuWidget = CreateWidget<UUserWidget>(GetWorld(), BaseMenuClass);
+
+          if (BaseMenuWidget)
+          {
+               BaseMenuWidget->AddToViewport();
+          }
+          else
+          {
+               UE_LOG(LogTemp, Error, TEXT("Failed to create BaseMenuWidget"));
           }
      }
 }

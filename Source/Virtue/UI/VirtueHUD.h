@@ -15,16 +15,17 @@ public:
 
      virtual void BeginPlay() override;
 
-     /** Displays the main menu */
-     void ShowMainMenu();
+     /** Displays the menus */
+     void ShowBaseMenu();
+     void ShowOptionsMenu();
 
 protected:
-     /** Main menu UMG widget class */
+     /** Menu UMG widget class */
      UPROPERTY(EditDefaultsOnly, Category = "UI")
-     TSubclassOf<UUserWidget> MainMenuClass;
+     TSubclassOf<UUserWidget> BaseMenuClass;
 
 private:
      /** Pointer to the current menu widget */
      UPROPERTY()
-     UUserWidget* MainMenuWidget;
+     UUserWidget* BaseMenuWidget;
 };
