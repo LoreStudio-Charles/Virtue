@@ -33,7 +33,7 @@ void AVirtueHUD::ShowMainMenu()
      if (MainMenuWidgetClass)
      {
           // Create the widget and add it to the viewport
-          MainMenuWidget = CreateWidget<UUserWidget>(GetWorld(), MainMenuWidgetClass);
+          MainMenuWidget = CreateWidget<UMainMenuWidget>(GetWorld(), MainMenuWidgetClass);
           if (MainMenuWidget)
           {
                MainMenuWidget->AddToViewport();

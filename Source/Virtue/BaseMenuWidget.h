@@ -26,4 +26,9 @@ public:
      UFUNCTION(BlueprintCallable, BlueprintNativeEvent, Category = "Menu")
      void UpdateMenuState();
      virtual void UpdateMenuState_Implementation();
+
+     // Declare UpdateMenuState as a BlueprintNativeEvent.
+     UFUNCTION(BlueprintCallable, BlueprintNativeEvent, Category = "Menu")
+     void QuitGame();
+     virtual void QuitGame_Implementation();
 };

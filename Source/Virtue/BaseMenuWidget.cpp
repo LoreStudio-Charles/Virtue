@@ -19,3 +19,9 @@ void UBaseMenuWidget::UpdateMenuState_Implementation()
      UE_LOG(LogTemp, Warning, TEXT("UBaseMenuWidget::UpdateMenuState_Implementation() called"));
      // Default: do nothing.
 }
+
+void UBaseMenuWidget::QuitGame_Implementation()
+{
+     UE_LOG(LogTemp, Warning, TEXT("UBaseMenuWidget::QuitGame_Implementation() called"));
+     // Default: do nothing.
+}

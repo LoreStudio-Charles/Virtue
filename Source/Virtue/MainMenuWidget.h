@@ -1,35 +1,39 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "BaseMenuWidget.h"
+#include "Blueprint/UserWidget.h"
+#include "Components/Button.h"
 #include "MainMenuWidget.generated.h"
 
-class UButton;
-
 UCLASS()
-class VIRTUE_API UMainMenuWidget : public UBaseMenuWidget
+class VIRTUE_API UMainMenuWidget : public UUserWidget
 {
      GENERATED_BODY()
 
 public:
      virtual void NativeConstruct() override;
 
-protected:
-     // Button references; ensure your Blueprint has these with exactly these names.
-     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     // Buttons
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
      UButton* ConnectButton;
 
-     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     UButton* LogoutButton;
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+     UButton* QuitButton;
 
-     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
      UButton* CharactersButton;
 
-     // Override ToggleFakeLogin and UpdateMenuState from the base class.
-     virtual void ToggleFakeLogin_Implementation() override;
-     virtual void UpdateMenuState_Implementation() override;
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+     UButton* OptionsButton;
 
-     // Button click handler functions.
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+     UButton* LogoutButton;
+     // Toggle login state
+     UFUNCTION(BlueprintCallable)
+     void ToggleFakeLogin();
+
+protected:
+     // Handle button clicks
      UFUNCTION()
      void OnConnectButtonClicked();
 
@@ -37,5 +41,27 @@ protected:
      void OnLogoutButtonClicked();
 
      UFUNCTION()
+     void OnQuitButtonClicked();
+
+     UFUNCTION()
      void OnCharactersButtonClicked();
+
+     UFUNCTION()
+     void OnOptionsButtonClicked();
+
+     // Update menu state based on login status
+     UFUNCTION(BlueprintCallable)
+     void UpdateMenuState();
+
+     UFUNCTION(BlueprintCallable)
+     void QuitGame();
+
+     UFUNCTION(BlueprintCallable)
+     void LoadCharacterMenu();
+
+     UFUNCTION(BlueprintCallable)
+     void LoadOptionsMenu();
+
+private:
+     bool bIsFakeLoggedIn = false;  // Tracks login state
 };
