@@ -11,22 +11,20 @@ class VIRTUE_API AVirtueHUD : public AHUD
      GENERATED_BODY()
 
 public:
+     // Constructor
      AVirtueHUD();
 
+     // Called when the game starts or when spawned
      virtual void BeginPlay() override;
 
-     /** Displays the menus */
-     void ShowBaseMenu();
-     void ShowOptionsMenu();
+     // Show Main Menu
+     void ShowMainMenu();
 
-protected:
-     /** Menu UMG widget classes */
-     UPROPERTY(EditDefaultsOnly, Category = "UI")
-     TSubclassOf<UUserWidget> BaseMenuClass;
-     TSubclassOf<UUserWidget> MenuItemClass;
+     // Widget Class Reference (Editable in Editor)
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "UI")
+     TSubclassOf<UUserWidget> MainMenuWidgetClass;
 
-private:
-     /** Pointer to the current menu widget */
+     // The actual Main Menu Widget instance
      UPROPERTY()
-     UUserWidget* BaseMenuWidget;
+     UUserWidget* MainMenuWidget;
 };
