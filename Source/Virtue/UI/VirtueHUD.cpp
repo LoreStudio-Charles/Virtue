@@ -1,39 +1,46 @@
 #include "VirtueHUD.h"
 #include "Blueprint/UserWidget.h"
 #include "Kismet/GameplayStatics.h"
+#include "Engine/World.h"
+#include "UObject/ConstructorHelpers.h"
 
 AVirtueHUD::AVirtueHUD()
 {
-     static ConstructorHelpers::FClassFinder<UUserWidget> MenuBP(TEXT("/Game/UI_Menu/WBP_MainMenu.WBP_MainMenu_C"));
+     // Assign MainMenuWidgetClass if not set in the Editor
+     static ConstructorHelpers::FClassFinder<UUserWidget> MenuBP(TEXT("/Game/UI_Menu/WBP_MainMenuWidget"));
      if (MenuBP.Succeeded())
      {
-          MainMenuClass = MenuBP.Class;
+          MainMenuWidgetClass = MenuBP.Class;
      }
 }
 
 void AVirtueHUD::BeginPlay()
 {
      Super::BeginPlay();
-     ShowMainMenu();
+
+     // Check if we're on the Main Menu Level
+     FString CurrentLevelName = UGameplayStatics::GetCurrentLevelName(this, false);
+     CurrentLevelName.RemoveFromStart(TEXT("UEDPIE_0_")); // Clean up the editor-level prefix
+
+     if (CurrentLevelName == "MainMenuLevel")
+     {
+          ShowMainMenu();
+     }
 }
 
 void AVirtueHUD::ShowMainMenu()
 {
-     if (MainMenuClass && !MainMenuWidget)
+     if (MainMenuWidgetClass)
      {
-          MainMenuWidget = CreateWidget<UUserWidget>(GetWorld(), MainMenuClass);
+          // Create the widget and add it to the viewport
+          MainMenuWidget = CreateWidget<UMainMenuWidget>(GetWorld(), MainMenuWidgetClass);
           if (MainMenuWidget)
           {
                MainMenuWidget->AddToViewport();
-
-               APlayerController* PC = UGameplayStatics::GetPlayerController(GetWorld(), 0);
-               if (PC)
-               {
-                    FInputModeUIOnly InputMode;
-                    InputMode.SetWidgetToFocus(MainMenuWidget->TakeWidget());
-                    PC->SetInputMode(InputMode);
-                    PC->bShowMouseCursor = true;
-               }
           }
+     }
+     else
+     {
+          UE_LOG(LogTemp, Warning, TEXT("MainMenuWidgetClass is not set!"));
      }
 }

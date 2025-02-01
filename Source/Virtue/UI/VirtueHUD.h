@@ -3,6 +3,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/HUD.h"
 #include "Blueprint/UserWidget.h"
+#include "MainMenuWidget.h" 
 #include "VirtueHUD.generated.h"
 
 UCLASS()
@@ -11,20 +12,20 @@ class VIRTUE_API AVirtueHUD : public AHUD
      GENERATED_BODY()
 
 public:
+     // Constructor
      AVirtueHUD();
 
+     // Called when the game starts or when spawned
      virtual void BeginPlay() override;
 
-     /** Displays the main menu */
+     // Show Main Menu
      void ShowMainMenu();
 
-protected:
-     /** Main menu UMG widget class */
-     UPROPERTY(EditDefaultsOnly, Category = "UI")
-     TSubclassOf<UUserWidget> MainMenuClass;
+     // Widget Class Reference (Editable in Editor)
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "UI")
+     TSubclassOf<UMainMenuWidget> MainMenuWidgetClass;  
 
-private:
-     /** Pointer to the current menu widget */
+     // The actual Main Menu Widget instance
      UPROPERTY()
-     UUserWidget* MainMenuWidget;
+     UMainMenuWidget* MainMenuWidget;
 };
