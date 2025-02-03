@@ -2,6 +2,8 @@
 
 #include "CoreMinimal.h"
 #include "Engine/GameInstance.h"
+#include "MainMenuWidget.h"
+#include "OptionsMenuWidget.h"
 #include "MyGameInstance.generated.h"
 
 class UUIManager;
@@ -20,4 +22,10 @@ public:
 
      UPROPERTY(BlueprintReadOnly, Category = "Managers")
      UOnlineSessionManager* OnlineSessionManager;
+
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "UI")
+     TSubclassOf<UMainMenuWidget> MainMenuWidgetClass;
+
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "UI")
+     TSubclassOf<UOptionsMenuWidget> OptionsMenuWidgetClass;
 };

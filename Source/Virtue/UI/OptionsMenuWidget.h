@@ -1,0 +1,68 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Blueprint/UserWidget.h"
+#include "BaseMenuWidget.h"
+#include "Components/Button.h"
+#include "OptionsMenuWidget.generated.h"
+
+/**
+ * 
+ */
+UCLASS()
+class VIRTUE_API UOptionsMenuWidget : public UBaseMenuWidget
+{
+	GENERATED_BODY()
+
+public:
+	virtual void NativeConstruct() override;
+
+	// Buttons
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* GraphicsButton;
+
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* AudioButton;
+
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* ControlsButton;
+
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* GameplayButton;
+
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* AccessibilityButton;
+
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* SaveAndQuitButton;
+
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* ReturnToGameButton;
+
+protected:
+	UFUNCTION()
+	void OnGraphicsButtonClicked();
+
+	UFUNCTION()
+	void OnAudioButtonClicked();
+
+	UFUNCTION()
+	void OnControlsButtonClicked();
+
+	UFUNCTION()
+	void OnGameplayButtonClicked();
+
+	UFUNCTION()
+	void OnAccessibilityButtonClicked();
+
+	UFUNCTION()
+	void OnSaveAndQuitButtonClicked();
+
+	UFUNCTION()
+	void OnReturnToGameButtonClicked();
+
+private:
+	bool isInGameSession = false;
+};

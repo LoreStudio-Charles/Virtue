@@ -1,46 +1,35 @@
 #include "VirtueHUD.h"
-#include "Blueprint/UserWidget.h"
 #include "Kismet/GameplayStatics.h"
+#include "UIManager.h"
 #include "Engine/World.h"
-#include "UObject/ConstructorHelpers.h"
 
 AVirtueHUD::AVirtueHUD()
 {
-     // Assign MainMenuWidgetClass if not set in the Editor
-     static ConstructorHelpers::FClassFinder<UUserWidget> MenuBP(TEXT("/Game/UI_Menu/WBP_MainMenuWidget"));
-     if (MenuBP.Succeeded())
-     {
-          MainMenuWidgetClass = MenuBP.Class;
-     }
+     // Optionally, you can initialize any HUD-specific settings here.
 }
 
 void AVirtueHUD::BeginPlay()
 {
      Super::BeginPlay();
 
-     // Check if we're on the Main Menu Level
-     FString CurrentLevelName = UGameplayStatics::GetCurrentLevelName(this, false);
-     CurrentLevelName.RemoveFromStart(TEXT("UEDPIE_0_")); // Clean up the editor-level prefix
+     FString CurrentLevelName = GetWorld()->GetMapName();
+     CurrentLevelName.RemoveFromStart(GetWorld()->StreamingLevelsPrefix); // Remove "UEDPIE_X_" if in PIE mode
 
-     if (CurrentLevelName == "MainMenuLevel")
+     if (CurrentLevelName == "MainMenuLevel") // Replace with your actual main menu level name
      {
-          ShowMainMenu();
-     }
-}
-
-void AVirtueHUD::ShowMainMenu()
-{
-     if (MainMenuWidgetClass)
-     {
-          // Create the widget and add it to the viewport
-          MainMenuWidget = CreateWidget<UMainMenuWidget>(GetWorld(), MainMenuWidgetClass);
-          if (MainMenuWidget)
+          UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>();
+          if (UIManager)
           {
-               MainMenuWidget->AddToViewport();
+               UE_LOG(LogTemp, Warning, TEXT("VirtueHUD: Showing Main Menu in Main Menu Level"));
+               UIManager->ShowMainMenu();
+          }
+          else
+          {
+               UE_LOG(LogTemp, Error, TEXT("VirtueHUD::BeginPlay - UIManager subsystem not found!"));
           }
      }
      else
      {
-          UE_LOG(LogTemp, Warning, TEXT("MainMenuWidgetClass is not set!"));
+          UE_LOG(LogTemp, Warning, TEXT("VirtueHUD: Skipping Main Menu in Level %s"), *CurrentLevelName);
      }
 }
