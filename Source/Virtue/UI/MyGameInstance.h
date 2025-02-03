@@ -21,15 +21,15 @@ class VIRTUE_API UMyGameInstance : public UGameInstance
 public:
      virtual void Init() override;
 
-     UPROPERTY(BlueprintReadOnly, Category = "Managers")
+     UPROPERTY(BlueprintReadOnly, Category = "Config | Managers")
      UUIManager* UIManager;
 
-     UPROPERTY(BlueprintReadOnly, Category = "Managers")
+     UPROPERTY(BlueprintReadOnly, Category = "Config | Managers")
      UOnlineSessionManager* OnlineSessionManager;
 
-     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "UI")
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Config | UI")
      TSubclassOf<UMainMenuWidget> MainMenuWidgetClass;
 
-     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "UI")
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Config | UI")
      TSubclassOf<UOptionsMenuWidget> OptionsMenuWidgetClass;
 };

@@ -5,6 +5,7 @@
 #include "UObject/SoftObjectPath.h"
 #include "Logging/LogMacros.h"
 #include "Blueprint/WidgetBlueprintLibrary.h"
+#include "Virtue/Settings/AssetPaths.h"
 
 // Called when the subsystem is created.
 void UUIManager::Initialize(FSubsystemCollectionBase& Collection)
@@ -17,7 +18,7 @@ void UUIManager::Initialize(FSubsystemCollectionBase& Collection)
      {
           // Adjust the path as necessary. Ensure the asset exists at this location.
           // TODO: Absolute Path fix
-          FSoftObjectPath OptionsMenuPath(TEXT("/Game/UI_Menu/WBP_OptionsMenuWidget.WBP_OptionsMenuWidget_C"));
+          FSoftObjectPath OptionsMenuPath(*AssetPaths::OptionsMenuWidget);
           UObject* LoadedObject = OptionsMenuPath.TryLoad();
           if (LoadedObject)
           {
@@ -113,7 +114,7 @@ void UUIManager::ShowMainMenu()
           if (!MainMenuWidgetClass)
           {
                // Attempt to load MainMenuWidgetClass via a soft object path if not set.
-               FSoftObjectPath MainMenuPath(TEXT("/Game/UI_Menu/WBP_MainMenuWidget.WBP_MainMenuWidget_C"));
+               FSoftObjectPath MainMenuPath(*AssetPaths::MainMenuWidget);
                UObject* LoadedObject = MainMenuPath.TryLoad();
                if (LoadedObject)
                {
