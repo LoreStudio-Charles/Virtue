@@ -5,6 +5,10 @@
 #include "Components/Button.h"
 #include "MainMenuWidget.generated.h"
 
+/**
+* TODO: Comment and explain the process
+*/
+
 UCLASS()
 class VIRTUE_API UMainMenuWidget : public UUserWidget
 {

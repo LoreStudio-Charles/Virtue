@@ -9,7 +9,8 @@
 #include "OptionsMenuWidget.generated.h"
 
 /**
- * 
+ * OptionsMenuWidget is derived from BaseMenu.
+ This widget creates the "Options" menu.
  */
 UCLASS()
 class VIRTUE_API UOptionsMenuWidget : public UBaseMenuWidget
@@ -18,6 +19,8 @@ class VIRTUE_API UOptionsMenuWidget : public UBaseMenuWidget
 
 public:
 	virtual void NativeConstruct() override;
+	virtual void NativeDestruct() override;
+
 
 	// Buttons
 	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))

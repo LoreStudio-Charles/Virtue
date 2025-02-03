@@ -4,15 +4,19 @@
 #include "Engine/World.h"
 #include "UObject/SoftObjectPath.h"
 #include "Logging/LogMacros.h"
-#include <Blueprint/WidgetBlueprintLibrary.h>
+#include "Blueprint/WidgetBlueprintLibrary.h"
 
+// Called when the subsystem is created.
 void UUIManager::Initialize(FSubsystemCollectionBase& Collection)
 {
      Super::Initialize(Collection);
+     UE_LOG(LogTemp, Warning, TEXT("UUIManager::Initialize() called"));
 
-     // Instead of using ConstructorHelpers (which can't be used here), we use FSoftObjectPath.
+     // If OptionsMenuWidgetClass is not set, attempt to load it via a soft object path.
      if (!OptionsMenuWidgetClass)
      {
+          // Adjust the path as necessary. Ensure the asset exists at this location.
+          // TODO: Absolute Path fix
           FSoftObjectPath OptionsMenuPath(TEXT("/Game/UI_Menu/WBP_OptionsMenuWidget.WBP_OptionsMenuWidget_C"));
           UObject* LoadedObject = OptionsMenuPath.TryLoad();
           if (LoadedObject)
@@ -20,20 +24,59 @@ void UUIManager::Initialize(FSubsystemCollectionBase& Collection)
                OptionsMenuWidgetClass = Cast<UClass>(LoadedObject);
                if (OptionsMenuWidgetClass)
                {
-                    UE_LOG(LogTemp, Warning, TEXT("UIManager::Initialize - OptionsMenuWidgetClass assigned via SoftObjectPath."));
+                    UE_LOG(LogTemp, Warning, TEXT("UUIManager::Initialize - OptionsMenuWidgetClass assigned via SoftObjectPath."));
                }
                else
                {
-                    UE_LOG(LogTemp, Error, TEXT("UIManager::Initialize - Loaded object is not a UClass."));
+                    UE_LOG(LogTemp, Error, TEXT("UUIManager::Initialize - Loaded object is not a UClass."));
                }
           }
           else
           {
-               UE_LOG(LogTemp, Error, TEXT("UIManager::Initialize - Failed to load OptionsMenuWidget via SoftObjectPath."));
+               UE_LOG(LogTemp, Error, TEXT("UUIManager::Initialize - Failed to load OptionsMenuWidget via SoftObjectPath."));
           }
      }
 }
 
+// Helper function: Opens a menu given its widget class.
+void UUIManager::OpenMenu(TSubclassOf<UUserWidget> MenuClass)
+{
+     if (!MenuClass)
+     {
+          UE_LOG(LogTemp, Error, TEXT("OpenMenu: MenuClass is null!"));
+          return;
+     }
+
+     UWorld* World = GetWorld();
+     if (!World)
+     {
+          UE_LOG(LogTemp, Error, TEXT("OpenMenu: GetWorld() returned null!"));
+          return;
+     }
+
+     UUserWidget* NewMenu = CreateWidget<UUserWidget>(World, MenuClass);
+     if (NewMenu)
+     {
+          NewMenu->AddToViewport();
+          UE_LOG(LogTemp, Warning, TEXT("OpenMenu: Widget added to viewport."));
+     }
+     else
+     {
+          UE_LOG(LogTemp, Error, TEXT("OpenMenu: Failed to create widget."));
+     }
+}
+
+// Closes a specific menu widget by removing it from the viewport.
+void UUIManager::CloseMenu(UUserWidget* MenuInstance)
+{
+     if (MenuInstance && MenuInstance->IsInViewport())
+     {
+          MenuInstance->RemoveFromParent();
+          UE_LOG(LogTemp, Warning, TEXT("CloseMenu: Menu removed from viewport."));
+     }
+}
+
+// Closes all UI widgets currently on screen.
 void UUIManager::CloseAllMenus()
 {
      TArray<UUserWidget*> FoundWidgets;
@@ -48,48 +91,50 @@ void UUIManager::CloseAllMenus()
           }
      }
 
-     UE_LOG(LogTemp, Warning, TEXT("All UI widgets removed."));
+     UE_LOG(LogTemp, Warning, TEXT("CloseAllMenus: All UI widgets removed."));
 }
 
+// Shows the Main Menu. If the Options Menu is open, it is closed first.
 void UUIManager::ShowMainMenu()
 {
-     UE_LOG(LogTemp, Warning, TEXT("!!!!!!!!!!!!!!!! MAIN MENU CALLED !!!!!!!!!!!!!!!!!!!!"));
+     UE_LOG(LogTemp, Warning, TEXT("UUIManager::ShowMainMenu() called"));
+
+     // If the Options Menu is open, close it.
      if (OptionsMenu)
      {
-          UE_LOG(LogTemp, Warning, TEXT("Recalling MainMenu; making it visible."));
-          MainMenu->SetVisibility(ESlateVisibility::Visible);
+          OptionsMenu->RemoveFromParent();
+          OptionsMenu = nullptr;
+          UE_LOG(LogTemp, Warning, TEXT("ShowMainMenu: Options Menu removed."));
      }
-     else
+
+     // If the Main Menu is not already created, create it.
+     if (!MainMenu)
      {
-          UE_LOG(LogTemp, Warning, TEXT("MainMenu does not exist."));
-     }
-     // Ensure we have a valid MainMenuWidgetClass.
-     if (!MainMenuWidgetClass)
-     {
-          FSoftObjectPath MainMenuPath(TEXT("/Game/UI_Menu/WBP_MainMenuWidget.WBP_MainMenuWidget_C"));
-          UObject* LoadedObject = MainMenuPath.TryLoad();
-          if (LoadedObject)
+          if (!MainMenuWidgetClass)
           {
-               MainMenuWidgetClass = Cast<UClass>(LoadedObject);
-               if (MainMenuWidgetClass)
+               // Attempt to load MainMenuWidgetClass via a soft object path if not set.
+               FSoftObjectPath MainMenuPath(TEXT("/Game/UI_Menu/WBP_MainMenuWidget.WBP_MainMenuWidget_C"));
+               UObject* LoadedObject = MainMenuPath.TryLoad();
+               if (LoadedObject)
                {
-                    UE_LOG(LogTemp, Warning, TEXT("UIManager::Initialize - MainMenuWidgetClass assigned via SoftObjectPath."));
+                    MainMenuWidgetClass = Cast<UClass>(LoadedObject);
+                    if (MainMenuWidgetClass)
+                    {
+                         UE_LOG(LogTemp, Warning, TEXT("ShowMainMenu: MainMenuWidgetClass assigned via SoftObjectPath."));
+                    }
+                    else
+                    {
+                         UE_LOG(LogTemp, Error, TEXT("ShowMainMenu: Loaded object is not a UClass."));
+                    }
                }
                else
                {
-                    UE_LOG(LogTemp, Error, TEXT("UIManager::Initialize - Loaded object is not a UClass."));
+                    UE_LOG(LogTemp, Error, TEXT("ShowMainMenu: Failed to load MainMenuWidget via SoftObjectPath."));
+                    return;
                }
           }
-          else
-          {
-               UE_LOG(LogTemp, Error, TEXT("UIManager::Initialize - Failed to load MainMenuWidget via SoftObjectPath."));
-          }
-     }
 
-     // Create the widget if it doesn't exist yet.
-     if (!MainMenu)
-     {
-          UWorld* World = GetGameInstance()->GetWorld();
+          UWorld* World = GetWorld();
           if (World)
           {
                MainMenu = CreateWidget<UMainMenuWidget>(World, MainMenuWidgetClass);
@@ -98,55 +143,60 @@ void UUIManager::ShowMainMenu()
 
      if (MainMenu)
      {
+          // Make sure the Main Menu is visible and add it to the viewport.
+          MainMenu->SetVisibility(ESlateVisibility::Visible);
           MainMenu->AddToViewport();
-          UE_LOG(LogTemp, Warning, TEXT("UIManager: Main Menu displayed"));
+          UE_LOG(LogTemp, Warning, TEXT("ShowMainMenu: Main Menu displayed."));
      }
      else
      {
-          UE_LOG(LogTemp, Error, TEXT("UIManager::ShowMainMenu - Failed to create MainMenu widget"));
+          UE_LOG(LogTemp, Error, TEXT("ShowMainMenu: Failed to create Main Menu widget."));
      }
 }
 
+// Shows the Options Menu. If the Main Menu is open, it is hidden (visibility set to Collapsed).
 void UUIManager::ShowOptionsMenu()
 {
-     UE_LOG(LogTemp, Warning, TEXT("In UIManager::ShowOptionsMenu()"));
+     UE_LOG(LogTemp, Warning, TEXT("UUIManager::ShowOptionsMenu() called"));
 
-     // If the main menu exists, hide it instead of removing it.
+     // If the Main Menu exists, hide it.
      if (MainMenu)
      {
-          UE_LOG(LogTemp, Warning, TEXT("MainMenu exists; hiding it."));
           MainMenu->SetVisibility(ESlateVisibility::Collapsed);
+          UE_LOG(LogTemp, Warning, TEXT("ShowOptionsMenu: Main Menu hidden."));
      }
      else
      {
-          UE_LOG(LogTemp, Warning, TEXT("MainMenu does not exist."));
+          UE_LOG(LogTemp, Warning, TEXT("ShowOptionsMenu: Main Menu does not exist."));
      }
 
-     // Ensure OptionsMenuWidgetClass is set.
+     // Ensure the Options Menu widget class is set.
      if (!OptionsMenuWidgetClass)
      {
-          UE_LOG(LogTemp, Error, TEXT("UIManager::ShowOptionsMenu - OptionsMenuWidgetClass is NULL!"));
+          UE_LOG(LogTemp, Error, TEXT("ShowOptionsMenu: OptionsMenuWidgetClass is NULL!"));
           return;
      }
 
-     UWorld* World = GetGameInstance()->GetWorld();
+     UWorld* World = GetWorld();
      if (!World)
      {
-          UE_LOG(LogTemp, Error, TEXT("UIManager::ShowOptionsMenu - GetWorld() returned NULL"));
+          UE_LOG(LogTemp, Error, TEXT("ShowOptionsMenu: GetWorld() returned NULL."));
           return;
      }
 
-     // Create OptionsMenu widget if not already created.
+     // If the Options Menu is not already created, create it.
      if (!OptionsMenu)
      {
           OptionsMenu = CreateWidget<UOptionsMenuWidget>(World, OptionsMenuWidgetClass);
           if (!OptionsMenu)
           {
-               UE_LOG(LogTemp, Error, TEXT("UIManager::ShowOptionsMenu - Failed to create OptionsMenu widget"));
+               UE_LOG(LogTemp, Error, TEXT("ShowOptionsMenu: Failed to create Options Menu widget."));
                return;
           }
      }
 
+     // Make sure the Options Menu is visible and add it to the viewport.
+     OptionsMenu->SetVisibility(ESlateVisibility::Visible);
      OptionsMenu->AddToViewport();
-     UE_LOG(LogTemp, Warning, TEXT("UIManager: Options Menu displayed successfully."));
+     UE_LOG(LogTemp, Warning, TEXT("ShowOptionsMenu: Options Menu displayed successfully."));
 }

@@ -6,6 +6,10 @@
 #include "OptionsMenuWidget.h"
 #include "MyGameInstance.generated.h"
 
+/**
+* TODO: Comment and explain the process
+*/
+
 class UUIManager;
 class UOnlineSessionManager;
 

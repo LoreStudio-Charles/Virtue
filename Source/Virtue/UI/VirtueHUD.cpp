@@ -5,7 +5,7 @@
 
 AVirtueHUD::AVirtueHUD()
 {
-     // Optionally, you can initialize any HUD-specific settings here.
+     
 }
 
 void AVirtueHUD::BeginPlay()
@@ -15,7 +15,7 @@ void AVirtueHUD::BeginPlay()
      FString CurrentLevelName = GetWorld()->GetMapName();
      CurrentLevelName.RemoveFromStart(GetWorld()->StreamingLevelsPrefix); // Remove "UEDPIE_X_" if in PIE mode
 
-     if (CurrentLevelName == "MainMenuLevel") // Replace with your actual main menu level name
+     if (CurrentLevelName == "MainMenuLevel")
      {
           UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>();
           if (UIManager)
