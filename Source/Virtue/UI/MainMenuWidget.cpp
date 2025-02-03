@@ -1,9 +1,11 @@
 #include "MainMenuWidget.h"
+#include "UIManager.h"
 #include "Components/Button.h"
 #include "Logging/LogMacros.h"
 #include "Kismet/GameplayStatics.h"
 #include "Kismet/KismetSystemLibrary.h"
 #include "Engine/World.h"
+#include "OptionsMenuWidget.h"
 
 void UMainMenuWidget::NativeConstruct()
 {
@@ -104,7 +106,17 @@ void UMainMenuWidget::LoadCharacterMenu()
 
 void UMainMenuWidget::LoadOptionsMenu()
 {
-     UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnOptionsButtonClicked() called; loading Options menu"));
+     UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::LoadOptionsMenu() called; loading Options menu"));
+
+     // Use UIManager to show the Options Menu
+     if (UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>())
+     {
+          UIManager->ShowOptionsMenu();
+     }
+     else
+     {
+          UE_LOG(LogTemp, Error, TEXT("UIManager is NULL!"));
+     }
 }
 
 void UMainMenuWidget::OnConnectButtonClicked()
@@ -130,9 +142,17 @@ void UMainMenuWidget::OnCharactersButtonClicked()
 
 void UMainMenuWidget::OnOptionsButtonClicked()
 {
-     UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnOptionsButtonClicked() called"));
-     // Call QuitGame() when QuitButton is clicked
-     LoadOptionsMenu();
+     UE_LOG(LogTemp, Warning, TEXT("Options Button Clicked"));
+
+     // Use UIManager to show the Options Menu
+     if (UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>())
+     {
+          UIManager->ShowOptionsMenu();
+     }
+     else
+     {
+          UE_LOG(LogTemp, Error, TEXT("UIManager is NULL!"));
+     }
 }
 
 void UMainMenuWidget::OnQuitButtonClicked()

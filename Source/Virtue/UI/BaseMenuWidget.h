@@ -14,6 +14,9 @@ protected:
      UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Menu")
      bool bIsFakeLoggedIn = false;
 
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Menu")
+     bool bIsInGameSession = false;
+
 public:
      virtual void NativeConstruct() override;
 
