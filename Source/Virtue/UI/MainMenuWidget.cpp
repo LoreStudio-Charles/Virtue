@@ -5,6 +5,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "Kismet/KismetSystemLibrary.h"
 #include "Engine/World.h"
+#include "MessagesFunctionLibrary.h"
 #include "OptionsMenuWidget.h"
 
 void UMainMenuWidget::NativeConstruct()
@@ -22,11 +23,23 @@ void UMainMenuWidget::NativeConstruct()
      {
           UE_LOG(LogTemp, Error, TEXT("ConnectButton is NULL! Check Blueprint bindings."));
      }
+     if (ConnectButtonText)
+     {
+          // Retrieve the localized "Logout" text from the string table via the helper function.
+          FText ConnectText = UMessagesFunctionLibrary::GetConnectText();
+          ConnectButtonText->SetText(ConnectText);
+     }
 
      // Bind the LogoutButton.
      if (LogoutButton)
      {
           LogoutButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnLogoutButtonClicked);
+     }
+     if (LogoutButtonText)
+     {
+          // Retrieve the localized "Logout" text from the string table via the helper function.
+          FText LogoutText = UMessagesFunctionLibrary::GetLogoutText();
+          LogoutButtonText->SetText(LogoutText);
      }
 
      // Bind the CharactersButton.
@@ -34,17 +47,35 @@ void UMainMenuWidget::NativeConstruct()
      {
           CharactersButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnCharactersButtonClicked);
      }
+     if (CharactersButtonText)
+     {
+          // Retrieve the localized "Characters" text from the string table via the helper function.
+          FText CharacterText = UMessagesFunctionLibrary::GetCharactersText();
+          CharactersButtonText->SetText(CharacterText);
+     }
 
      // Bind the OptionsButton.
      if (OptionsButton)
      {
           OptionsButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnOptionsButtonClicked);
      }
+     if (OptionsButtonText)
+     {
+          // Retrieve the localized "Options" text from the string table via the helper function.
+          FText OptionsText = UMessagesFunctionLibrary::GetOptionsText();
+          OptionsButtonText->SetText(OptionsText);
+     }
 
-     // Bind the QuitButton.
+     // Bind the QuitButton, Set the QuitButtonText from string table ST_UIStrings.
      if (QuitButton)
      {
           QuitButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnQuitButtonClicked);
+     }
+     if (QuitButtonText)
+     {
+          // Retrieve the localized "Quit" text from the string table via the helper function.
+          FText QuitText = UMessagesFunctionLibrary::GetQuitText();
+          QuitButtonText->SetText(QuitText);
      }
 
      // Call UpdateMenuState so the UI reflects the login state.

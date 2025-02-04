@@ -3,11 +3,13 @@
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
 #include "Components/Button.h"
+#include "Components/TextBlock.h"
 #include "MainMenuWidget.generated.h"
 
 /**
-* TODO: Comment and explain the process
-*/
+ * UMainMenuWidget represents the main menu UI.
+ * It may contain buttons and text elements, such as a Quit button label.
+ */
 
 UCLASS()
 class VIRTUE_API UMainMenuWidget : public UUserWidget
@@ -17,7 +19,7 @@ class VIRTUE_API UMainMenuWidget : public UUserWidget
 public:
      virtual void NativeConstruct() override;
 
-     // Buttons
+     // UI element for buttons
      UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
      UButton* ConnectButton;
 
@@ -32,6 +34,23 @@ public:
 
      UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
      UButton* LogoutButton;
+
+     // UI element for the button text.
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* ConnectButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* QuitButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* CharactersButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* OptionsButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* LogoutButtonText;
+
      // Toggle login state
      UFUNCTION(BlueprintCallable)
      void ToggleFakeLogin();
