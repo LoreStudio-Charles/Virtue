@@ -21,35 +21,35 @@ public:
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetConnectText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Connect"));
+          return FText::FromStringTable((* AssetPaths::UIStrings), TEXT("Connect"));
      }
 
      // Returns the localized text for the "Characters" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetCharactersText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Characters"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Characters"));
      }
 
      // Returns the localized text for the "Options" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetOptionsText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Options"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Options"));
      }
 
      // Returns the localized text for the "Quit" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetQuitText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Quit"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Quit"));
      }
 
      // Returns the localized text for the "Quit" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetLogoutText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Logout"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Logout"));
      }
 
 
@@ -58,35 +58,35 @@ public:
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText SetOptionsMenuTitleText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("OptionsMenuTitleText"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("OptionsMenuTitleText"));
      }
      
      // Returns the localized text for the "Return to Game" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetReturnToGameText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("ReturnToGame"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("ReturnToGame"));
      }
 
      // Returns the localized text for the "Graphics" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetGraphicsText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Graphics"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Graphics"));
      }
      
      // Returns the localized text for the "Audio" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetAudioText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Audio"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Audio"));
      }
 
      // Returns the localized text for the "Controls" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetControlsText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Controls"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Controls"));
      }
 
 
@@ -94,14 +94,14 @@ public:
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetGameplayText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Gameplay"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Gameplay"));
      }
 
      // Returns the localized text for the "Accessibility" message.
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetAccessibilityText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("Accessibility"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("Accessibility"));
      }
 
 
@@ -109,7 +109,7 @@ public:
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetQuitToMainMenuText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("QuitToMainMenu"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("QuitToMainMenu"));
      }
 
 
@@ -117,6 +117,6 @@ public:
      UFUNCTION(BlueprintPure, Category = "Messages")
      static FText GetQuitToDesktopText()
      {
-          return FText::FromStringTable(TEXT("/Game/Virtue/Configuration/ST_UIStrings.ST_UIStrings"), TEXT("QuitToDesktop"));
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("QuitToDesktop"));
      }
 };
