@@ -1,10 +1,9 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
 #include "BaseMenuWidget.h"
+#include "Components/TextBlock.h"
 #include "Components/Button.h"
 #include "OptionsMenuWidget.generated.h"
 
@@ -22,7 +21,10 @@ public:
 	virtual void NativeDestruct() override;
 
 
-	// Buttons
+	// UI element for buttons
+	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+	UButton* ReturnToGameButton;
+
 	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
 	UButton* GraphicsButton;
 
@@ -39,12 +41,45 @@ public:
 	UButton* AccessibilityButton;
 
 	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
-	UButton* SaveAndQuitButton;
+	UButton* QuitToMainMenuButton;
 
 	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
-	UButton* ReturnToGameButton;
+	UButton* QuitToDesktopButton;
+
+	// UI element for the button text
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* OptionsMenuTitleText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* ReturnToGameButtonText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* GraphicsButtonText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* AudioButtonText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* ControlsButtonText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* GameplayButtonText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* AccessibilityButtonText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* QuitToMainMenuButtonText;
+
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+	UTextBlock* QuitToDesktopButtonText;
+
+
 
 protected:
+	UFUNCTION()
+	void OnReturnToGameButtonClicked();
+
 	UFUNCTION()
 	void OnGraphicsButtonClicked();
 
@@ -61,10 +96,10 @@ protected:
 	void OnAccessibilityButtonClicked();
 
 	UFUNCTION()
-	void OnSaveAndQuitButtonClicked();
+	void OnQuitToMainMenuButtonClicked();
 
 	UFUNCTION()
-	void OnReturnToGameButtonClicked();
+	void OnQuitToDesktopButtonClicked();
 
 private:
 	bool isInGameSession = false;

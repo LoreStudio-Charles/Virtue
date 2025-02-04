@@ -1,10 +1,9 @@
 #include "MainMenuWidget.h"
 #include "UIManager.h"
-#include "Components/Button.h"
-#include "Logging/LogMacros.h"
 #include "Kismet/GameplayStatics.h"
 #include "Kismet/KismetSystemLibrary.h"
 #include "Engine/World.h"
+#include "MessagesFunctionLibrary.h"
 #include "OptionsMenuWidget.h"
 
 void UMainMenuWidget::NativeConstruct()
@@ -12,7 +11,7 @@ void UMainMenuWidget::NativeConstruct()
      Super::NativeConstruct();
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::NativeConstruct() called"));
 
-     // Bind the ConnectButton.
+     // Bind each button directly using AddDynamic.
      if (ConnectButton)
      {
           UE_LOG(LogTemp, Warning, TEXT("ConnectButton is valid."));
@@ -22,32 +21,46 @@ void UMainMenuWidget::NativeConstruct()
      {
           UE_LOG(LogTemp, Error, TEXT("ConnectButton is NULL! Check Blueprint bindings."));
      }
-
-     // Bind the LogoutButton.
      if (LogoutButton)
      {
           LogoutButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnLogoutButtonClicked);
      }
-
-     // Bind the CharactersButton.
      if (CharactersButton)
      {
           CharactersButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnCharactersButtonClicked);
      }
-
-     // Bind the OptionsButton.
      if (OptionsButton)
      {
           OptionsButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnOptionsButtonClicked);
      }
-
-     // Bind the QuitButton.
      if (QuitButton)
      {
           QuitButton->OnClicked.AddDynamic(this, &UMainMenuWidget::OnQuitButtonClicked);
      }
 
-     // Call UpdateMenuState so the UI reflects the login state.
+     // Set localized text for each button label via your function library.
+     if (ConnectButtonText)
+     {
+          ConnectButtonText->SetText(UMessagesFunctionLibrary::GetConnectText());
+     }
+     if (LogoutButtonText)
+     {
+          LogoutButtonText->SetText(UMessagesFunctionLibrary::GetLogoutText());
+     }
+     if (CharactersButtonText)
+     {
+          CharactersButtonText->SetText(UMessagesFunctionLibrary::GetCharactersText());
+     }
+     if (OptionsButtonText)
+     {
+          OptionsButtonText->SetText(UMessagesFunctionLibrary::GetOptionsText());
+     }
+     if (QuitButtonText)
+     {
+          QuitButtonText->SetText(UMessagesFunctionLibrary::GetQuitText());
+     }
+
+     // Update UI state based on login status.
      UpdateMenuState();
 }
 
@@ -56,7 +69,6 @@ void UMainMenuWidget::ToggleFakeLogin()
      bIsFakeLoggedIn = !bIsFakeLoggedIn;
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::ToggleFakeLogin() toggled: %s"),
           bIsFakeLoggedIn ? TEXT("Logged In") : TEXT("Logged Out"));
-     // Call UpdateMenuState to update button visibility and states.
      UpdateMenuState();
 }
 
@@ -64,6 +76,7 @@ void UMainMenuWidget::UpdateMenuState()
 {
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::UpdateMenuState() called"));
 
+     // Ensure required buttons exist.
      if (!ConnectButton || !LogoutButton || !CharactersButton || !QuitButton)
      {
           UE_LOG(LogTemp, Error, TEXT("One or more buttons are NULL in UpdateMenuState!"));
@@ -86,29 +99,32 @@ void UMainMenuWidget::UpdateMenuState()
 
 void UMainMenuWidget::QuitGame()
 {
-     // If we're in the editor (PIE), use UKismetSystemLibrary::QuitGame to gracefully exit the game session
-     if (GEngine->GetWorld() && GEngine->GetWorld()->IsPlayInEditor())
+     UWorld* World = GetWorld();
+     if (!World) return;
+
+     if (World->IsPlayInEditor())
      {
-          // Quit from PIE mode (editor)
-          UKismetSystemLibrary::QuitGame(GEngine->GetWorld(), nullptr, EQuitPreference::Quit, false);
+          // Quit gracefully in PIE.
+          UKismetSystemLibrary::QuitGame(World, nullptr, EQuitPreference::Quit, false);
      }
      else
      {
-          // Quit from a packaged game
+          // Quit in packaged builds.
           FPlatformMisc::RequestExit(true);
      }
 }
 
 void UMainMenuWidget::LoadCharacterMenu()
 {
-     UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnCharacterButtonClicked() called; loading Character menu"));
+     UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnCharactersButtonClicked() called; loading Character menu"));
+     // Insert code here to switch to your Character Menu.
 }
 
 void UMainMenuWidget::LoadOptionsMenu()
 {
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::LoadOptionsMenu() called; loading Options menu"));
 
-     // Use UIManager to show the Options Menu
+     // Use UIManager to show the Options Menu.
      if (UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>())
      {
           UIManager->ShowOptionsMenu();
@@ -122,42 +138,29 @@ void UMainMenuWidget::LoadOptionsMenu()
 void UMainMenuWidget::OnConnectButtonClicked()
 {
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnConnectButtonClicked() called"));
-     // Toggle login state when ConnectButton is clicked
      ToggleFakeLogin();
 }
 
 void UMainMenuWidget::OnLogoutButtonClicked()
 {
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnLogoutButtonClicked() called"));
-     // Toggle login state when LogoutButton is clicked
      ToggleFakeLogin();
 }
 
 void UMainMenuWidget::OnCharactersButtonClicked()
 {
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnCharactersButtonClicked() called"));
-     // Load the Characters Menu
      LoadCharacterMenu();
 }
 
 void UMainMenuWidget::OnOptionsButtonClicked()
 {
-     UE_LOG(LogTemp, Warning, TEXT("Options Button Clicked"));
-
-     // Use UIManager to show the Options Menu
-     if (UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>())
-     {
-          UIManager->ShowOptionsMenu();
-     }
-     else
-     {
-          UE_LOG(LogTemp, Error, TEXT("UIManager is NULL!"));
-     }
+     UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnOptionsButtonClicked() called"));
+     LoadOptionsMenu();
 }
 
 void UMainMenuWidget::OnQuitButtonClicked()
 {
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnQuitButtonClicked() called"));
-     // Call QuitGame() when QuitButton is clicked
      QuitGame();
 }
