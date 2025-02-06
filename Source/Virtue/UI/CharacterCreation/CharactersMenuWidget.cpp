@@ -87,7 +87,7 @@ void UCharactersMenuWidget::OnBackButtonClicked()
      // Implement logic to update your character list here.
      if (UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>())
      {
-          if (!inPartsMenu)
+          if (!bInPartsMenu)
           {
                // Close this Options Menu using UIManager's helper function.
                UIManager->CloseMenu(this);
@@ -98,7 +98,7 @@ void UCharactersMenuWidget::OnBackButtonClicked()
           else
           {
                PartsVerticalBox->SetVisibility(ESlateVisibility::Visible);
-               inPartsMenu = false;
+               bInPartsMenu = false;
           }
      }
 }
@@ -106,7 +106,7 @@ void UCharactersMenuWidget::OnBackButtonClicked()
 void UCharactersMenuWidget::OnPartsButtonClicked()
 {
      PartsVerticalBox->SetVisibility(ESlateVisibility::Collapsed);
-     inPartsMenu = true;
+     bInPartsMenu = true;
 }
 
 void UCharactersMenuWidget::OnCreateButtonClicked()

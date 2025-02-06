@@ -68,6 +68,6 @@ protected:
      void OnCreateButtonClicked();
 
 private:
-     bool inPartsMenu = false;
+     bool bInPartsMenu = false;
 };
 
