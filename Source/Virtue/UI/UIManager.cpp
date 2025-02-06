@@ -17,7 +17,6 @@ void UUIManager::Initialize(FSubsystemCollectionBase& Collection)
      if (!OptionsMenuWidgetClass)
      {
           // Adjust the path as necessary. Ensure the asset exists at this location.
-          // TODO: Absolute Path fix
           FSoftObjectPath OptionsMenuPath(*AssetPaths::OptionsMenuWidget);
           UObject* LoadedObject = OptionsMenuPath.TryLoad();
           if (LoadedObject)
@@ -37,6 +36,28 @@ void UUIManager::Initialize(FSubsystemCollectionBase& Collection)
                UE_LOG(LogTemp, Error, TEXT("UUIManager::Initialize - Failed to load OptionsMenuWidget via SoftObjectPath."));
           }
      }
+     if (!CharactersMenuWidgetClass)
+     {
+          FSoftObjectPath CharactersMenuPath(*AssetPaths::CharactersMenuWidget);
+          UObject* LoadedObject = CharactersMenuPath.TryLoad();
+          if (LoadedObject)
+          {
+               CharactersMenuWidgetClass = Cast<UClass>(LoadedObject);
+               if (CharactersMenuWidgetClass)
+               {
+                    UE_LOG(LogTemp, Warning, TEXT("UUIManager::Initialize - CharactersMenuWidgetClass assigned via SoftObjectPath."));
+               }
+               else
+               {
+                    UE_LOG(LogTemp, Error, TEXT("UUIManager::Initialize - Loaded object is not a UClass."));
+               }
+          }
+          else
+          {
+               UE_LOG(LogTemp, Error, TEXT("UUIManager::Initialize - Failed to load CharactersMenuWidget via SoftObjectPath."));
+          }
+     }
+
 }
 
 // Helper function: Opens a menu given its widget class.
@@ -200,4 +221,56 @@ void UUIManager::ShowOptionsMenu()
      OptionsMenu->SetVisibility(ESlateVisibility::Visible);
      OptionsMenu->AddToViewport();
      UE_LOG(LogTemp, Warning, TEXT("ShowOptionsMenu: Options Menu displayed successfully."));
+}
+
+void UUIManager::ShowCharactersMenu()
+{
+     UE_LOG(LogTemp, Warning, TEXT("UUIManager::ShowCharactersMenu() called"));
+
+     // If the Main Menu exists, hide it.
+     if (MainMenu)
+     {
+          MainMenu->SetVisibility(ESlateVisibility::Collapsed);
+          UE_LOG(LogTemp, Warning, TEXT("ShowCharactersMenu: Main Menu hidden."));
+     }
+     else
+     {
+          UE_LOG(LogTemp, Warning, TEXT("ShowCharactersMenu: Main Menu does not exist."));
+     }
+
+     // Ensure the Characters Menu widget class is set.
+     if (!CharactersMenuWidgetClass)
+     {
+          UE_LOG(LogTemp, Error, TEXT("ShowCharactersMenu: CharactersMenuWidgetClass is NULL!"));
+          return;
+     }
+
+     UWorld* World = GetWorld();
+     if (!World)
+     {
+          UE_LOG(LogTemp, Error, TEXT("ShowCharactersMenu: GetWorld() returned NULL."));
+          return;
+     }
+
+     // If the Characters Menu is not already created, create it.
+     if (!IsValid(CharactersMenu))
+     {
+          CharactersMenu = CreateWidget<UCharactersMenuWidget>(World, CharactersMenuWidgetClass);
+          if (!CharactersMenu)
+          {
+               UE_LOG(LogTemp, Error, TEXT("ShowCharactersMenu: Failed to create Characters Menu widget."));
+               return;
+          }
+     }
+
+     // Make sure the Characters Menu is visible and add it to the viewport.
+     if (!CharactersMenu->IsInViewport())
+     {
+          CharactersMenu->AddToViewport();
+          UE_LOG(LogTemp, Warning, TEXT("ShowCharactersMenu: Characters Menu displayed successfully."));
+     }
+     else
+     {
+          UE_LOG(LogTemp, Warning, TEXT("ShowCharactersMenu: Characters Menu was already visible."));
+     }
 }

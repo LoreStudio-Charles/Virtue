@@ -119,4 +119,33 @@ public:
      {
           return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("QuitToDesktop"));
      }
+
+     /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Characters Menu !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+     // Returns the localized text for the "Head" message.
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetPartsHeadButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsHead"));
+     }
+
+     // Returns the localized text for the "Torso" message.
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetPartsTorsoButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsTorso"));
+     }
+
+     // Returns the localized text for the "Back" message.
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetBackButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("BackButtonText"));
+     }
+
+     // Returns the localized text for the "Create" message.
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetCreateButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("CreateButtonText"));
+     }
 };

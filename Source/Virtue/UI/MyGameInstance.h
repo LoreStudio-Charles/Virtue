@@ -4,6 +4,7 @@
 #include "Engine/GameInstance.h"
 #include "MainMenuWidget.h"
 #include "OptionsMenuWidget.h"
+#include "Virtue/UI/CharacterCreation/CharactersMenuWidget.h"
 #include "MyGameInstance.generated.h"
 
 /**
@@ -32,4 +33,7 @@ public:
 
      UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Config | UI")
      TSubclassOf<UOptionsMenuWidget> OptionsMenuWidgetClass;
+
+     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Config | UI")
+     TSubclassOf<UCharactersMenuWidget> CharactersMenuWidgetClass;
 };

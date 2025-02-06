@@ -32,6 +32,16 @@ void UMyGameInstance::Init()
                UE_LOG(LogTemp, Error, TEXT("OptionsMenuWidgetClass is NULL! Make sure it is assigned in BP_MyGameInstance."));
           }
 
+          if (CharactersMenuWidgetClass)
+          {
+               UIManager->SetCharactersMenuWidgetClass(CharactersMenuWidgetClass);
+               UE_LOG(LogTemp, Warning, TEXT("CharactersMenuWidgetClass set successfully."));
+          }
+          else
+          {
+               UE_LOG(LogTemp, Error, TEXT("CharactersMenuWidgetClass is NULL! Make sure it is assigned in BP_MyGameInstance."));
+          }
+
           UIManager->ShowMainMenu();
      }
      else
@@ -39,3 +49,4 @@ void UMyGameInstance::Init()
           UE_LOG(LogTemp, Error, TEXT("UMyGameInstance::Init() - UIManager subsystem not found!"));
      }
 }
+

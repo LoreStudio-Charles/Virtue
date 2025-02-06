@@ -117,7 +117,15 @@ void UMainMenuWidget::QuitGame()
 void UMainMenuWidget::LoadCharacterMenu()
 {
      UE_LOG(LogTemp, Warning, TEXT("UMainMenuWidget::OnCharactersButtonClicked() called; loading Character menu"));
-     // Insert code here to switch to your Character Menu.
+     // Use UIManager to show the Characters Menu.
+          if (UUIManager* UIManager = GetGameInstance()->GetSubsystem<UUIManager>())
+          {
+               UIManager->ShowCharactersMenu();
+          }
+          else
+          {
+               UE_LOG(LogTemp, Error, TEXT("UIManager is NULL!"));
+          }
 }
 
 void UMainMenuWidget::LoadOptionsMenu()
