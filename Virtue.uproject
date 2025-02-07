@@ -13,6 +13,11 @@
 				"Slate",
 				"SlateCore"
 			]
+		},
+		{
+			"Name": "UMG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
