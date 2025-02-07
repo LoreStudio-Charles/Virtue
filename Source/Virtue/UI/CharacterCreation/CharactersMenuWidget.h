@@ -25,7 +25,19 @@ public:
      UButton* PartsHeadButton;
 
      UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+     UButton* PartsHairButton;
+
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
      UButton* PartsTorsoButton;
+
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+     UButton* PartsArmsButton;
+
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+     UButton* PartsLegsButton;
+
+     UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
+     UButton* PartsAccessoriesButton;
 
      UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
      UButton* BackButton;
@@ -38,7 +50,19 @@ public:
      UTextBlock* PartsHeadButtonText;
 
      UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* PartsHairButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
      UTextBlock* PartsTorsoButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* PartsArmsButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* PartsLegsButtonText;
+
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* PartsAccessoriesButtonText;
 
      UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
      UTextBlock* BackButtonText;
@@ -59,7 +83,19 @@ protected:
      void OnPartsHeadButtonClicked();
 
      UFUNCTION()
+     void OnPartsHairButtonClicked();
+
+     UFUNCTION()
      void OnPartsTorsoButtonClicked();
+
+     UFUNCTION()
+     void OnPartsArmsButtonClicked();
+
+     UFUNCTION()
+     void OnPartsLegsButtonClicked();
+
+     UFUNCTION()
+     void OnPartsAccessoriesButtonClicked();
 
      UFUNCTION()
      void OnBackButtonClicked();

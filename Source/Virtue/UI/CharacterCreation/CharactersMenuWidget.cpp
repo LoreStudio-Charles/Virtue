@@ -13,28 +13,49 @@ void UCharactersMenuWidget::NativeConstruct()
      Super::NativeConstruct();
      UE_LOG(LogTemp, Warning, TEXT("UCharactersMenuWidget::NativeConstruct() called"));
 
-     // Bind the `Head` parts button.
+     // Bind the buttons.
      if (PartsHeadButton)
      {
           PartsHeadButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnPartsHeadButtonClicked);
           PartsHeadButton->OnClicked.AddDynamic(this, &UCharactersMenuWidget::OnPartsHeadButtonClicked);
      }
 
-     // Bind the `Torso` parts button.
+     if (PartsHairButton)
+     {
+          PartsHairButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnPartsHairButtonClicked);
+          PartsHairButton->OnClicked.AddDynamic(this, &UCharactersMenuWidget::OnPartsHairButtonClicked);
+     }
+
      if (PartsTorsoButton)
      {
           PartsTorsoButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnPartsTorsoButtonClicked);
           PartsTorsoButton->OnClicked.AddDynamic(this, &UCharactersMenuWidget::OnPartsTorsoButtonClicked);
      }
 
-     // Bind the `Back` button.
+     if (PartsArmsButton)
+     {
+          PartsArmsButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnPartsArmsButtonClicked);
+          PartsArmsButton->OnClicked.AddDynamic(this, &UCharactersMenuWidget::OnPartsArmsButtonClicked);
+     }
+
+     if (PartsLegsButton)
+     {
+          PartsLegsButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnPartsLegsButtonClicked);
+          PartsLegsButton->OnClicked.AddDynamic(this, &UCharactersMenuWidget::OnPartsLegsButtonClicked);
+     }
+
+     if (PartsAccessoriesButton)
+     {
+          PartsAccessoriesButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnPartsAccessoriesButtonClicked);
+          PartsAccessoriesButton->OnClicked.AddDynamic(this, &UCharactersMenuWidget::OnPartsAccessoriesButtonClicked);
+     }
+
      if (BackButton)
      {
           BackButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnBackButtonClicked);
           BackButton->OnClicked.AddDynamic(this, &UCharactersMenuWidget::OnBackButtonClicked);
      }
 
-     // Bind the `Create` button.
      if (CreateButton)
      {
           CreateButton->OnClicked.RemoveDynamic(this, &UCharactersMenuWidget::OnCreateButtonClicked);
@@ -48,10 +69,34 @@ void UCharactersMenuWidget::NativeConstruct()
           PartsHeadButtonText->SetText(PartsHead);
      }
 
+     if (PartsHairButtonText)
+     {
+          FText PartsHair = UMessagesFunctionLibrary::GetPartsHairButtonText();
+          PartsHairButtonText->SetText(PartsHair);
+     }
+
      if (PartsTorsoButtonText)
      {
           FText PartsTorso = UMessagesFunctionLibrary::GetPartsTorsoButtonText();
           PartsTorsoButtonText->SetText(PartsTorso);
+     }
+     
+     if (PartsArmsButtonText)
+     {
+          FText PartsArms = UMessagesFunctionLibrary::GetPartsArmsButtonText();
+          PartsArmsButtonText->SetText(PartsArms);
+     }
+
+     if (PartsLegsButtonText)
+     {
+          FText PartsLegs = UMessagesFunctionLibrary::GetPartsLegsButtonText();
+          PartsLegsButtonText->SetText(PartsLegs);
+     }
+
+     if (PartsAccessoriesButtonText)
+     {
+          FText PartsAccessories = UMessagesFunctionLibrary::GetPartsAccessoriesButtonText();
+          PartsAccessoriesButtonText->SetText(PartsAccessories);
      }
 
      if (BackButtonText)
@@ -74,9 +119,35 @@ void UCharactersMenuWidget::OnPartsHeadButtonClicked()
      OnPartsButtonClicked();
 }
 
+void UCharactersMenuWidget::OnPartsHairButtonClicked(){
+     UE_LOG(LogTemp, Warning, TEXT("Hair button clicked"));
+     // Implement logic to update your character list here.
+     OnPartsButtonClicked();
+}
+
 void UCharactersMenuWidget::OnPartsTorsoButtonClicked()
 {
      UE_LOG(LogTemp, Warning, TEXT("Torso button clicked"));
+     // Implement logic to update your character list here.
+     OnPartsButtonClicked();
+}
+
+void UCharactersMenuWidget::OnPartsArmsButtonClicked()
+{
+     UE_LOG(LogTemp, Warning, TEXT("Arms button clicked"));
+     // Implement logic to update your character list here.
+     OnPartsButtonClicked();
+}
+
+void UCharactersMenuWidget::OnPartsLegsButtonClicked()
+{
+     UE_LOG(LogTemp, Warning, TEXT("Legs button clicked"));
+     // Implement logic to update your character list here.
+     OnPartsButtonClicked();
+}
+
+void UCharactersMenuWidget::OnPartsAccessoriesButtonClicked(){
+     UE_LOG(LogTemp, Warning, TEXT("Accessories button clicked"));
      // Implement logic to update your character list here.
      OnPartsButtonClicked();
 }

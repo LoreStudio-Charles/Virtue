@@ -128,6 +128,12 @@ public:
           return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsHead"));
      }
 
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetPartsHairButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsHair"));
+     }
+
      // Returns the localized text for the "Torso" message.
      UFUNCTION(BlueprintPure, Category = "Config | Messages")
      static FText GetPartsTorsoButtonText()
@@ -135,6 +141,23 @@ public:
           return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsTorso"));
      }
 
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetPartsArmsButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsArms"));
+     }
+     
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetPartsLegsButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsLegs"));
+     }
+
+     UFUNCTION(BlueprintPure, Category = "Config | Messages")
+     static FText GetPartsAccessoriesButtonText()
+     {
+          return FText::FromStringTable((*AssetPaths::UIStrings), TEXT("PartsAccessories"));
+     }
      // Returns the localized text for the "Back" message.
      UFUNCTION(BlueprintPure, Category = "Config | Messages")
      static FText GetBackButtonText()
