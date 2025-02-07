@@ -70,6 +70,9 @@ Saved/*
 Intermediate/*
 Plugins/**/Intermediate/*
 
+# Developer testing files
+Content/Developers/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
 
