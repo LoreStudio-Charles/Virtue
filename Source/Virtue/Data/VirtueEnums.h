@@ -15,3 +15,13 @@ enum class ECharacterPartType : uint8
      Legs         UMETA(DisplayName = "Legs"),
      Accessories  UMETA(DisplayName = "Accessories")
 };
+
+/** Enumerates the different screens in the character menu. */
+UENUM(BlueprintType)
+enum class ECharacterMenuScreen : uint8
+{
+     Landing UMETA(DisplayName = "Landing"),
+     Create  UMETA(DisplayName = "Create"),
+     Delete  UMETA(DisplayName = "Delete"),
+     Select  UMETA(DisplayName = "Select")
+};
