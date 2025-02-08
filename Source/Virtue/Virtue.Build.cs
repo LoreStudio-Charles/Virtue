@@ -1,31 +1,36 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 using UnrealBuildTool;
+using System.IO;
 
 public class Virtue : ModuleRules
 {
-	public Virtue(ReadOnlyTargetRules Target) : base(Target)
-	{
-		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
-	
-		PublicDependencyModuleNames.AddRange(new string[] { 
-			"Core", 
-			"CoreUObject", 
-			"Engine",
-               "EnhancedInput",
-               "InputCore",
-			"UMG"
-		});
+     public Virtue(ReadOnlyTargetRules Target) : base(Target)
+     {
+          PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		// Uncomment if you are using Slate UI
-		PrivateDependencyModuleNames.AddRange(new string[] { 
-			"Slate",
-			"SlateCore"
-		});
-		
-		// Uncomment if you are using online features
-		// PrivateDependencyModuleNames.Add("OnlineSubsystem");
+          PublicDependencyModuleNames.AddRange(new string[] {
+            "Core",
+            "CoreUObject",
+            "Engine",
+            "EnhancedInput",
+            "InputCore",
+            "UMG"
+        });
 
-		// To include OnlineSubsystemSteam, add it to the plugins section in your uproject file with the Enabled attribute set to true
-	}
+          // Uncomment if you are using Slate UI
+          PrivateDependencyModuleNames.AddRange(new string[] {
+            "Slate",
+            "SlateCore"
+        });
+
+          // Uncomment if you are using online features
+          // PrivateDependencyModuleNames.Add("OnlineSubsystem");
+
+          // To include OnlineSubsystemSteam, add it to the plugins section in your uproject file with the Enabled attribute set to true
+
+          // Additional public include paths based on your new project structure.
+          PublicIncludePaths.AddRange(new string[] {
+            Path.Combine(ModuleDirectory, "UI", "Base"),
+            Path.Combine(ModuleDirectory, "UI", "Managers")
+        });
+     }
 }
