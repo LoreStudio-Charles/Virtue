@@ -1,6 +1,6 @@
 #include "VirtueGameInstance.h"
-#include "UIManager.h"
 #include "Virtue/Online/OnlineSessionManager.h"
+#include "UIManager.h"
 #include "Logging/LogMacros.h"
 
 void UVirtueGameInstance::Init()

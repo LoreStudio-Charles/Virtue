@@ -41,6 +41,8 @@ void UUIManager::Initialize(FSubsystemCollectionBase& Collection)
 {
      Super::Initialize(Collection);
      UE_LOG(LogTemp, Warning, TEXT("UUIManager::Initialize() called"));
+     UE_LOG(LogTemp, Warning, TEXT("MainMenuWidget asset path: %s"), *AssetPaths::MainMenuWidget);
+
 
      if (!OptionsMenuWidgetClass)
      {
