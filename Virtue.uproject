@@ -7,6 +7,16 @@
 		{
 			"Name": "Virtue",
 			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"Slate",
+				"SlateCore"
+			]
+		},
+		{
+			"Name": "UMG",
+			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
