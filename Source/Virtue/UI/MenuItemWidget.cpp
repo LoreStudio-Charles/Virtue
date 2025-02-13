@@ -35,8 +35,8 @@ void UMenuItemWidget::UpdateTextFromUIStrings()
 {
      if (ItemText && !MenuItemKey.IsNone())
      {
-          FText LocalizedText = UMessagesFunctionLibrary::GetUIString(MenuItemKey);
-          ItemText->SetText(LocalizedText);
+          //FText LocalizedText = UMessagesFunctionLibrary::GetUIString(MenuItemKey);
+          //ItemText->SetText(LocalizedText);
      }
 }
 
