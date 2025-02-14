@@ -56,36 +56,36 @@ public:
 
 protected:
      // UI elements for buttons.
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UButton* ConnectButton;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UButton* ConnectButton;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UButton* QuitButton;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UButton* QuitButton;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UButton* CharactersButton;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UButton* CharactersButton;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UButton* OptionsButton;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UButton* OptionsButton;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UButton* LogoutButton;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UButton* LogoutButton;
 
-     //// UI elements for button labels.
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UTextBlock* ConnectButtonText;
+     // UI elements for button labels.
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* ConnectButtonText;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UTextBlock* QuitButtonText;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* QuitButtonText;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UTextBlock* CharactersButtonText;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* CharactersButtonText;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UTextBlock* OptionsButtonText;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* OptionsButtonText;
 
-     //UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-     //UTextBlock* LogoutButtonText;
+     UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+     UTextBlock* LogoutButtonText;
 
 private:
      // Tracks login state.
