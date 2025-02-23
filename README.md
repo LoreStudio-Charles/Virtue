@@ -156,7 +156,7 @@ You weigh your options. Taking a deep breath, you decide to step forward, your h
 #### Charity, Faith, or Valor
 As you stroll along the narrow path leading from your family's small farm into the village of Swansea, the sun hangs low in the sky, casting golden rays across the fields. You're lost in thought about the day's chores when you hear a commotion near the marketplace. Curiosity piqued, you quicken your steps.  
 When you arrive, you see a crowd gathered around a wooden cart that has toppled over. A merchant's wares are strewn across the ground. A vibrant array of fruits, fabrics, and trinkets. Among the crowd, you spot a figure struggling to gather the spilled goods: an elderly woman, her frail hands shaking as she tries to lift a crate filled with fragile pottery.  
-Some villagers laugh, pointing at the woman's misfortune instead of helping her—a pang of discomfort twists in your stomach. Memories of your family's struggles resurface, reminding you of the kindness shown in your times of need.  
+Some villagers laugh, pointing at the woman's misfortune instead of helping her. A pang of discomfort twists in your stomach. Memories of your family's struggles resurface, reminding you of the kindness shown in your times of need.  
 ##### Option Cards
 Rush forward, in an act of **Charity**, and offer to help the woman gather her things. You could encourage others to join in, spreading goodwill in the face of mockery. It feels right to lend a hand, regardless of the scornful looks from the crowd.  
 Approach the woman calmly, in an act of **Faith**, and reassure her that everything will be alright. You could remind her of Loving Father's provision and how he has carried her through hardships before, encouraging her to believe in His love and not let this misfortune define her.  
@@ -224,7 +224,7 @@ In this moment, you're not just a child at the edge of a farm; you're a young so
 #### Charity, Temperance, or Valor
 You stand on the edge of the sun-drenched field, the tall grass whispering secrets as the wind sways through it. The sweet scent of wildflowers mingles with the earthy aroma of tilled soil. You and your siblings have been tasked with gathering the herbs from summer before the first frost blankets the ground. Laughter fills the air, a melodic backdrop to your diligent work.  
 As you bend down to pluck a sprig of thyme, you hear a whimpering sound beneath the nearby oak. Curiosity pulls you closer, and you discover a small, trembling dog caught in the brambles. His matted fur is coated with dirt, and his eyes, wide with fear, plead for help. You reach out instinctively, but the thorns snag at your fingers, a painful warning of what might come if you intervene.  
-Glancing back at your siblings shows them having fun, oblivious to the suffering creature. You can feel the weight of the decision pressing on your young shoulders. This little dog needs you, but aiding him means sacrificing precious time—your family depends on gathering the herbs for winter supplies.  
+Glancing back at your siblings shows them having fun, oblivious to the suffering creature. You can feel the weight of the decision pressing on your young shoulders. This little dog needs you, but aiding him means sacrificing precious time. Your family depends on gathering the herbs for winter supplies.  
 You pause, feeling the world's weight settle on your young heart. Do you:  
 ##### Option Cards
 Carefully cut through the brambles to free the dog, offering him the **Charity** he desperately needs, even if it costs you time.  
@@ -234,14 +234,14 @@ Rush to the rescue and face the thorns alone, freeing the dog with determination
 In this moment, you stand at a crossroads, a child learning that every choice carries weight and that the path of the heart isn't always the easiest one to follow. What happens next is up to you.  
 
 #### Justice, Faith, or Perseverance
-The sun hangs low in the sky, casting a warm glow over the fields of Swansea as you stride across the familiar paths of your family's farm. The voices of your siblings fade into the distance as you approach the village, a sense of unease settling in your chest. There are whispers in town—rumors of trouble brewing, tales of stolen crops, and harsh words exchanged between neighbors.  
+The sun hangs low in the sky, casting a warm glow over the fields of Swansea as you stride across the familiar paths of your family's farm. The voices of your siblings fade into the distance as you approach the village, a sense of unease settling in your chest. There are whispers in town. Rumors of trouble brewing, tales of stolen crops, and harsh words exchanged between neighbors.  
 As you reach the edge of the village, the commotion draws your attention. A crowd has gathered, anger and fear palpable in the air. You step closer, your heart pounding as you hear shouts accusing a struggling farmer, Edgar, of theft. He stands in the center, his face pale and trembling, hands raised in a plea for understanding. You know Edgar well; he has always been kind to your family, sharing what little he has when times are tough.   
 “Enough!” a voice booms from somewhere in the crowd, a farmer from a neighboring plot whose resentment towards Edgar has festered for years. “He's been caught red-handed! It's time he faces justice for his misdeeds.”  
 You feel a surge of anger rising within you. You know Edgar wouldn't steal; you think desperation drives people to do things they usually wouldn't. Yet, the majority seems set on punishment and ready to act without hearing him out.  
 As the voices grow louder, you realize you're at a crossroads. You could:  
 ##### Option Cards
 Step forward and defend Edgar, demanding that **Justice** be served once the truth is established, even if it means putting yourself in the line of scorn from the villagers.  
-Trust in the stories of **Faith** your mother shared—that Loving Father will provide for all. You restore the stolen crops, knowing that you risk personal loss unless you discover what happened to the crops.  
+Trust in the stories of **Faith** your mother shared. That Loving Father will provide for all. You restore the stolen crops, knowing that you risk personal loss unless you discover what happened to the crops.  
 Choose **Perseverance**, calm the crowd, and seek out proof of Edgar's innocence quietly in the shadows. Find the culprit behind the theft while keeping Edgar safe from the fierce judgment of the villagers.  
 ##### Footer
 In this moment, you understand that the weight of your choice could change Edgar's fate and reshape the bonds within your community. What happens next is up to you.  
