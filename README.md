@@ -143,6 +143,39 @@ and dreams, beneath the azure skies.
 #### Starting Skills
 Bookish, Gifted with a Voice, Good Eye, Loves Animals
 
+#### Justice, Humility, or Perseverance
+One chilly morning, as a light mist blankets the ground, you wander through a park near the village of Swansea, clutching your favorite red ball. The air is crisp, and your excitement bubbles over as you bounce the ball, imagining all the fun games you could play with your friends. Suddenly, your joyful exploration stops when you spot a small group of children gathered near the pond.  
+Curious, you edge closer and see a younger girl, Lily, sitting alone on a swing with tears streaming down her cheeks. A violin lies haphazardly discarded in the mud nearby. Older children are mocking her for not knowing how to play the instrument. You feel a tug at your heart; you know how it feels for someone to make fun of you. Seeing someone else endure such pain stings.  
+##### Option Cards
+You could march up to those bullies in a display of **Justice** and tell them to stop. It would take great courage and might mean facing their anger, but standing up for what is right is something that you believe in.  
+You could approach Lily gently, sit with her, and offer her words of comfort. In an act of **Humility**, you could share your own experiences of feeling left out, showing her that she’s not alone. This choice might not stop the bullying immediately, but it would lift her spirits and affirm her worth.  
+Rather than confronting the bullies or comforting Lily, you could teach her the value of **Perseverance** through our sufferings and remind her that everyone starts somewhere. You could invite her to play with you, showing her that persistence can lead to improvement and new friendships.  
+##### Footer
+You weigh your options. Taking a deep breath, you decide to step forward, your heart pounding with determination. What happens next is up to you.  
+
+#### Charity, Faith, or Valor
+As you stroll along the narrow path leading from your family's small farm into the village of Swansea, the sun hangs low in the sky, casting golden rays across the fields. You're lost in thought about the day's chores when you hear a commotion near the marketplace. Curiosity piqued, you quicken your steps.  
+When you arrive, you see a crowd gathered around a wooden cart that has toppled over. A merchant's wares are strewn across the ground—a vibrant array of fruits, fabrics, and trinkets. Among the crowd, you spot a figure struggling to gather the spilled goods: an elderly woman, her frail hands shaking as she tries to lift a crate filled with fragile pottery.  
+Some villagers laugh, pointing at the woman's misfortune instead of helping her—a pang of discomfort twists in your stomach. Memories of your family's struggles resurface, reminding you of the kindness shown in your times of need.  
+##### Option Cards
+You could rush forward, in an act of **Charity**, and offer to help the woman gather her things. You could encourage others to join in, spreading goodwill in the face of mockery. It feels right to lend a hand, regardless of the scornful looks from the crowd.  
+You might approach the woman calmly, in an act of **Faith**, and reassure her that everything will be alright. You could remind her of her strength and how she has overcome hardships before, encouraging her to believe in herself and not let this misfortune define her.  
+Instead of shrinking away from the jeering crowd, you could step up to confront them with **Valor**, telling them to stop their laughter and instead lend their strength to help the woman. It would take courage to stand against the mockery, but igniting a sense of unity within the crowd may instigate a change in the atmosphere.  
+##### Footer
+With your heart racing, you take a deep breath and prepare to make your choice, each path guiding you toward a different kind of heroism. What happens next is up to you.  
+
+#### Charity, Humility, Perseverance
+The late afternoon sun bathes the fields in a golden hue as you wander along the familiar path leading home from the village market. Your heart is light, buoyed by the prospect of sharing your day’s stories with your siblings. But as you approach the edge of the woods, the laughter and chatter of children catch your ear. Intrigued, you make your way toward the sound.  
+You soon discover a gathering of village kids playing near the brook, but the mood shifts when you notice a girl at the edge of the group, her arms crossed tightly and tears glistening on her cheeks. It is Elara, a timid neighbor who often keeps to herself. She clutches a small, ragged doll that has seen better days. A couple of older boys are mocking her, taunting her about her old toy, and urging the others to join in the laughter.  
+A pang of sympathy strikes you. You remember your own childhood, the times you felt isolated among your siblings' boisterous games. You have endured mockery; you understand the weight of such teasing.  
+##### Option Cards
+You could reach out to Elara, offering to share your own beloved possessions or even a more suitable toy from your home, proving that **Charity** can triumph over cruelty.  
+Approach Elara with understanding, sharing your own stories of feeling overlooked or mocked. Standing beside her, you could encourage her to talk about her feelings while letting her know it’s perfectly okay to feel upset. In an act of **Faith**, you could remind her that even the Returning Prince faced scorn and Betrayal.  
+Suggest a game that could include everyone, encouraging the boys to redirect their energy into something positive. Showing **Temperance**, you could guide the group in a playful contest, showing them that there’s more joy in camaraderie than in ridicule. This way, you teach both Elara and the others about kindness through shared experiences.  
+##### Footer
+Taking a deep breath, you feel the weight of the moment upon your shoulders. What happens next is up to you.  
+
+
 ### Outlaw 
 In forest deep, stands hunter tall,  
 With strength of heart, a promise calls.  
