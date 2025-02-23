@@ -119,30 +119,31 @@ Quickness to see and avoid the hidden blade or the flashing blaze.
 
 ## Backgrounds
 ### Goodson
-In quiet fields where shadows lie,  
-The youngest farm boy watches sky.  
-Beneath the might of brothers bold,  
-He feels his tale will die untold.  
+In quiet fields where shadows lie,
+The youngest farm boy watches sky.
+Beneath the might of brothers bold,
+He feels his tale will die untold.
 
-Momma's love and kind embrace,  
-Papa's smiles, a warm, safe space.  
-Beneath the tales of strength and cheer,  
-he longs to conquer lonely fear.  
+Momma's love and kind embrace,
+Papa's smiles, a warm, safe space.
+Beneath the tales of strength and cheer,
+he longs to conquer lonely fear.
 
-In shadow cast by brothers' lives,  
-he prays and hopes, as he  still strives  
-to live the life which might atain  
-the sagas told in his brother's names.  
+In shadow cast by brothers' lives,
+he prays and hopes, as he still strives
+to live the life which might attain
+the sagas told in his brother's names.
 
-For every seed of doubt he sows,  
-A quiet courage within him grows.  
-His overshadowed spirits rise,  
-he dreams, beneath the azure skies.  
+For every seed of doubt, he sows,
+A quiet courage within him grows.
+His overshadowed spirits rise,
+and dreams, beneath the azure skies.
+  
 
 #### Starting Skills
 Bookish, Gifted with a Voice, Good Eye, Loves Animals
 
-### The Outlaw 
+### Outlaw 
 In forest deep, stands hunter tall,  
 With strength of heart, a promise calls.  
 His bowstring sings, and arrow flies  
@@ -170,7 +171,7 @@ And prove my soul is innocent.
 #### Starting Skills
 Handy with a Knife, Handy with a Bow, Lay Low, Prowler
 
-### The Sailor
+### Sailor
 Upon the waves, I sail with pride,  
 My family's love, I will abide.  
 From distant lands, these goods I bring,  
@@ -193,7 +194,7 @@ love knows no bounds, my hope sublime.
 #### Starting Skills
 Rover, Mapper, Swabby, Riverrat
 
-### The Lover
+### Lover
 I rode to town, heart full of hope,  
 and saw my love, my dream to cope.  
 Yet shadows cast, with danger near,  
@@ -212,7 +213,7 @@ left all alone, my hope repealed.
 #### Starting Skills
 Graceful, Gifted with a Voice, Rider, Scrapper
 
-### The Crushed Rose
+### Crushed Rose
 Yesterday, the world did glow,  
 shadow drapes, light used to flow.  
 My families goods I hoped to trade,  
@@ -230,7 +231,7 @@ a burden none must ever know.
 #### Starting Skills
 Graceful, Gifted with a Voice, Charming, Haggler
 
-### The Ugly Maid
+### Ugly Maid
 Beauty's grace is deemed the prize,  
 The duckling hides, 'neath watchful skies.  
 Your sister Sue, seems beautifully plain
@@ -243,7 +244,7 @@ you cherish life where creature's play.
 #### Starting Skills
 Loves Animals, Gifted with Voice, Gifted with a Lute,  Good Eye
 
-### The Oppressed
+### Oppressed
 They always warned you, with words so clear  
 “Stay far from shadows, don't dare draw near.”  
 Yet in the dark, you dared to play,  
@@ -261,7 +262,7 @@ A haunting tale that has to end.
 #### Starting Skills
 Superstitious, Good Eye, Bookish, Lay Low
 
-### Ms. Mary Sue Vanilla
+### Mary Sue Vanilla
 In sisters' shadows, the youngest stays,  
 In longing whispers, and quiet days.  
 dreams left unspoken, and tales untold,  
