@@ -236,7 +236,7 @@ In this moment, you stand at a crossroads, a child learning that every choice ca
 #### Justice, Faith, or Perseverance
 The sun hangs low in the sky, casting a warm glow over the fields of Swansea as you stride across the familiar paths of your family's farm. The voices of your siblings fade into the distance as you approach the village, a sense of unease settling in your chest. There are whispers in town. Rumors of trouble brewing, tales of stolen crops, and harsh words exchanged between neighbors.  
 As you reach the edge of the village, the commotion draws your attention. A crowd has gathered, anger and fear palpable in the air. You step closer, your heart pounding as you hear shouts accusing a struggling farmer, Edgar, of theft. He stands in the center, his face pale and trembling, hands raised in a plea for understanding. You know Edgar well; he has always been kind to your family, sharing what little he has when times are tough.   
-“Enough!” a voice booms from somewhere in the crowd, a farmer from a neighboring plot whose resentment towards Edgar has festered for years. “He's been caught red-handed! It's time he faces justice for his misdeeds.”  
+"Enough!" a voice booms from somewhere in the crowd, a farmer from a neighboring plot whose resentment towards Edgar has festered for years. "He's been caught red-handed! It's time he faces justice for his misdeeds."  
 You feel a surge of anger rising within you. You know Edgar wouldn't steal; you think desperation drives people to do things they usually wouldn't. Yet, the majority seems set on punishment and ready to act without hearing him out.  
 As the voices grow louder, you realize you're at a crossroads. You could:  
 ##### Option Cards
@@ -322,7 +322,7 @@ Loves Animals, Gifted with Voice, Gifted with a Lute,  Good Eye
 
 ### Oppressed
 They always warned you, with words so clear  
-“Stay far from shadows, don't dare draw near.”  
+"Stay far from shadows, don't dare draw near."  
 Yet in the dark, you dared to play,  
 And now your friend won't fade away.  
 
