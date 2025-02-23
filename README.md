@@ -148,14 +148,14 @@ One chilly morning, as a light mist blankets the ground, you wander through a pa
 Curious, you edge closer and see a younger girl, Lily, sitting alone on a swing with tears streaming down her cheeks. A violin lies haphazardly discarded in the mud nearby. Older children are mocking her for not knowing how to play the instrument. You feel a tug at your heart; you know how it feels for someone to make fun of you. Seeing someone else endure such pain stings.  
 ##### Option Cards
 YMarch up to those bullies in a display of **Justice** and tell them to stop. It would take great courage and might mean facing their anger, but standing up for what is right is something that you believe in.  
-Approach Lily gently, sit with her, and offer her words of comfort. In an act of **Humility**, you could share your own experiences of feeling left out, showing her that she’s not alone. This choice might not stop the bullying immediately, but it would lift her spirits and affirm her worth.  
+Approach Lily gently, sit with her, and offer her words of comfort. In an act of **Humility**, you could share your own experiences of feeling left out, showing her that she's not alone. This choice might not stop the bullying immediately, but it would lift her spirits and affirm her worth.  
 Teach Lily the value of **Perseverance** through our sufferings and remind her that everyone starts somewhere. You could invite her to play with you, showing her that persistence can lead to improvement and new friendships.  
 ##### Footer
 You weigh your options. Taking a deep breath, you decide to step forward, your heart pounding with determination. What happens next is up to you.  
 
 #### Charity, Faith, or Valor
 As you stroll along the narrow path leading from your family's small farm into the village of Swansea, the sun hangs low in the sky, casting golden rays across the fields. You're lost in thought about the day's chores when you hear a commotion near the marketplace. Curiosity piqued, you quicken your steps.  
-When you arrive, you see a crowd gathered around a wooden cart that has toppled over. A merchant's wares are strewn across the ground—a vibrant array of fruits, fabrics, and trinkets. Among the crowd, you spot a figure struggling to gather the spilled goods: an elderly woman, her frail hands shaking as she tries to lift a crate filled with fragile pottery.  
+When you arrive, you see a crowd gathered around a wooden cart that has toppled over. A merchant's wares are strewn across the ground. A vibrant array of fruits, fabrics, and trinkets. Among the crowd, you spot a figure struggling to gather the spilled goods: an elderly woman, her frail hands shaking as she tries to lift a crate filled with fragile pottery.  
 Some villagers laugh, pointing at the woman's misfortune instead of helping her—a pang of discomfort twists in your stomach. Memories of your family's struggles resurface, reminding you of the kindness shown in your times of need.  
 ##### Option Cards
 Rush forward, in an act of **Charity**, and offer to help the woman gather her things. You could encourage others to join in, spreading goodwill in the face of mockery. It feels right to lend a hand, regardless of the scornful looks from the crowd.  
@@ -165,13 +165,13 @@ Step up to confront them with **Valor**, telling them to stop their laughter and
 With your heart racing, you take a deep breath and prepare to make your choice, each path guiding you toward a different kind of heroism. What happens next is up to you.  
 
 #### Charity, Humility, Perseverance
-The late afternoon sun bathes the fields in a golden hue as you wander along the familiar path leading home from the village market. Your heart is light, buoyed by the prospect of sharing your day’s stories with your siblings. But as you approach the edge of the woods, the laughter and chatter of children catch your ear. Intrigued, you make your way toward the sound.  
+The late afternoon sun bathes the fields in a golden hue as you wander along the familiar path leading home from the village market. Your heart is light, buoyed by the prospect of sharing your day's stories with your siblings. But as you approach the edge of the woods, the laughter and chatter of children catch your ear. Intrigued, you make your way toward the sound.  
 You soon discover a gathering of village kids playing near the brook, but the mood shifts when you notice a girl at the edge of the group, her arms crossed tightly and tears glistening on her cheeks. It is Elara, a timid neighbor who often keeps to herself. She clutches a small, ragged doll that has seen better days. A couple of older boys are mocking her, taunting her about her old toy, and urging the others to join in the laughter.  
 A pang of sympathy strikes you. You remember childhood when you felt isolated among your siblings' boisterous games. You have endured mockery; you understand the weight of such teasing.  
 ##### Option Cards
 Reach out to Elara, offering to share your beloved possessions or even a more suitable toy from your home, proving that **Charity** can triumph over cruelty.  
-Approach Elara with understanding and share stories of times you felt overlooked or mocked. Standing beside her, you could encourage her to talk about her feelings while letting her know it’s perfectly okay to feel upset. In this act of **Faith**, you could remind her that even the Returning Prince faced scorn and Betrayal.  
-Suggest a game that could include everyone, encouraging the boys to redirect their energy into something positive. Showing **Temperance**, you could guide the group in a playful contest, showing them there’s more joy in camaraderie than in ridicule. This way, you teach Elara and the others about kindness through shared experiences.  
+Approach Elara with understanding and share stories of times you felt overlooked or mocked. Standing beside her, you could encourage her to talk about her feelings while letting her know it's perfectly okay to feel upset. In this act of **Faith**, you could remind her that even the Returning Prince faced scorn and Betrayal.  
+Suggest a game that could include everyone, encouraging the boys to redirect their energy into something positive. Showing **Temperance**, you could guide the group in a playful contest, showing them there's more joy in camaraderie than in ridicule. This way, you teach Elara and the others about kindness through shared experiences.  
 ##### Footer
 Taking a deep breath, you feel the weight of the moment upon your shoulders. What happens next is up to you.  
 
@@ -211,7 +211,7 @@ Handy with a Knife, Handy with a Bow, Lay Low, Prowler
 
 #### Justice, Humility, or Faith
 You stand at the edge of the farm, the air thick with the scent of earth and hay. Your siblings are scattered about, engrossed in their games. Laughter rings out like bells in the warm sunlight. But your attention is drawn to the small clearing where a sparrow flutters helplessly, caught in a snare you set in your innocent curiosity.  
-As you approach, your stomach knots. You didn’t mean to hurt the little creature. Its tiny eyes are full of fear, and you can feel its desperation. You remember your mother's stories about the importance of kindness and justice. But your father had warned against trying to set traps without his help.  
+As you approach, your stomach knots. You didn't mean to hurt the little creature. Its tiny eyes are full of fear, and you can feel its desperation. You remember your mother's stories about the importance of kindness and justice. But your father had warned against trying to set traps without his help.  
 You glance back at your siblings, who are happily unaware of your turmoil. You could call for help or seek out one of them to loosen the rope, but that would mean admitting your mistake. The thought of their laughter turning to scorn crushes your heart.   
 As you crouch beside the sparrow, its tiny chest rising and falling rapidly, you know you have a decision to make. Do you:  
 ##### Option Cards
@@ -219,7 +219,7 @@ Call your siblings to get help in an act of **Humility**, knowing that it might 
 Recall the stories of the Loving Father's love for the sparrow, have **Faith** in His protection, and tell your siblings to get your father, knowing that this could lead to punishment.  
 Unravel the snare, rush the sparrow home to your father, and confess what you did. Surrendering to **Justice** may be the fastest way to help the tiny creature.  
 ##### Footer
-In this moment, you're not just a child at the edge of a farm; you’re a young soul learning the profound lessons of justice, humility, and faith. What happens next is up to you.  
+In this moment, you're not just a child at the edge of a farm; you're a young soul learning the profound lessons of justice, humility, and faith. What happens next is up to you.  
 
 #### Charity, Temperance, or Valor
 You stand on the edge of the sun-drenched field, the tall grass whispering secrets as the wind sways through it. The sweet scent of wildflowers mingles with the earthy aroma of tilled soil. You and your siblings have been tasked with gathering the herbs from summer before the first frost blankets the ground. Laughter fills the air, a melodic backdrop to your diligent work.  
@@ -231,20 +231,20 @@ Carefully cut through the brambles to free the dog, offering him the **Charity**
 Hurry back to gather your siblings, rallying their strength to help the dog together, demonstrating the power of **Temperance** in your response as you work with your siblings to overcome the briars as a united front.  
 Rush to the rescue and face the thorns alone, freeing the dog with determination and courage, embodying **Valor** in your choice to help, regardless of the risk to yourself.  
 ##### Footer
-In this moment, you stand at a crossroads, a child learning that every choice carries weight and that the path of the heart isn’t always the easiest one to follow. What happens next is up to you.  
+In this moment, you stand at a crossroads, a child learning that every choice carries weight and that the path of the heart isn't always the easiest one to follow. What happens next is up to you.  
 
 #### Justice, Faith, or Perseverance
 The sun hangs low in the sky, casting a warm glow over the fields of Swansea as you stride across the familiar paths of your family's farm. The voices of your siblings fade into the distance as you approach the village, a sense of unease settling in your chest. There are whispers in town—rumors of trouble brewing, tales of stolen crops, and harsh words exchanged between neighbors.  
 As you reach the edge of the village, the commotion draws your attention. A crowd has gathered, anger and fear palpable in the air. You step closer, your heart pounding as you hear shouts accusing a struggling farmer, Edgar, of theft. He stands in the center, his face pale and trembling, hands raised in a plea for understanding. You know Edgar well; he has always been kind to your family, sharing what little he has when times are tough.   
-“Enough!” a voice booms from somewhere in the crowd, a farmer from a neighboring plot whose resentment towards Edgar has festered for years. “He’s been caught red-handed! It’s time he faces justice for his misdeeds.”  
-You feel a surge of anger rising within you. You know Edgar wouldn’t steal; you think desperation drives people to do things they usually wouldn’t. Yet, the majority seems set on punishment and ready to act without hearing him out.  
-As the voices grow louder, you realize you’re at a crossroads. You could:  
+“Enough!” a voice booms from somewhere in the crowd, a farmer from a neighboring plot whose resentment towards Edgar has festered for years. “He's been caught red-handed! It's time he faces justice for his misdeeds.”  
+You feel a surge of anger rising within you. You know Edgar wouldn't steal; you think desperation drives people to do things they usually wouldn't. Yet, the majority seems set on punishment and ready to act without hearing him out.  
+As the voices grow louder, you realize you're at a crossroads. You could:  
 ##### Option Cards
 Step forward and defend Edgar, demanding that **Justice** be served once the truth is established, even if it means putting yourself in the line of scorn from the villagers.  
 Trust in the stories of **Faith** your mother shared—that Loving Father will provide for all. You restore the stolen crops, knowing that you risk personal loss unless you discover what happened to the crops.  
 Choose **Perseverance**, calm the crowd, and seek out proof of Edgar's innocence quietly in the shadows. Find the culprit behind the theft while keeping Edgar safe from the fierce judgment of the villagers.  
 ##### Footer
-In this moment, you understand that the weight of your choice could change Edgar’s fate and reshape the bonds within your community. What happens next is up to you.  
+In this moment, you understand that the weight of your choice could change Edgar's fate and reshape the bonds within your community. What happens next is up to you.  
 
 
 ### Sailor
