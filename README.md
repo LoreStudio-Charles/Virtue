@@ -266,9 +266,40 @@ let momma know I roam these seas.
 Though waters rise and tempest roars,  
 In quiet moments, my spirit soars.  
 I'll find my way back home in time,  
-love knows no bounds, my hope sublime.
+love knows no bounds, my hope's sublime.
 #### Starting Skills
 Rover, Mapper, Swabby, Riverrat
+
+#### Temperance, Humility, or Valor
+You stand at the edge of the small farm, your tiny fingers brushing against the rough-hewn fence. The afternoon sun kisses the land, casting shadows of the tall grasses swaying in the breeze. Your sisters giggle nearby, weaving flower crowns, while the sounds of your brothers' playing fill the air. But your focus is drawn to something more pressing—a group of older boys from the village has gathered near the edge of the field, their shouts echoing like thunder across the serene landscape.
+They torment a smaller boy, one not much older than you. His cheeks are stained with tears, and you can see the tremble in his small frame as they shove him back and forth. A mix of anger and fear wells within you. You want to rush forward, protect him, and show those boys that what they’re doing is wrong. But a firm voice in your mind reminds you of your mother’s lessons on patience and kindness.
+You grip the fence tightly, weighing your options. Do you:
+##### Option Cards
+Leap into the fray—displaying Valor and courage against the bigger boys. Yet, you know that rushing in might only escalate the situation, putting yourself and the little boy in more danger. 
+In Humility, find help from an adult to involve a village member who would be much more capable of handling this. But then, you fear that the small boy will feel even more alone during the wait.
+Approach the group with Temperance and, in a calm voice, ask why they’re being so mean. In doing so, perhaps you could appeal to their better natures, reminding them that everyone deserves kindness.
+##### Footer
+As the echoes of their taunts ring loudly, you take a deep breath, feeling the weight of your decision pressing down like the warm sun overhead. What happens next is up to you.
+#### Justice, Faith, or Charity 
+The sun hangs low in the sky, casting a golden hue over the small farm as you watch your siblings playing near the old oak tree. Laughter fills the air, a sweet melody you cherish. But on the edge of the field, a commotion catches your attention—a group of village boys looms around a girl, their jeers sharp as the farm’s tools. You notice her, a familiar face from the village market, clutching her basket tightly; the contents spilled around her like shattered hopes.
+Their taunts pierce through the gentle breeze as they mock her for dropping her goods, the flowers wilting in the dirt. You feel the heat rise in your cheeks, a mix of anger and the urge to protect her. You know you can’t just stand by. But how to intervene? 
+In this moment, you must choose your path. Do you:
+##### Option Cards
+Shout at the boys, demanding they stop their cruelty, ready to defend the girl and uphold Justice. The chance of escalating the confrontation hangs heavy in the air, and so does the thrill of standing up for someone who cannot stand for herself.
+Pray for courage, trusting that guidance will come from the Loving Father. Time is precious, but Faith in Father's timing is perfect.
+Approach gently, offering to help her gather the fallen flowers, showing Charity is the purest form of strength. In doing so, you’d create a small act of goodness that might inspire others to rethink their actions. But would your kind act be enough to change their hearts?
+##### Footer
+With the scene before you becoming increasingly intense, you take a deep breath, feeling the weight of your decision just as you felt the ocean’s embrace during your last journey. What happens next is up to you.
+#### Justice, Valor, or Perseverance
+Shadows lengthen over the fields as you return from a day spent sailing to the neighboring island. The salty breeze clings to your skin and the sound of waves crashing against the shore lingers in your ears. You're eager to share your tales of adventure with your siblings, but as you approach the village square, a commotion draws your attention.
+A group of village men has gathered, their voices rising in anger. At the center, you spot a familiar figure—Eli, the butcher's son, pinned against the side of the well. Three older boys tower over him, their jeering laughter ringing harshly against the cobblestones. You notice the fear etched on Eli's face, the desperation in his wide eyes. The sight of him being bullied ignites a fire within you, and you feel the weight of your choices pressing down like the sails of your ship on a stormy sea.
+##### Option Cards
+In an act of Valor, you could shout the bullies' names and demand they let Eli go, your heart pounding as you anticipate their response—a confrontation that could lead to trouble, but you can’t stand by and watch him suffer.
+Rally the nearby villagers to bring Justice. You could call for help from the local blacksmith, known for his strength and fairness, knowing that sometimes it’s best to stand united against cruelty. But waiting for aid could prolong Eli's humiliation.
+Instead of rushing into the fray or seeking help, you might decide to distract the bullies with a challenge and lure them away. An act of Perseverance might buy the time he needs if you can just run long enough to get away from them yourself.
+##### Footer
+Your heartbeat quickens as you weigh your options, the cries of the past mingling with the laughter of your siblings nearby.  What happens next is up to you.
+
 
 ### Lover
 I rode to town, heart full of hope,  
@@ -334,7 +365,7 @@ a pitch black form, has come to stay.
 Fear grips you tight, a chilling touch,  
 the creeping dread, it is too much
 A silent, stalking, whispering, friend  
-A haunting tale that has to end.
+A haunting tale that has to end.  
 #### Starting Skills
 Superstitious, Good Eye, Bookish, Lay Low
 
@@ -352,7 +383,7 @@ she yearns for life that's beaming bright.
 In stillness soft, true love bloom,  
 In the mundane, hope may find room.  
 the plain can hold a peace so deep,  
-and strike a blaze of love to keep.
+and strike a blaze of love to keep.  
 #### Starting SKills
 Bookish, Gifted with a Voice, Loves Animals, Prowler
 
