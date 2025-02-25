@@ -371,6 +371,42 @@ a burden none must ever know.
 #### Starting Skills
 Graceful, Gifted with a Voice, Charming, Haggler
 
+
+#### Charity, Perseverance, or Justice
+As a child, you roam the rolling hills outside your family's farm, the sun warming your cheeks as you dance between the wildflowers. The world feels endless and full of laughter. But today is different. You stumble upon a gathering of village children near the edge of the woods, their voices rising in a chorus of mirth that draws you closer.
+You approach, curiosity bubbling in your chest, and soon realize they’re teasing a smaller boy sitting alone, his eyes downcast. They mock him for his ragged clothes and the stutter that trips over his words. A swirl of emotions gathers within you: anger at the cruelty, empathy for the boy, and an overwhelming urge to help.
+You know you can’t just stand by and let this happen. Do you:
+##### Option Cards
+- You could step forward in an act of **Charity**, smile brightly, and invite the boy to join you in a game. You know your kindness might ease his pain and give him the joy he deserves, but will it be enough to negate the hurt already done?
+- You could stand, confront the other children, and advocate for the boy. You'll remind them that everyone deserves kindness, no matter their differences. This might earn you their ire, but it may also inspire the young boy to overcome his stutter with **Perseverance**.
+- Perhaps it’s time to seek out an adult. You know that the village elder often preaches about treating others with respect. You could tell them what you’ve witnessed, trusting they will take action to protect the boy and the others, who are taught a valuable lesson in **Justice**.
+##### Footer
+Each choice pulls at your heart, but you know you must act. You take a deep breath, feeling the weight of your decision settle on your shoulders. What happens next is up to you.
+
+#### Valor, Faith, or Temperance 
+As you wander through the familiar hills of Swansea, the sun dips low in the sky, casting a warm golden hue over the fields. Your heart dances to the melody of your song, but the sweet notes are soon interrupted by a distant commotion. Curiosity pulls you toward the edge of the woods, where a scene unfolds that chills your spirit.
+You spot a group of older boys, their laughter twisting into something cruel as they corner a girl from the village. She’s small, her pigtails bouncing wildly as she tries to dodge their taunts and shoves. Your heart races. The girl’s eyes dart, searching for help, while your pulse quickens at such injustice.
+You take a deep breath, the air thick with tension. You know you can’t just stand there. Do you:
+##### Option Cards
+- Step forward with **Valor**, confronting the boys head-on. You feel a surge of bravery in your chest, imagining the strength of your words shattering their mockery. “Leave her alone!” you shout, demanding their attention. The challenge sets your heart aflame, and you stand tall, determined to protect her.
+- A whisper of **Faith** nudges you inward. You close your eyes briefly, in silent prayer to Loving Father. You rush toward the crowd and watch for Loving Father to guide you toward his will. 
+- You could seek to calm the situation with understanding and **Temperance**. Approach the bullies and gently remind them of the hurt they’re causing. You think it is easier to respond with kindness than resentment, but will your words hold weight against their disdain?
+##### Footer
+With the sun casting long shadows behind you, you feel the moment's weight settling in. Choose wisely, for the path you take will carve memories in the hearts of those involved, including your own. What happens next is up to you.
+
+#### Charity, Faith, or Humility
+As you stroll along the familiar path dotted with wildflowers, the gentle breeze carries the sweet scent of blooming lavender. The sun hangs low in the sky, casting golden rays over the hills of Swansea. You hum a soft tune, lost in the moment's beauty when suddenly, a commotion breaks your reverie.
+Rounding a bend, you come upon a scene that pulls at your heart: a small, rickety cart lies overturned in a ditch, its contents—a jumble of fresh produce—sprawled across the ground. Nearby, an elderly woman struggles, her frail frame bent over the mess. Her wrinkled hands tremble as she tries to gather the scattered tomatoes and carrots, but she’s overwhelmed.
+You step forward, torn between your instinct to help and worrying about being late for dinner with your family. The woman catches your eye, and a flicker of hope ignites in her weary gaze.
+You know you have options, and each calls to you with a different weight. Do you:
+##### Option Cards
+- Rush over and kneel beside her to lend a hand in an act of **Charity**. You gather the fallen produce, your heart swelling with compassion. “Let me help you,” you say, your voice warm. In this moment, you forget about the impending dinner, focusing solely on how your actions can ease her burden.
+- Pause momentarily to bow your head, sending a silent prayer to the Loving Father in **Faith**. You hope for guidance and strength to help. You recognize the importance of community and that this is not just a chance to lend a hand but a moment to connect spiritually. You invite her to join you in prayer, finding solace in shared hope amidst the chaos.
+- Approach her with gentle respect and **Humility**, offering not just your assistance but also asking about her situation. “What can I do to make this easier for you?” you inquire, valuing her dignity while acknowledging her struggle. This moment isn’t just about fixing a problem; it’s about recognizing her worth and giving her the space to share.
+##### Footer
+The sun dips closer to the horizon, shadows stretching long behind you as you stand at the crossroads of your decision. The future rests upon your choice, which will ripple through the lives of both you and this older woman. What happens next is up to you.
+
+
 ### Ugly Maid
 Beauty's grace is deemed the prize,  
 The duckling hides, 'neath watchful skies.  
