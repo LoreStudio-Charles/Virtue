@@ -478,6 +478,44 @@ A haunting tale that has to end.
 #### Starting Skills
 Superstitious, Good Eye, Bookish, Lay Low
 
+
+#### Humility, Perseverance, or Justice
+You are no more than seven summers old, wandering the sun-drenched fields just beyond the family farm. The air is fragrant with wildflowers, and your siblings’ laughter drifts on the breeze. Curiosity tugs at your heart as you notice a shimmering trail of glimmering stones leading toward the dark thicket at the edge of the woods. It feels enchanting, calling you closer.
+As you follow the stones, excitement bubbles within you, but suddenly, you gasp. A small rabbit is caught in a strangely glowing snare in the wood. The poor creature is trembling behind a thorny bramble. It looks at you with wide, frightened eyes. You feel compassion for the creature in its distress, and an overwhelming desire to help swells in your chest. The creature's eyes seem to bear a strange intelligence as if reading your decision.
+But your heart races, and your surroundings grow silent, as your siblings' voices fade into the distance. You know you should not linger here alone, murmurs of the forest brushing against your ears like warning whispers. Your hands tremble at the sight of the trapped rabbit, and the shadow of the thicket looms like a weight in your mind. 
+You glance back toward the safety of home and the laughter of your family. You could leave, ensuring your safety, or help the rabbit in need. Do you:
+##### Option Cards
+- Run and get help for the creature in the act of **Humility** to free it from the unnatural-looking trap.
+- Endure the tangles and the sharp brambles to free the poor creature in a display of **Perseverance**.
+- Report the unusual snare to the family and have them come and investigate the strange device as **Justice** warrants.
+##### Footer
+Time stands still as you stand between the thicket's shadows and your family's light, the choice pressing down like a shroud over your young heart. What happens next is up to you.
+
+#### Charity, Temperance, or Valor
+The air is thick with the scent of honeysuckle as you wander through the fields, the sun dipping low on the horizon. You've always found solace among the wildflowers, their colors bursting like golden sunlight, which now dances upon the world's edge. But today, your heart feels restless, pulled by a curiosity that dances just beyond your reach.
+Behind the carpentry shed, you discover an old, battered chest, its rusty latch barely hanging on. You've never seen this chest before and ponder where it might have come from. You hesitate, wrestling with the thrill of uncovering something long forgotten and the unease that bubbles up from the whispered warnings of your older siblings. They told tales of the magical and twisted things that could linger in hidden places.
+As you pry the chest open, a cloud of dust swirls in the air, and your breath catches in your throat. Inside, you find a collection of trinkets: worn cards, faded feathers, and small jars filled with strange, colorful powders. Among the items lies a weathered book, its pages whispering secrets of rituals and charms, a siren song begging you to read further. 
+But just as you tilt the book toward the fading light, a low, guttural growl echoes from the depths of the woods. You turn, eyes wide, to see a dark figure emerging from the shadows—a creature half-hidden among the trees, fur matted and eyes glimmering with something unreadable. It looks at you, and you can sense its hunger for knowledge and something more. 
+Your heart races, the thrill of discovery mingling with a paralyzing fear. You think of your siblings, the laughter now distant, and the warmth of home that feels like a beacon in the darkening twilight. Do you:
+##### Option Cards
+- Reach for a nearby fallen branch to offer the creature, hoping to appease its curiosity with a show of **Charity** and perhaps forge a bond. 
+- Step back slowly and close the chest in an act of **Temperance**, prioritizing safety over the tempting allure of the unknown. 
+- Confront the creature and demand it reveal its intentions with **Valor**, standing strong against the shadows encroaching on your childhood innocence. 
+##### Footer
+Time hangs heavy in the air as you stand at the crossroads of your fate, knowing your decision will echo far beyond this moment. What happens next is up to you.
+
+#### Temperance, Perseverance, or Faith
+The sun hangs low in the sky, casting long shadows across the fields as you walk toward the edge of the woods. This familiar trail has always called to you, but today, it feels different, charged with an energy that quickens your heartbeat. Your fingers brush against the cool bark of the trees, and the whispers of the village echo in your mind—hidden warnings wrapped in stories told around flickering hearths.
+As you reach the clearing, your breath catches. Before you lies a circle of stones, ancient and worn, draped with ivy and moss, this is where the tales of old spoke of rituals long forgotten, where the boundary between the seen and unseen world blurs. Your curiosity, that ever-present companion, tugs at you with an urgency you cannot dismiss. The air vibrates with power, drawing you closer.
+Beyond the circle, you spot something that makes your blood run cold. A small child, no more than five summers old, has wandered into the area, eyes wide with wonder as they reach for one of the stones, unaware of the danger in a place steeped in ancient magic. Your heart leaps into your throat. How did he get here? You must act fast. Do you:
+##### Option Cards
+- Rush forward, grasp the child by the hand, and pull them away, showing **Perseverance** as you navigate both their innocence and the encroaching shadows of the forest. 
+- Stand at the edge of the circle, calling out to them gently, urging them back with **Temperance**, keeping a calm voice despite the rising panic within you. 
+- Offer a prayer in **Faith** before rushing into the situation alone, believing in the strength of Loving Father to protect and guide you through this moment.
+##### Footer
+With the weight of voices whispering both fear and temptation, you stand at the edge of the circle, your heart racing, ready to make a choice that will ripple far beyond this day. What happens next is up to you.
+
+
 ### Mary Sue Vanilla
 In sisters' shadows, the youngest stays,  
 In longing whispers, and quiet days.  
