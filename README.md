@@ -267,19 +267,19 @@ love knows no bounds, my hope's sublime.
 Rover, Mapper, Swabby, Riverrat
 
 #### Temperance, Humility, or Valor
-You stand at the edge of the small farm, your tiny fingers brushing against the rough-hewn fence. The afternoon sun kisses the land, casting shadows of the tall grasses swaying in the breeze. Your sisters giggle nearby, weaving flower crowns, while the sounds of your brothers' playing fill the air. But your focus is drawn to something more pressing—a group of older boys from the village has gathered near the edge of the field, their shouts echoing like thunder across the serene landscape.  
-They torment a smaller boy, one not much older than you. His cheeks are stained with tears, and you can see the tremble in his small frame as they shove him back and forth. A mix of anger and fear wells within you. You want to rush forward, protect him, and show those boys that what they’re doing is wrong. But a firm voice in your mind reminds you of your mother’s lessons on patience and kindness.  
-You grip the fence tightly, weighing your options. Do you:  
+You stand at the edge of the small farm, your tiny fingers brushing against the rough-hewn fence. The afternoon sun kisses the land, casting shadows of the tall grasses swaying in the breeze. Your sisters giggle nearby, weaving flower crowns, while your brothers' playing fills the air. But your focus is drawn to something more pressing—a group of older boys from the village has gathered near the edge of the field, their shouts echoing like thunder across the serene landscape.  
+They torment a smaller boy, one not much older than you. His cheeks are stained with tears, and you can see the tremble in his slight frame as they shove him back and forth. A mix of anger and fear wells within you. You want to rush forward, protect him, and show those boys that their actions are wrong. But a firm voice in your mind reminds you of your mother’s lessons on patience and kindness.  
+You grip the fence tightly, weighing your options. Do you:   
 ##### Option Cards
-- Leap into the fray—displaying Valor and courage against the bigger boys. Yet, you know that rushing in might only escalate the situation, putting yourself and the little boy in more danger. 
-- In Humility, find help from an adult to involve a village member who would be much more capable of handling this. But then, you fear that the small boy will feel even more alone during the wait.
-- Approach the group with Temperance and, in a calm voice, ask why they’re being so mean. In doing so, perhaps you could appeal to their better natures, reminding them that everyone deserves kindness.
+- Leap into the fray—displaying Valor and courage against the bigger boys. Yet, you know that rushing in might only escalate the situation, putting yourself and the little boy in more danger.  
+- In Humility, find help from an adult to involve a village member who would be much more capable of handling this. But then, you fear the small boy will feel even more alone during the wait.  
+- Approach the group with Temperance and, in a calm voice, ask why they’re being so mean. In doing so, perhaps you could appeal to their better natures, reminding them that everyone deserves kindness.  
 ##### Footer
 As the echoes of their taunts ring loudly, you take a deep breath, feeling the weight of your decision pressing down like the warm sun overhead. What happens next is up to you.  
 #### Justice, Faith, or Charity 
 The sun hangs low in the sky, casting a golden hue over the small farm as you watch your siblings playing near the old oak tree. Laughter fills the air, a sweet melody you cherish. But on the edge of the field, a commotion catches your attention—a group of village boys looms around a girl, their jeers sharp as the farm’s tools. You notice her, a familiar face from the village market, clutching her basket tightly; the contents spilled around her like shattered hopes.  
 Their taunts pierce through the gentle breeze as they mock her for dropping her goods, the flowers wilting in the dirt. You feel the heat rise in your cheeks, a mix of anger and the urge to protect her. You know you can’t just stand by. But how to intervene?   
-In this moment, you must choose your path. Do you:  
+In this moment, you must choose your path. Do you:   
 ##### Option Cards
 - Shout at the boys, demanding they stop their cruelty, ready to defend the girl and uphold Justice. The chance of escalating the confrontation hangs heavy in the air, and so does the thrill of standing up for someone who cannot stand for herself.
 - Pray for courage, trusting that guidance will come from the Loving Father. Time is precious, but Faith in Father's timing is perfect.
@@ -287,8 +287,9 @@ In this moment, you must choose your path. Do you:
 ##### Footer
 With the scene before you becoming increasingly intense, you take a deep breath, feeling the weight of your decision just as you felt the ocean’s embrace during your last journey. What happens next is up to you.  
 #### Justice, Valor, or Perseverance
-Shadows lengthen over the fields as you return from a day spent sailing to the neighboring island. The salty breeze clings to your skin and the sound of waves crashing against the shore lingers in your ears. You're eager to share your tales of adventure with your siblings, but as you approach the village square, a commotion draws your attention.  
-A group of village men has gathered, their voices rising in anger. At the center, you spot a familiar figure—Eli, the butcher's son, pinned against the side of the well. Three older boys tower over him, their jeering laughter ringing harshly against the cobblestones. You notice the fear etched on Eli's face, the desperation in his wide eyes. The sight of him being bullied ignites a fire within you, and you feel the weight of your choices pressing down like the sails of your ship on a stormy sea.  
+Shadows lengthen over the fields as you return from a day spent sailing to the neighboring island. The salty breeze clings to your skin, and waves crashing against the shore lingers in your ears. You're eager to share your tales of adventure with your siblings, but a commotion draws your attention as you approach the village square.  
+A group of village men has gathered, their voices rising in anger. At the center, you spot a familiar figure—Eli, the butcher's son, pinned against the side of the well. Three older boys tower over him, their jeering laughter ringing harshly against the cobblestones. You notice the fear etched on Eli's face, the desperation in his wide eyes.  
+The sight of him being bullied ignites a fire within you, and you feel the weight of your choices pressing down like your ship's sails on a stormy sea. Do you:  
 ##### Option Cards
 - In an act of Valor, you could shout the bullies' names and demand they let Eli go, your heart pounding as you anticipate their response—a confrontation that could lead to trouble, but you can’t stand by and watch him suffer.
 - Rally the nearby villagers to bring Justice. You could call for help from the local blacksmith, known for his strength and fairness, knowing that sometimes it’s best to stand united against cruelty. But waiting for aid could prolong Eli's humiliation.
@@ -315,6 +316,42 @@ left all alone, my hope repealed.
 
 #### Starting Skills
 Graceful, Gifted with a Voice, Rider, Scrapper
+
+#### Charity, Temperance, or Justice
+You stand at the edge of the warm, sun-dappled barn, the smell of hay filling the air. Laughter drifts from the village as the children play, but your heart is heavy with the sight before you. Nearby, two of your siblings argue fiercely over a lost toy, each accusing the other of wrongdoing. Your youngest brother, his face streaked with dirt and tears, clutches the tattered doll that he claims is rightfully his.  
+As you watch, the moment's weight presses on your young shoulders. You know the stakes: resolving this dispute could lead to a day filled with joy or anger and resentment.   
+You take a deep breath, weighing your options. Do you:  
+##### Option Cards
+- Urge your siblings to give the doll back to your brother, knowing how much it means to him despite the unfairness of it all. Could **Charity** pave the way for peace?  
+- Encourage your siblings to share the toy, teaching them to find a middle ground in the act of **Temperance**. This could foster understanding instead of conflict.  
+- Return the toy in an act of **Justice** by force. It was a gift to your youngest brother from your father. Shouldn't it return to whom it belongs, ensuring that right prevails over might?  
+##### Footer
+As the day stretches out, you glance at their faces: one set glistening with hopeful innocence, the other twisted with defiance. The choice lies before you, and you can feel your path will ripple through your family in ways you can't yet imagine. What happens next is up to you.  
+
+
+#### Valor, Faith, or Perseverance
+You stand in the warm sunlight of a late summer afternoon, the golden rays filtering through the leaves of the old oak tree in your backyard. The laughter of your siblings drifts into the air, but your heart is heavy with an unsettling feeling. Just beyond the tree line lies the village, and whispers of trouble circulate among the townsfolk about a fearsome creature that has been seen prowling the woods, something that could threaten everything you hold dear.  
+You hear frantic cries as you venture closer to the forest's edge. Your sister's friend, Alys, has ventured too far and now stands frozen in fear. A rickety bridge crossing a narrow chasm separates her from safety. A moment ago, she was picking wildflowers, her joy unbroken. Now, tears stream down her cheeks as the shadows creep closer.  
+##### Option Cards
+- Muster up your courage and face the unknown, armed with your childhood bravery and the hope of bringing her back to safety. That would be an act of **Valor.**   
+- Cry out to Loving Father in the act of **Faith** even as you spring into action and rush to her aid.  
+- Cross the rickety bridge alongside her, slowly moving together back towards the familiar safety of home, overcoming your trial with **Perseverance**.  
+##### Footer
+You feel the weight of your choice press upon you, the urgency of Alys' sobs pulling at your heart. Time seems to slow as your mind races through the possibilities. What happens next is up to you.  
+
+
+#### Charity, Valor, or Humility
+The sun sets over the rolling hills of Swansea, casting a warm golden hue across the fields. You're in the barn, sweat glistening on your brow as you finish sorting the last hay for the evening. The laughter of your siblings drifts in from outside, a sound that feels comforting and distant amidst your swirling thoughts.  
+Suddenly, the door swings open, and you see Alys, your sister's childhood friend, standing there with tears glistening in her eyes. Her dress is torn, and her hair is a tangle from what must have been a frightful ordeal. "You have to help me!" she cries, her voice trembling. "My brother's gone into the woods, and Mother says there’s a creature out there! I can't find him!"  
+Your heart races at the thought of the tales whispered among the villagers about the dark beast lurking in the forest. You know the tales, just as you know the stakes: this is more than just a lost child; it's a dangerous mission that could ruin you.  
+You feel a choice weighing heavily on your heart. Do you:  
+##### Option Cards
+- Comfort Alys and assure her that you will help her find her brother while knowing this could put you in peril. Her fear is palpable, and your heart compels you to be her anchor, guiding her through the shadows of doubt in the act of **Charity**.  
+- Gather your courage and promise to face the creature, even if it means putting your life on the line. With the spirit of a knight and **Valor**, you can’t let fear dictate your actions. Taking Alys' trembling hand strengthens you, as her safety and brother's life outweigh your fears.  
+- In an act of **Humility** get help Old Paul, a villager experienced with the woods, helps instead of going in without proper guidance. You realize that sometimes, asking for help ensures that you all make it through the night alive and that this is a show of strength rather than weakness.  
+##### Footer
+As you look into Alys’ fearful eyes, the sky deepens into twilight, feeling the world's weight on your shoulders. The moment stretches on, and the decision rests with you in this fragile silence. What happens next is up to you.  
+
 
 ### Crushed Rose
 Yesterday, the world did glow,  
