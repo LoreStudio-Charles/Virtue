@@ -348,7 +348,7 @@ You feel a choice weighing heavily on your heart. Do you:
 ##### Option Cards
 - Comfort Alys and assure her that you will help her find her brother while knowing this could put you in peril. Her fear is palpable, and your heart compels you to be her anchor, guiding her through the shadows of doubt in the act of **Charity**.  
 - Gather your courage and promise to face the creature, even if it means putting your life on the line. With the spirit of a knight and **Valor**, you can't let fear dictate your actions. Taking Alys' trembling hand strengthens you, as her safety and brother's life outweigh your fears.  
-- In an act of **Humility** get help Old Paul, a villager experienced with the woods, helps instead of going in without proper guidance. You realize that sometimes, asking for help ensures that you all make it through the night alive and that this is a show of strength rather than weakness.  
+- In an act of **Humility** get help from Old Paul, a villager experienced with the woods, helps instead of going in without proper guidance. You realize that sometimes, asking for help ensures that you all make it through the night alive and that this is a show of strength rather than weakness.  
 ##### Footer
 As you look into Alys' fearful eyes, the sky deepens into twilight, feeling the world's weight on your shoulders. The moment stretches on, and the decision rests with you in this fragile silence. What happens next is up to you.  
 
