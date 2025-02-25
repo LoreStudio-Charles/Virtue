@@ -420,6 +420,46 @@ you cherish life where creature's play.
 #### Starting Skills
 Loves Animals, Gifted with Voice, Gifted with a Lute,  Good Eye
 
+
+#### Humility, Perseverance, or Justice
+You sit on the grassy yard's edge, watching your brothers and sisters finish their chores in the warm afternoon sun. A soft breeze carries the sweet scent of clover from the nearby field, and the gentle clucking of your mother’s hens fills the air. With a sigh, you turn your attention to a tiny duckling, lost and separated from its mother. It peeps softly, wandering in circles, clearly scared.
+You hear a shout as you reach down to scoop it up. A group of older kids from the village came to play nearby, but their play was rougher than you would like. One of them, a tall boy, spots the duckling and grins wickedly. “Look at that silly little thing! I bet it can’t keep up with the others. Let’s see how far it can run!”
+Your heart races as you watch him kick a small stone towards the duckling, sending it scurrying in the opposite direction. A wave of protectiveness washes over you. Do you:
+##### Option Cards
+- Stand between the boy and his prey, taking his taunts upon yourself. In **Humility** you handle their mean-spirits and push back against their taunts. You think of the helpless duckling and the injustice of its fear. It doesn’t deserve to be scared like this, not when it only wants its mother’s comfort.
+- Stand firm in the face of ridicule, confront the situation head-on, and, through **Perseverance** occupy their attention until they relent. You can return the poor creature to its family and mother's care.
+- Step forward, you lift your chin, and unleash the heat of **Justice**. “You should leave it alone,” you say, your voice firm despite shaking hands. “It’s just a duckling! What’s the fun in making it scared?”
+##### Footer
+The laughter stops, and a surprised silence hangs in the air. You can feel your heart thumping louder, but don’t back down. The life of a gentle creature is in your hands. What happens next is up to you.
+
+#### Charity, Faith, or Temperance 
+You wander through the sun-soaked fields of your family's farm, the breeze gently playing with the loose strands of your hair. Today feels exceptionally peaceful, with the sound of the hens clucking and the distant lowing of cows filling the air. You are lost in thought, imagining stories of adventure, when a commotion pulls you from your daydream.
+You turn to see Lily crouched by the small pond. Her hands are cupped around something, and you can hear her excited chatter. Curious, you hurry over and find her with a tiny, shivering frog in her hands. Its skin glistens in the sunlight but does not look well, its limbs trembling and its eyes wide with fear.
+“Oh, look!” Lily beams, delighted. “Can we keep it? It’s so cute!”
+Before you can reply, another voice interrupts. It’s Cait who is trudging up the path with a frown. “Frogs are dirty and slimy,” she says dismissively, shaking her head. “Leave it alone, Lily. It doesn’t belong here.”
+Lily’s face falls, and you feel a flicker of conflict. You know the little frog needs care, but you also see Cait's frustration and the scrapes on her knees from her earlier attempts to catch fish. There’s a hint of worry in her voice—not just about the frog, but perhaps a profound concern for what it means to waste time on something she views as insignificant.
+You place your hand on Lily’s shoulder, feeling the warmth of her excitement juxtaposed against Cait's sternness. Do you:
+##### Option Cards
+- Encourage Lily to nurture the frog with **Charity** despite Cait’s objections.
+- Exhibit **Faith** in Loving Father’s provision and care for all animals by caring for the animal yourself.
+- Seek balance and negotiate between Lily's wish to care for the creature and Cait's concerns with **Temperance**.
+##### Footer
+The little frog seems to gaze at you, its body trembling in Lily's palms. You take a deep breath, feeling the weight of each choice swirling around you. What happens next is up to you.
+
+#### Charity, Humility, or Valor
+As the sun begins to dip below the horizon, casting a warm glow over the fields, you walk along the narrow path that leads to the village. Your heart feels light as you hum a tune, the soft sounds of the farm fading into the background. The gentle patter of tiny hooves draws your attention, and you pause to find a small lamb caught in a thicket, bleating in distress. Its woolly body struggles against the brambles, tiny legs flailing helplessly.
+You kneel beside it, your fingers brushing against the thorns as you try to assess the situation. Just then, you hear laughter from the village square. A group of children is gathered, their faces illuminated by the flickering light of a nearby bonfire. They seem to be having the time of their lives, but then you notice one child, Jeremy, approaching, his curiosity piqued by your presence.
+“Hey, what’s wrong?” he asks, his eyes wide as he spots the lamb. A hint of excitement flickers in his expression when he sees the little creature's plight. “Do you need help? We could just pull it free, right? It’d be fun!”
+Another child shouts from the group, “Come on, let’s go. It’s just a dumb lamb!” The others chuckle, dismissing the situation as trivial.
+You feel a wave of conflict ripple through you. You know the lamb is scared and needs gentle care. If you call for assistance, you risk the others treating the situation as a game, hurting the little one in the process. Yet, if you choose to act alone, you might not be able to get it free easily. Do you:
+##### Option Cards
+- Appeal to Jeremy's sense of **Charity** and involve him in coaxing the lamb out gently, teaching him the value of kindness toward the helpless animal.
+- Opt to calmly work on freeing the lamb yourself in **Humility**, accepting the challenge quietly without drawing attention to the crowd and their laughter, focusing solely on the task at hand.
+- Stand up to the group in the act of **Valor** and assert the importance of helping the lamb, hoping that by demonstrating resolve, you will inspire them to join you in a compassionate rescue rather than treat the situation lightly.
+##### Footer
+The choice weighs heavily on your heart, as you realize this moment can shape not only the lamb's fate but also the understanding of kindness among your peers. What happens next is up to you.
+
+
 ### Oppressed
 They always warned you, with words so clear  
 "Stay far from shadows, don't dare draw near."  
