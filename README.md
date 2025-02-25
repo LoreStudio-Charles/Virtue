@@ -472,7 +472,7 @@ Shadows linger, thick as day,
 a pitch black form, has come to stay.  
 
 Fear grips you tight, a chilling touch,  
-the creeping dread, it is too much
+the creeping dread, it is too much  
 A silent, stalking, whispering, friend  
 A haunting tale that has to end.  
 #### Starting Skills
