@@ -373,38 +373,38 @@ Graceful, Gifted with a Voice, Charming, Haggler
 
 
 #### Charity, Perseverance, or Justice
-As a child, you roam the rolling hills outside your family's farm, the sun warming your cheeks as you dance between the wildflowers. The world feels endless and full of laughter. But today is different. You stumble upon a gathering of village children near the edge of the woods, their voices rising in a chorus of mirth that draws you closer.
-You approach, curiosity bubbling in your chest, and soon realize they’re teasing a smaller boy sitting alone, his eyes downcast. They mock him for his ragged clothes and the stutter that trips over his words. A swirl of emotions gathers within you: anger at the cruelty, empathy for the boy, and an overwhelming urge to help.
-You know you can’t just stand by and let this happen. Do you:
+As a child, you roam the rolling hills outside your family's farm, the sun warming your cheeks as you dance between the wildflowers. The world feels endless and full of laughter. But today is different. You stumble upon a gathering of village children near the edge of the woods, their voices rising in a chorus of mirth that draws you closer.  
+You approach, curiosity bubbling in your chest, and soon realize they’re teasing a smaller boy sitting alone, his eyes downcast. They mock him for his ragged clothes and the stutter that trips over his words. A swirl of emotions gathers within you: anger at the cruelty, empathy for the boy, and an overwhelming urge to help.  
+You know you can’t just stand by and let this happen. Do you:  
 ##### Option Cards
-- You could step forward in an act of **Charity**, smile brightly, and invite the boy to join you in a game. You know your kindness might ease his pain and give him the joy he deserves, but will it be enough to negate the hurt already done?
-- You could stand, confront the other children, and advocate for the boy. You'll remind them that everyone deserves kindness, no matter their differences. This might earn you their ire, but it may also inspire the young boy to overcome his stutter with **Perseverance**.
-- Perhaps it’s time to seek out an adult. You know that the village elder often preaches about treating others with respect. You could tell them what you’ve witnessed, trusting they will take action to protect the boy and the others, who are taught a valuable lesson in **Justice**.
+- You could step forward in an act of **Charity**, smile brightly, and invite the boy to join you in a game. You know your kindness might ease his pain and give him the joy he deserves, but will it be enough to negate the hurt already done?  
+- You could stand, confront the other children, and advocate for the boy. You'll remind them that everyone deserves kindness, no matter their differences. This might earn you their ire, but it may also inspire the young boy to overcome his stutter with **Perseverance**.  
+- Perhaps it’s time to seek out an adult. You know that the village elder often preaches about treating others with respect. You could tell them what you’ve witnessed, trusting they will take action to protect the boy and the others, who are taught a valuable lesson in **Justice**.  
 ##### Footer
-Each choice pulls at your heart, but you know you must act. You take a deep breath, feeling the weight of your decision settle on your shoulders. What happens next is up to you.
+Each choice pulls at your heart, but you know you must act. You take a deep breath, feeling the weight of your decision settle on your shoulders. What happens next is up to you.  
 
 #### Valor, Faith, or Temperance 
-As you wander through the familiar hills of Swansea, the sun dips low in the sky, casting a warm golden hue over the fields. Your heart dances to the melody of your song, but the sweet notes are soon interrupted by a distant commotion. Curiosity pulls you toward the edge of the woods, where a scene unfolds that chills your spirit.
-You spot a group of older boys, their laughter twisting into something cruel as they corner a girl from the village. She’s small, her pigtails bouncing wildly as she tries to dodge their taunts and shoves. Your heart races. The girl’s eyes dart, searching for help, while your pulse quickens at such injustice.
-You take a deep breath, the air thick with tension. You know you can’t just stand there. Do you:
+As you wander through the familiar hills of Swansea, the sun dips low in the sky, casting a warm golden hue over the fields. Your heart dances to the melody of your song, but the sweet notes are soon interrupted by a distant commotion. Curiosity pulls you toward the edge of the woods, where a scene unfolds that chills your spirit.  
+You spot a group of older boys, their laughter twisting into something cruel as they corner a girl from the village. She’s small, her pigtails bouncing wildly as she tries to dodge their taunts and shoves. Your heart races. The girl’s eyes dart, searching for help, while your pulse quickens at such injustice.  
+You take a deep breath, the air thick with tension. You know you can’t just stand there. Do you:  
 ##### Option Cards
-- Step forward with **Valor**, confronting the boys head-on. You feel a surge of bravery in your chest, imagining the strength of your words shattering their mockery. “Leave her alone!” you shout, demanding their attention. The challenge sets your heart aflame, and you stand tall, determined to protect her.
-- A whisper of **Faith** nudges you inward. You close your eyes briefly, in silent prayer to Loving Father. You rush toward the crowd and watch for Loving Father to guide you toward his will. 
-- You could seek to calm the situation with understanding and **Temperance**. Approach the bullies and gently remind them of the hurt they’re causing. You think it is easier to respond with kindness than resentment, but will your words hold weight against their disdain?
+- Step forward with **Valor**, confronting the boys head-on. You feel a surge of bravery in your chest, imagining the strength of your words shattering their mockery. “Leave her alone!” you shout, demanding their attention. The challenge sets your heart aflame, and you stand tall, determined to protect her.  
+- A whisper of **Faith** nudges you inward. You close your eyes briefly, in silent prayer to Loving Father. You rush toward the crowd and watch for Loving Father to guide you toward his will.   
+- You could seek to calm the situation with understanding and **Temperance**. Approach the bullies and gently remind them of the hurt they’re causing. You think it is easier to respond with kindness than resentment, but will your words hold weight against their disdain?  
 ##### Footer
-With the sun casting long shadows behind you, you feel the moment's weight settling in. Choose wisely, for the path you take will carve memories in the hearts of those involved, including your own. What happens next is up to you.
+With the sun casting long shadows behind you, you feel the moment's weight settling in. Choose wisely, for the path you take will carve memories in the hearts of those involved, including your own. What happens next is up to you.  
 
 #### Charity, Faith, or Humility
-As you stroll along the familiar path dotted with wildflowers, the gentle breeze carries the sweet scent of blooming lavender. The sun hangs low in the sky, casting golden rays over the hills of Swansea. You hum a soft tune, lost in the moment's beauty when suddenly, a commotion breaks your reverie.
-Rounding a bend, you come upon a scene that pulls at your heart: a small, rickety cart lies overturned in a ditch, its contents—a jumble of fresh produce—sprawled across the ground. Nearby, an elderly woman struggles, her frail frame bent over the mess. Her wrinkled hands tremble as she tries to gather the scattered tomatoes and carrots, but she’s overwhelmed.
-You step forward, torn between your instinct to help and worrying about being late for dinner with your family. The woman catches your eye, and a flicker of hope ignites in her weary gaze.
-You know you have options, and each calls to you with a different weight. Do you:
+As you stroll along the familiar path dotted with wildflowers, the gentle breeze carries the sweet scent of blooming lavender. The sun hangs low in the sky, casting golden rays over the hills of Swansea. You hum a soft tune, lost in the moment's beauty when suddenly, a commotion breaks your reverie.  
+Rounding a bend, you come upon a scene that pulls at your heart: a small, rickety cart lies overturned in a ditch, its contents—a jumble of fresh produce—sprawled across the ground. Nearby, an elderly woman struggles, her frail frame bent over the mess. Her wrinkled hands tremble as she tries to gather the scattered tomatoes and carrots, but she’s overwhelmed.  
+You step forward, torn between your instinct to help and worrying about being late for dinner with your family. The woman catches your eye, and a flicker of hope ignites in her weary gaze.  
+You know you have options, and each calls to you with a different weight. Do you:  
 ##### Option Cards
-- Rush over and kneel beside her to lend a hand in an act of **Charity**. You gather the fallen produce, your heart swelling with compassion. “Let me help you,” you say, your voice warm. In this moment, you forget about the impending dinner, focusing solely on how your actions can ease her burden.
-- Pause momentarily to bow your head, sending a silent prayer to the Loving Father in **Faith**. You hope for guidance and strength to help. You recognize the importance of community and that this is not just a chance to lend a hand but a moment to connect spiritually. You invite her to join you in prayer, finding solace in shared hope amidst the chaos.
-- Approach her with gentle respect and **Humility**, offering not just your assistance but also asking about her situation. “What can I do to make this easier for you?” you inquire, valuing her dignity while acknowledging her struggle. This moment isn’t just about fixing a problem; it’s about recognizing her worth and giving her the space to share.
+- Rush over and kneel beside her to lend a hand in an act of **Charity**. You gather the fallen produce, your heart swelling with compassion. “Let me help you,” you say, your voice warm. In this moment, you forget about the impending dinner, focusing solely on how your actions can ease her burden.  
+- Pause momentarily to bow your head, sending a silent prayer to the Loving Father in **Faith**. You hope for guidance and strength to help. You recognize the importance of community and that this is not just a chance to lend a hand but a moment to connect spiritually. You invite her to join you in prayer, finding solace in shared hope amidst the chaos.  
+- Approach her with gentle respect and **Humility**, offering not just your assistance but also asking about her situation. “What can I do to make this easier for you?” you inquire, valuing her dignity while acknowledging her struggle. This moment isn’t just about fixing a problem; it’s about recognizing her worth and giving her the space to share.  
 ##### Footer
-The sun dips closer to the horizon, shadows stretching long behind you as you stand at the crossroads of your decision. The future rests upon your choice, which will ripple through the lives of both you and this older woman. What happens next is up to you.
+The sun dips closer to the horizon, shadows stretching long behind you as you stand at the crossroads of your decision. The future rests upon your choice, which will ripple through the lives of both you and this older woman. What happens next is up to you.  
 
 
 ### Ugly Maid
@@ -422,42 +422,42 @@ Loves Animals, Gifted with Voice, Gifted with a Lute,  Good Eye
 
 
 #### Humility, Perseverance, or Justice
-You sit on the grassy yard's edge, watching your brothers and sisters finish their chores in the warm afternoon sun. A soft breeze carries the sweet scent of clover from the nearby field, and the gentle clucking of your mother’s hens fills the air. With a sigh, you turn your attention to a tiny duckling, lost and separated from its mother. It peeps softly, wandering in circles, clearly scared.
-You hear a shout as you reach down to scoop it up. A group of older kids from the village came to play nearby, but their play was rougher than you would like. One of them, a tall boy, spots the duckling and grins wickedly. “Look at that silly little thing! I bet it can’t keep up with the others. Let’s see how far it can run!”
-Your heart races as you watch him kick a small stone towards the duckling, sending it scurrying in the opposite direction. A wave of protectiveness washes over you. Do you:
+You sit on the grassy yard's edge, watching your brothers and sisters finish their chores in the warm afternoon sun. A soft breeze carries the sweet scent of clover from the nearby field, and the gentle clucking of your mother’s hens fills the air. With a sigh, you turn your attention to a tiny duckling, lost and separated from its mother. It peeps softly, wandering in circles, clearly scared.  
+You hear a shout as you reach down to scoop it up. A group of older kids from the village came to play nearby, but their play was rougher than you would like. One of them, a tall boy, spots the duckling and grins wickedly. “Look at that silly little thing! I bet it can’t keep up with the others. Let’s see how far it can run!”  
+Your heart races as you watch him kick a small stone towards the duckling, sending it scurrying in the opposite direction. A wave of protectiveness washes over you. Do you:  
 ##### Option Cards
-- Stand between the boy and his prey, taking his taunts upon yourself. In **Humility** you handle their mean-spirits and push back against their taunts. You think of the helpless duckling and the injustice of its fear. It doesn’t deserve to be scared like this, not when it only wants its mother’s comfort.
-- Stand firm in the face of ridicule, confront the situation head-on, and, through **Perseverance** occupy their attention until they relent. You can return the poor creature to its family and mother's care.
-- Step forward, you lift your chin, and unleash the heat of **Justice**. “You should leave it alone,” you say, your voice firm despite shaking hands. “It’s just a duckling! What’s the fun in making it scared?”
+- Stand between the boy and his prey, taking his taunts upon yourself. In **Humility** you handle their mean-spirits and push back against their taunts. You think of the helpless duckling and the injustice of its fear. It doesn’t deserve to be scared like this, not when it only wants its mother’s comfort.  
+- Stand firm in the face of ridicule, confront the situation head-on, and, through **Perseverance** occupy their attention until they relent. You can return the poor creature to its family and mother's care.  
+- Step forward, you lift your chin, and unleash the heat of **Justice**. “You should leave it alone,” you say, your voice firm despite shaking hands. “It’s just a duckling! What’s the fun in making it scared?”  
 ##### Footer
-The laughter stops, and a surprised silence hangs in the air. You can feel your heart thumping louder, but don’t back down. The life of a gentle creature is in your hands. What happens next is up to you.
+The laughter stops, and a surprised silence hangs in the air. You can feel your heart thumping louder, but don’t back down. The life of a gentle creature is in your hands. What happens next is up to you.  
 
 #### Charity, Faith, or Temperance 
-You wander through the sun-soaked fields of your family's farm, the breeze gently playing with the loose strands of your hair. Today feels exceptionally peaceful, with the sound of the hens clucking and the distant lowing of cows filling the air. You are lost in thought, imagining stories of adventure, when a commotion pulls you from your daydream.
-You turn to see Lily crouched by the small pond. Her hands are cupped around something, and you can hear her excited chatter. Curious, you hurry over and find her with a tiny, shivering frog in her hands. Its skin glistens in the sunlight but does not look well, its limbs trembling and its eyes wide with fear.
-“Oh, look!” Lily beams, delighted. “Can we keep it? It’s so cute!”
-Before you can reply, another voice interrupts. It’s Cait who is trudging up the path with a frown. “Frogs are dirty and slimy,” she says dismissively, shaking her head. “Leave it alone, Lily. It doesn’t belong here.”
-Lily’s face falls, and you feel a flicker of conflict. You know the little frog needs care, but you also see Cait's frustration and the scrapes on her knees from her earlier attempts to catch fish. There’s a hint of worry in her voice—not just about the frog, but perhaps a profound concern for what it means to waste time on something she views as insignificant.
-You place your hand on Lily’s shoulder, feeling the warmth of her excitement juxtaposed against Cait's sternness. Do you:
+You wander through the sun-soaked fields of your family's farm, the breeze gently playing with the loose strands of your hair. Today feels exceptionally peaceful, with the sound of the hens clucking and the distant lowing of cows filling the air. You are lost in thought, imagining stories of adventure, when a commotion pulls you from your daydream.  
+You turn to see Lily crouched by the small pond. Her hands are cupped around something, and you can hear her excited chatter. Curious, you hurry over and find her with a tiny, shivering frog in her hands. Its skin glistens in the sunlight but does not look well, its limbs trembling and its eyes wide with fear.  
+“Oh, look!” Lily beams, delighted. “Can we keep it? It’s so cute!”  
+Before you can reply, another voice interrupts. It’s Cait who is trudging up the path with a frown. “Frogs are dirty and slimy,” she says dismissively, shaking her head. “Leave it alone, Lily. It doesn’t belong here.”  
+Lily’s face falls, and you feel a flicker of conflict. You know the little frog needs care, but you also see Cait's frustration and the scrapes on her knees from her earlier attempts to catch fish. There’s a hint of worry in her voice—not just about the frog, but perhaps a profound concern for what it means to waste time on something she views as insignificant.  
+You place your hand on Lily’s shoulder, feeling the warmth of her excitement juxtaposed against Cait's sternness. Do you:  
 ##### Option Cards
-- Encourage Lily to nurture the frog with **Charity** despite Cait’s objections.
-- Exhibit **Faith** in Loving Father’s provision and care for all animals by caring for the animal yourself.
-- Seek balance and negotiate between Lily's wish to care for the creature and Cait's concerns with **Temperance**.
+- Encourage Lily to nurture the frog with **Charity** despite Cait’s objections.  
+- Exhibit **Faith** in Loving Father’s provision and care for all animals by caring for the animal yourself.  
+- Seek balance and negotiate between Lily's wish to care for the creature and Cait's concerns with **Temperance**.  
 ##### Footer
-The little frog seems to gaze at you, its body trembling in Lily's palms. You take a deep breath, feeling the weight of each choice swirling around you. What happens next is up to you.
+The little frog seems to gaze at you, its body trembling in Lily's palms. You take a deep breath, feeling the weight of each choice swirling around you. What happens next is up to you.  
 
 #### Charity, Humility, or Valor
-As the sun begins to dip below the horizon, casting a warm glow over the fields, you walk along the narrow path that leads to the village. Your heart feels light as you hum a tune, the soft sounds of the farm fading into the background. The gentle patter of tiny hooves draws your attention, and you pause to find a small lamb caught in a thicket, bleating in distress. Its woolly body struggles against the brambles, tiny legs flailing helplessly.
-You kneel beside it, your fingers brushing against the thorns as you try to assess the situation. Just then, you hear laughter from the village square. A group of children is gathered, their faces illuminated by the flickering light of a nearby bonfire. They seem to be having the time of their lives, but then you notice one child, Jeremy, approaching, his curiosity piqued by your presence.
-“Hey, what’s wrong?” he asks, his eyes wide as he spots the lamb. A hint of excitement flickers in his expression when he sees the little creature's plight. “Do you need help? We could just pull it free, right? It’d be fun!”
-Another child shouts from the group, “Come on, let’s go. It’s just a dumb lamb!” The others chuckle, dismissing the situation as trivial.
-You feel a wave of conflict ripple through you. You know the lamb is scared and needs gentle care. If you call for assistance, you risk the others treating the situation as a game, hurting the little one in the process. Yet, if you choose to act alone, you might not be able to get it free easily. Do you:
+As the sun begins to dip below the horizon, casting a warm glow over the fields, you walk along the narrow path that leads to the village. Your heart feels light as you hum a tune, the soft sounds of the farm fading into the background. The gentle patter of tiny hooves draws your attention, and you pause to find a small lamb caught in a thicket, bleating in distress. Its woolly body struggles against the brambles, tiny legs flailing helplessly.  
+You kneel beside it, your fingers brushing against the thorns as you try to assess the situation. Just then, you hear laughter from the village square. A group of children is gathered, their faces illuminated by the flickering light of a nearby bonfire. They seem to be having the time of their lives, but then you notice one child, Jeremy, approaching, his curiosity piqued by your presence.  
+“Hey, what’s wrong?” he asks, his eyes wide as he spots the lamb. A hint of excitement flickers in his expression when he sees the little creature's plight. “Do you need help? We could just pull it free, right? It’d be fun!”  
+Another child shouts from the group, “Come on, let’s go. It’s just a dumb lamb!” The others chuckle, dismissing the situation as trivial.  
+You feel a wave of conflict ripple through you. You know the lamb is scared and needs gentle care. If you call for assistance, you risk the others treating the situation as a game, hurting the little one in the process. Yet, if you choose to act alone, you might not be able to get it free easily. Do you:  
 ##### Option Cards
-- Appeal to Jeremy's sense of **Charity** and involve him in coaxing the lamb out gently, teaching him the value of kindness toward the helpless animal.
-- Opt to calmly work on freeing the lamb yourself in **Humility**, accepting the challenge quietly without drawing attention to the crowd and their laughter, focusing solely on the task at hand.
-- Stand up to the group in the act of **Valor** and assert the importance of helping the lamb, hoping that by demonstrating resolve, you will inspire them to join you in a compassionate rescue rather than treat the situation lightly.
+- Appeal to Jeremy's sense of **Charity** and involve him in coaxing the lamb out gently, teaching him the value of kindness toward the helpless animal.  
+- Opt to calmly work on freeing the lamb yourself in **Humility**, accepting the challenge quietly without drawing attention to the crowd and their laughter, focusing solely on the task at hand.  
+- Stand up to the group in the act of **Valor** and assert the importance of helping the lamb, hoping that by demonstrating resolve, you will inspire them to join you in a compassionate rescue rather than treat the situation lightly.  
 ##### Footer
-The choice weighs heavily on your heart, as you realize this moment can shape not only the lamb's fate but also the understanding of kindness among your peers. What happens next is up to you.
+The choice weighs heavily on your heart, as you realize this moment can shape not only the lamb's fate but also the understanding of kindness among your peers. What happens next is up to you.  
 
 
 ### Oppressed
@@ -480,40 +480,40 @@ Superstitious, Good Eye, Bookish, Lay Low
 
 
 #### Humility, Perseverance, or Justice
-You are no more than seven summers old, wandering the sun-drenched fields just beyond the family farm. The air is fragrant with wildflowers, and your siblings’ laughter drifts on the breeze. Curiosity tugs at your heart as you notice a shimmering trail of glimmering stones leading toward the dark thicket at the edge of the woods. It feels enchanting, calling you closer.
-As you follow the stones, excitement bubbles within you, but suddenly, you gasp. A small rabbit is caught in a strangely glowing snare in the wood. The poor creature is trembling behind a thorny bramble. It looks at you with wide, frightened eyes. You feel compassion for the creature in its distress, and an overwhelming desire to help swells in your chest. The creature's eyes seem to bear a strange intelligence as if reading your decision.
-But your heart races, and your surroundings grow silent, as your siblings' voices fade into the distance. You know you should not linger here alone, murmurs of the forest brushing against your ears like warning whispers. Your hands tremble at the sight of the trapped rabbit, and the shadow of the thicket looms like a weight in your mind. 
-You glance back toward the safety of home and the laughter of your family. You could leave, ensuring your safety, or help the rabbit in need. Do you:
+You are no more than seven summers old, wandering the sun-drenched fields just beyond the family farm. The air is fragrant with wildflowers, and your siblings’ laughter drifts on the breeze. Curiosity tugs at your heart as you notice a shimmering trail of glimmering stones leading toward the dark thicket at the edge of the woods. It feels enchanting, calling you closer.  
+As you follow the stones, excitement bubbles within you, but suddenly, you gasp. A small rabbit is caught in a strangely glowing snare in the wood. The poor creature is trembling behind a thorny bramble. It looks at you with wide, frightened eyes. You feel compassion for the creature in its distress, and an overwhelming desire to help swells in your chest. The creature's eyes seem to bear a strange intelligence as if reading your decision.  
+But your heart races, and your surroundings grow silent, as your siblings' voices fade into the distance. You know you should not linger here alone, murmurs of the forest brushing against your ears like warning whispers. Your hands tremble at the sight of the trapped rabbit, and the shadow of the thicket looms like a weight in your mind.   
+You glance back toward the safety of home and the laughter of your family. You could leave, ensuring your safety, or help the rabbit in need. Do you:  
 ##### Option Cards
-- Run and get help for the creature in the act of **Humility** to free it from the unnatural-looking trap.
-- Endure the tangles and the sharp brambles to free the poor creature in a display of **Perseverance**.
-- Report the unusual snare to the family and have them come and investigate the strange device as **Justice** warrants.
+- Run and get help for the creature in the act of **Humility** to free it from the unnatural-looking trap.  
+- Endure the tangles and the sharp brambles to free the poor creature in a display of **Perseverance**.  
+- Report the unusual snare to the family and have them come and investigate the strange device as **Justice** warrants.  
 ##### Footer
-Time stands still as you stand between the thicket's shadows and your family's light, the choice pressing down like a shroud over your young heart. What happens next is up to you.
+Time stands still as you stand between the thicket's shadows and your family's light, the choice pressing down like a shroud over your young heart. What happens next is up to you.  
 
 #### Charity, Temperance, or Valor
-The air is thick with the scent of honeysuckle as you wander through the fields, the sun dipping low on the horizon. You've always found solace among the wildflowers, their colors bursting like golden sunlight, which now dances upon the world's edge. But today, your heart feels restless, pulled by a curiosity that dances just beyond your reach.
-Behind the carpentry shed, you discover an old, battered chest, its rusty latch barely hanging on. You've never seen this chest before and ponder where it might have come from. You hesitate, wrestling with the thrill of uncovering something long forgotten and the unease that bubbles up from the whispered warnings of your older siblings. They told tales of the magical and twisted things that could linger in hidden places.
-As you pry the chest open, a cloud of dust swirls in the air, and your breath catches in your throat. Inside, you find a collection of trinkets: worn cards, faded feathers, and small jars filled with strange, colorful powders. Among the items lies a weathered book, its pages whispering secrets of rituals and charms, a siren song begging you to read further. 
-But just as you tilt the book toward the fading light, a low, guttural growl echoes from the depths of the woods. You turn, eyes wide, to see a dark figure emerging from the shadows—a creature half-hidden among the trees, fur matted and eyes glimmering with something unreadable. It looks at you, and you can sense its hunger for knowledge and something more. 
-Your heart races, the thrill of discovery mingling with a paralyzing fear. You think of your siblings, the laughter now distant, and the warmth of home that feels like a beacon in the darkening twilight. Do you:
+The air is thick with the scent of honeysuckle as you wander through the fields, the sun dipping low on the horizon. You've always found solace among the wildflowers, their colors bursting like golden sunlight, which now dances upon the world's edge. But today, your heart feels restless, pulled by a curiosity that dances just beyond your reach.  
+Behind the carpentry shed, you discover an old, battered chest, its rusty latch barely hanging on. You've never seen this chest before and ponder where it might have come from. You hesitate, wrestling with the thrill of uncovering something long forgotten and the unease that bubbles up from the whispered warnings of your older siblings. They told tales of the magical and twisted things that could linger in hidden places.  
+As you pry the chest open, a cloud of dust swirls in the air, and your breath catches in your throat. Inside, you find a collection of trinkets: worn cards, faded feathers, and small jars filled with strange, colorful powders. Among the items lies a weathered book, its pages whispering secrets of rituals and charms, a siren song begging you to read further.   
+But just as you tilt the book toward the fading light, a low, guttural growl echoes from the depths of the woods. You turn, eyes wide, to see a dark figure emerging from the shadows—a creature half-hidden among the trees, fur matted and eyes glimmering with something unreadable. It looks at you, and you can sense its hunger for knowledge and something more.   
+Your heart races, the thrill of discovery mingling with a paralyzing fear. You think of your siblings, the laughter now distant, and the warmth of home that feels like a beacon in the darkening twilight. Do you:  
 ##### Option Cards
-- Reach for a nearby fallen branch to offer the creature, hoping to appease its curiosity with a show of **Charity** and perhaps forge a bond. 
-- Step back slowly and close the chest in an act of **Temperance**, prioritizing safety over the tempting allure of the unknown. 
-- Confront the creature and demand it reveal its intentions with **Valor**, standing strong against the shadows encroaching on your childhood innocence. 
+- Reach for a nearby fallen branch to offer the creature, hoping to appease its curiosity with a show of **Charity** and perhaps forge a bond.   
+- Step back slowly and close the chest in an act of **Temperance**, prioritizing safety over the tempting allure of the unknown.   
+- Confront the creature and demand it reveal its intentions with **Valor**, standing strong against the shadows encroaching on your childhood innocence.   
 ##### Footer
-Time hangs heavy in the air as you stand at the crossroads of your fate, knowing your decision will echo far beyond this moment. What happens next is up to you.
+Time hangs heavy in the air as you stand at the crossroads of your fate, knowing your decision will echo far beyond this moment. What happens next is up to you.  
 
 #### Temperance, Perseverance, or Faith
-The sun hangs low in the sky, casting long shadows across the fields as you walk toward the edge of the woods. This familiar trail has always called to you, but today, it feels different, charged with an energy that quickens your heartbeat. Your fingers brush against the cool bark of the trees, and the whispers of the village echo in your mind—hidden warnings wrapped in stories told around flickering hearths.
-As you reach the clearing, your breath catches. Before you lies a circle of stones, ancient and worn, draped with ivy and moss, this is where the tales of old spoke of rituals long forgotten, where the boundary between the seen and unseen world blurs. Your curiosity, that ever-present companion, tugs at you with an urgency you cannot dismiss. The air vibrates with power, drawing you closer.
-Beyond the circle, you spot something that makes your blood run cold. A small child, no more than five summers old, has wandered into the area, eyes wide with wonder as they reach for one of the stones, unaware of the danger in a place steeped in ancient magic. Your heart leaps into your throat. How did he get here? You must act fast. Do you:
+The sun hangs low in the sky, casting long shadows across the fields as you walk toward the edge of the woods. This familiar trail has always called to you, but today, it feels different, charged with an energy that quickens your heartbeat. Your fingers brush against the cool bark of the trees, and the whispers of the village echo in your mind—hidden warnings wrapped in stories told around flickering hearths.  
+As you reach the clearing, your breath catches. Before you lies a circle of stones, ancient and worn, draped with ivy and moss, this is where the tales of old spoke of rituals long forgotten, where the boundary between the seen and unseen world blurs. Your curiosity, that ever-present companion, tugs at you with an urgency you cannot dismiss. The air vibrates with power, drawing you closer.  
+Beyond the circle, you spot something that makes your blood run cold. A small child, no more than five summers old, has wandered into the area, eyes wide with wonder as they reach for one of the stones, unaware of the danger in a place steeped in ancient magic. Your heart leaps into your throat. How did he get here? You must act fast. Do you:  
 ##### Option Cards
-- Rush forward, grasp the child by the hand, and pull them away, showing **Perseverance** as you navigate both their innocence and the encroaching shadows of the forest. 
-- Stand at the edge of the circle, calling out to them gently, urging them back with **Temperance**, keeping a calm voice despite the rising panic within you. 
-- Offer a prayer in **Faith** before rushing into the situation alone, believing in the strength of Loving Father to protect and guide you through this moment.
+- Rush forward, grasp the child by the hand, and pull them away, showing **Perseverance** as you navigate both their innocence and the encroaching shadows of the forest.   
+- Stand at the edge of the circle, calling out to them gently, urging them back with **Temperance**, keeping a calm voice despite the rising panic within you.   
+- Offer a prayer in **Faith** before rushing into the situation alone, believing in the strength of Loving Father to protect and guide you through this moment.  
 ##### Footer
-With the weight of voices whispering both fear and temptation, you stand at the edge of the circle, your heart racing, ready to make a choice that will ripple far beyond this day. What happens next is up to you.
+With the weight of voices whispering both fear and temptation, you stand at the edge of the circle, your heart racing, ready to make a choice that will ripple far beyond this day. What happens next is up to you.  
 
 
 ### Mary Sue Vanilla
@@ -533,6 +533,48 @@ the plain can hold a peace so deep,
 and strike a blaze of love to keep.  
 #### Starting SKills
 Bookish, Gifted with a Voice, Loves Animals, Prowler
+
+
+#### Humility, Valor, or Justice 
+As you play in the field, the sun warms your skin, and the laughter of your siblings rings like music in the air. You chase a butterfly, your bare feet dancing over the wildflowers that sway gently in the breeze. But then, a commotion draws your attention to the edge of the farm.   
+You glance over to see Elara in a heated discussion with a girl from the village who stands with hands balled into fists, frustration etched across her face. You can’t hear the words, but you can see Elara’s pale cheeks, her eyes wide with worry.   
+Your heart races; you want to help but feel small and unsure. You remember how Elara always defended and stood up for you against teasing. She seems to need that same protection now, but you’re just a child, barely taller than the daisies surrounding you.   
+In an attempt to approach, the girl notices you and scowls. “She’s not worth your time! Just look at her!” she snaps, her voice sharp, aiming to belittle. You can feel a fire ignite in your chest at her words.   
+A choice looms before you. Do you:  
+##### Option Cards
+- De-escalate the situation with kindness and defend Elara in an act of **Humility**, even if it earns you the bully's ire.  
+- Speak up, confront her, and defend Elara despite your small stature in a show of **Valor**.   
+- Confront the wrongness of her words with **Justice** and stand for what is right for both Elara and yourself.  
+##### Footer
+The moment hangs in the air, and you feel the weight of your decision pressing down on you. What happens next is up to you.  
+
+#### Charity, Temperance, or Faith
+You wander into the small clearing behind the barn, the air fragrant with wild roses. Sunlight filters through the leaves, casting playful shadows on the ground. As you pick at the petals, philosophical thoughts drift through your mind. You wonder why your sisters sparkle with life while you feel like a shadow—a dull reflection of joy.  
+Suddenly, a sharp cry breaks your reverie. You turn to see a small girl from the village, her face streaked with tears, crouched by the edge of a fallen tree. A scrawny calf, lost and frightened, stands beside her, its big eyes reflecting confusion. You recognize the girl; she’s usually brimming with laughter, but today, despair seems to swallow her whole.   
+As you approach cautiously, you hear her softly plead, “Please come back! You were never supposed to run away!” The calf seems oblivious to her distress, nibbling at the grass with an innocence that tugs at your heart.  
+You feel a pull in your chest, an urge to lighten her spirits, to help. But the girl’s situation seems complex. You could gently suggest a way to coax the calf back home, but you also know that she might need someone to listen and share this worry with. And then, there’s an urge to check your heart—to ensure that your desire to help doesn’t come from wanting to be seen as more than plain.   
+Now, you stand at a crossroads. Do you:
+##### Option Cards
+- Offer your support and comfort to the girl with **Charity**, letting her know she isn’t alone in her struggle.  
+- Encourage her to be patient, suggesting a calmer approach to coax the calf back with **Temperance**.  
+- Offer to pray with the girl to overcome this setback, lifting her spirits through unwavering **Faith** in Loving Father.  
+##### Footer
+The choice lies heavy in the air as you feel the weight of compassion stirs within you. What happens next is up to you.  
+
+#### Perseverance, Humility, or Faith 
+The sun hangs low in the sky, casting a warm, golden hue over the farm as you gather fresh herbs for dinner. The scent of thyme and rosemary fills the air, blending with the earthy notes of the ground. Your sisters’ laughter echoes from the nearby fields, a reminder of the joy surrounding you, even as you feel like an outsider in this vibrant tapestry of life.  
+Just as you take a deep breath, savoring the moment, you hear a commotion coming from the edge of the village. Intrigued, you set the basket of herbs aside and head toward the noise. As you approach, the scene unfolds, revealing a crowd of villagers gathered around the community well. Curious faces turn toward you, and you spot your younger brother standing at the center, his face flushed with frustration.   
+He gestures emphatically, trying to explain something, but the villagers look skeptical, their murmurs rising like a chorus of discontent. You feel a tightening in your chest, sensing the weight of their impatience pressing down on him. As you draw closer, you can see that he has been working on a project to help with the drought that’s plagued the island.   
+Suddenly, one villager raises a hand, dismissing him with a scoff. “It’s foolish to think your little plan can make any difference! Just give it up already!”   
+The words strike a chord in you, echoing the insecurities that linger in your heart. You glance at your brother, whose determination is beginning to falter under the harsh glare of judgment. He looks to you, seeking the strength that always shone brighter in your sisters’ laughter.  
+A choice weighs upon you. Do you:  
+##### Option Cards
+- Urge your brother to keep trying, encouraging him to demonstrate **Perseverance** in the face of doubt, believing steadfastly that he can make a difference.   
+- Step in and explain the merits of his project to the villagers, showing **Humility** by backing him up and lending him your voice to validate his efforts.   
+- Offer **Faith** in prayer to Loving Father to lift Benjamin and the villagers before igniting hope that they can all work together to combat the drought.  
+##### Footer
+The tension in the air is thick as you prepare to act. Your heart races and the eyes of the crowd are upon you, waiting for your decision. What happens next is up to you.  
+
 
 ## Keys
 Keys will open or close the door to new encounters.
